@@ -1,6 +1,4 @@
 
-
-```bash
 dfx deploy
 ```
 
