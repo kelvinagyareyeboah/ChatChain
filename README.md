@@ -1,7 +1,5 @@
 
-```bash
-dfx start --background
-```
+```b
 
 ### 4. Deploy Canisters
 
