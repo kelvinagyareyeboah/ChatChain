@@ -1,4 +1,4 @@
-uthent Motoko canister for persistent storage of users and messages.
+ for persistent storage of users and messages.
 - **Open Source**: Built with vanilla JavaScript, HTML, CSS, and Motoko for easy customization.
 
 ---
