@@ -1,5 +1,4 @@
 
-### 4. Deploy Canisters
 
 ```bash
 dfx deploy
