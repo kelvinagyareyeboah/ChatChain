@@ -1,6 +1,4 @@
 
-```b
-
 ### 4. Deploy Canisters
 
 ```bash
