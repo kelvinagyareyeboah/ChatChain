@@ -1,4 +1,3 @@
-avaScript, HTML, CSS, and Motoko for easy customization.
 
 ---
 
