@@ -1,4 +1,3 @@
-ion via Internet Identity, and persistent message storage in a Motoko canister.
 
 ---
 
