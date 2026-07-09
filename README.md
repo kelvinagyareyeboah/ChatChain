@@ -1,8 +1,4 @@
-js
-
----
-
-## ⚙️ Setup Instructions
+ructions
 
 ### 1. Clone the Repository
 
