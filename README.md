@@ -1,6 +1,4 @@
 
-npm install
-```
 
 ### 3. Start Local ICP Replica
 
