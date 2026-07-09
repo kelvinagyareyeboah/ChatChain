@@ -1,7 +1,6 @@
 s
 
-
-- **DFX SDK** (v0.15.0 or later):  
+:  
   ```bash
   sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
 
