@@ -1,4 +1,4 @@
-[Download](https://nodejs.org)
+[D
 * **npm**: Comes with Node.js
 * **Git**: For cloning the repo
 * **Internet Identity**: Use [https://identity.ic0.app](https://identity.ic0.app) or deploy a local instance
