@@ -1,6 +1,4 @@
-
-│   │   └── declarations/
-│   │       └── ChatChain
+hatChain
 │   │           └── ChatChain.js
 │   ├── backend/
 │   │   ├── main.mo
