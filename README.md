@@ -1,8 +1,6 @@
 hatChain
 │   │           └── ChatChain.js
-│   ├── backend/
-│   │   ├── main.mo
-│   │   └── canister_ids.json
+│   ister_ids.json
 ├── dfx.json
 ├── package.json
 ├── webpack.config.js
