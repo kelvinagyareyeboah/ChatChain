@@ -1,7 +1,4 @@
 
-
-### 3. Start Local ICP Replica
-
 ```bash
 dfx start --background
 ```
