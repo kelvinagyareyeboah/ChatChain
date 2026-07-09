@@ -1,8 +1,4 @@
-https://identity.ic0.app) or deploy a local instance
 
----
-
-## 📁 Project Structure
 
 ```
 ChatChain/
