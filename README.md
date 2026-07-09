@@ -1,7 +1,4 @@
 
-
-```
-ChatChain/
 ├── src/
 │   ├── frontend/
 │   │   ├── assets/
