@@ -1,7 +1,5 @@
 .
-In `src/frontend/assets/js/index.js`, replace:
-
-```js
+In `src/fronten
 const canisterId = 'YOUR_CANISTER_ID';
 ```
 
