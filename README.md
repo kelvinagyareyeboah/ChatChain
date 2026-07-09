@@ -1,4 +1,4 @@
-zed chat app features a modern, responsive user interface with real-time messaging, user authentication via Internet Identity, and persistent message storage in a Motoko canister.
+n, responsive user interface with real-time messaging, user authentication via Internet Identity, and persistent message storage in a Motoko canister.
 
 ---
 
