@@ -2,9 +2,7 @@ s
 
 :  
   ```bash
-  sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
-
-
+  sh -ci "$(curl -fsSL https://smartcontra
 * **Node.js**: Version 16 or later – [Download](https://nodejs.org)
 * **npm**: Comes with Node.js
 * **Git**: For cloning the repo
