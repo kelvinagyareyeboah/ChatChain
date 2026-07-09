@@ -1,6 +1,5 @@
 s
 
-Ensure the following are installed:
 
 - **DFX SDK** (v0.15.0 or later):  
   ```bash
