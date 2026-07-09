@@ -1,7 +1,4 @@
 
----
-
-## 🚀 Features
 
 - **Decentralized Messaging**: Send and receive messages stored securely on the ICP blockchain.
 - **User Authentication**: Register and authenticate users via Internet Identity.
