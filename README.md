@@ -1,6 +1,4 @@
 
-cd ChatChain
-```
 
 ### 2. Install Dependencies
 
