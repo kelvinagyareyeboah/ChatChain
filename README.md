@@ -1,5 +1,4 @@
-s
-│   │   ├── index.html
+
 │   │   └── declarations/
 │   │       └── ChatChain/
 │   │           ├── ChatChain.d.ts
