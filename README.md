@@ -1,4 +1,4 @@
-and frontend declarations.
+.
 
 ### 5. Update Canister ID
 
