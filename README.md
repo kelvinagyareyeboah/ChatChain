@@ -1,6 +1,5 @@
 hatChain
-│   │           └── ChatChain.js
-│   ister_ids.json
+│   │ 
 ├── 
 ├── webpack.config.js
 └── README.md
