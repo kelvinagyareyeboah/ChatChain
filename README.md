@@ -1,7 +1,4 @@
-
----
-
-## 🔧 Prerequisites
+s
 
 Ensure the following are installed:
 
