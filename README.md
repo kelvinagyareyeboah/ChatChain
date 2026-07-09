@@ -1,4 +1,3 @@
- Repository
 
 ```bash
 git clone <repository-url>
