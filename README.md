@@ -1,7 +1,6 @@
 
 │   │   └── declarations/
-│   │       └── ChatChain/
-│   │           ├── ChatChain.d.ts
+│   │       └── ChatChain
 │   │           └── ChatChain.js
 │   ├── backend/
 │   │   ├── main.mo
