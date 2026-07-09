@@ -1,4 +1,4 @@
- for perse**: Built with vanilla JavaScript, HTML, CSS, and Motoko for easy customization.
+avaScript, HTML, CSS, and Motoko for easy customization.
 
 ---
 
