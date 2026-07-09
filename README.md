@@ -1,6 +1,5 @@
+s
 
-
-### 2. Install Dependencies
 
 ```bash
 npm install
