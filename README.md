@@ -1,6 +1,4 @@
-hatChain
-│   │ 
-├── 
+
 ├── webpack.config.js
 └── README.md
 ```
