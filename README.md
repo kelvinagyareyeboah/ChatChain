@@ -1,7 +1,4 @@
 .
-
-### 5. Update Canister ID
-
 In `src/frontend/assets/js/index.js`, replace:
 
 ```js
