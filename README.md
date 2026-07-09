@@ -1,4 +1,4 @@
-ng, user authentication via Internet Identity, and persistent message storage in a Motoko canister.
+ion via Internet Identity, and persistent message storage in a Motoko canister.
 
 ---
 
