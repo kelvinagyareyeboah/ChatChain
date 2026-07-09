@@ -1,6 +1,4 @@
-
-
-- **Decentralized Messaging**: Send and receive messages stored securely on the ICP blockchain.
+saging**: Send and receive messages stored securely on the ICP blockchain.
 - **User Authentication**: Register and authenticate users via Internet Identity.
 - **Responsive UI**: A sleek, gradient-styled interface with a user list, chat window, and settings modal.
 - **Real-Time Updates**: Polls for new messages every 5 seconds to keep conversations fresh.
