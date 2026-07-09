@@ -1,6 +1,4 @@
-
-```bash
-git clone <repository-url>
+tory-url>
 cd ChatChain
 ```
 
