@@ -1,5 +1,4 @@
-.
-In `src/fronten
+
 const canisterId = 'YOUR_CANISTER_ID';
 ```
 
