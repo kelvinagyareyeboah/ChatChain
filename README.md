@@ -1,4 +1,4 @@
-tes `canister_ids.json` and frontend declarations.
+and frontend declarations.
 
 ### 5. Update Canister ID
 
