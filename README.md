@@ -1,4 +1,4 @@
-: Version 16 or later – [Download](https://nodejs.org)
+[Download](https://nodejs.org)
 * **npm**: Comes with Node.js
 * **Git**: For cloning the repo
 * **Internet Identity**: Use [https://identity.ic0.app](https://identity.ic0.app) or deploy a local instance
