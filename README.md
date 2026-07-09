@@ -1,6 +1,4 @@
-ructions
-
-### 1. Clone the Repository
+ Repository
 
 ```bash
 git clone <repository-url>
