@@ -1,4 +1,4 @@
- Use [https://identity.ic0.app](https://identity.ic0.app) or deploy a local instance
+https://identity.ic0.app) or deploy a local instance
 
 ---
 
