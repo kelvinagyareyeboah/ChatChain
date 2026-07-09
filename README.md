@@ -1,4 +1,4 @@
-zed chat application built on the Internet Computer (ICP), leveraging blockchain technology to provide a secure, scalable, and serverless messaging platform. The app features a modern, responsive user interface with real-time messaging, user authentication via Internet Identity, and persistent message storage in a Motoko canister.
+zed chat app features a modern, responsive user interface with real-time messaging, user authentication via Internet Identity, and persistent message storage in a Motoko canister.
 
 ---
 
