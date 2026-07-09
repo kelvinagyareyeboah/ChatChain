@@ -1,5 +1,4 @@
-
-├── webpack.config.js
+js
 └── README.md
 ```
 
