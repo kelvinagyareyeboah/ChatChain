@@ -1,8 +1,4 @@
-
-dfx deploy
-```
-
-This generates `canister_ids.json` and frontend declarations.
+tes `canister_ids.json` and frontend declarations.
 
 ### 5. Update Canister ID
 
