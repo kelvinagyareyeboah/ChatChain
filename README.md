@@ -1,11 +1,5 @@
 ory. Add pagination or archiving for production.
 * **Anonymous M
-
-## 🤝 Contributing
-
-Contribution
-git checkout -b feature/your-feature
-# Make changes
 git commit -m 'Add your feature'
 git push origin feature/your-feature
 ```
