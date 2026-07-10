@@ -1,7 +1,7 @@
 
 
 
-dfx generate ChatChain_backend
+dfx gChatChain_backend
 ```
 
 ### Frontend Bundling
