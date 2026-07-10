@@ -1,7 +1,6 @@
 
 
-
-Update `index.js` with the local Identity canister ID.
+al Identity canister ID.
 
 ### Regenerate Canister Bindings
 
