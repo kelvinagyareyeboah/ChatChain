@@ -1,6 +1,4 @@
 
-### Backend
-
 uter SDK (DFX)**
 
 ### Frontend
