@@ -1,6 +1,4 @@
-
-
-* **Private Mess Include recipient Principals in message types.
+e Mess Include recipient Principals in message types.
 * **Message Deletion/Pagination**: Add for scalability.
 * **File Uploads**: Store metadata (large files may need multiple canisters).
 
