@@ -1,6 +1,4 @@
 
-const canisterId = 'YOUR_CANISTER_ID';
-```
 
 with your actual backend canister ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
 
