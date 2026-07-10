@@ -1,8 +1,6 @@
 
 Visit:
-
-```
-https://<ChatChain_frontend_id>.icp0.io
+end_id>.icp0.io
 ```
 
 Or host the frontend statically (e.g., on Vercel) and point it to the backend.
