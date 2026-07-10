@@ -1,4 +1,4 @@
-Canister Bindings
+ings
 
 After modifying `main.mo`:
 
