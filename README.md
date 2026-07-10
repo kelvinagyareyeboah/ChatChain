@@ -1,5 +1,4 @@
-:
-es stored in-memory. Add pagination or archiving for production.
+ory. Add pagination or archiving for production.
 * **Anonymous M
 
 ## 🤝 Contributing
