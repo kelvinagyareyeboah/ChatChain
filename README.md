@@ -6,10 +6,7 @@ es stored in-memory. Add pagination or archiving for production.
 
 ## 🤝 Contributing
 
-Contributions are welcome!
-
-```bash
-# Fork the repo
+Contribution
 git checkout -b feature/your-feature
 # Make changes
 git commit -m 'Add your feature'
