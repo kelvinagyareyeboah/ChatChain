@@ -1,8 +1,5 @@
 ti – Internet Iderver` – Bundling
-* `html-webpack-plugin`, `css-loader`, `style-loader`, `copy-webpack-plugin` – Webpack setup
-* `font-awesome` – Icons (via CDN)
-
-Install all with:
+all with:
 
 ```bash
 npm install
