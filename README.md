@@ -1,8 +1,6 @@
 :
 es stored in-memory. Add pagination or archiving for production.
-* **Anonymous Messages**: Unregistered users can message. Enforce auth in `registerUser`.
-
----
+* **Anonymous M
 
 ## 🤝 Contributing
 
