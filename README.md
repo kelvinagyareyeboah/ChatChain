@@ -1,7 +1,4 @@
 
-
-### 3. Access the App
-
 Visit:
 
 ```
