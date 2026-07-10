@@ -1,14 +1,4 @@
-ory. Add pagination or archiving for production.
-* **Anonymous M
-git commit -m 'Add your feature'
-git push origin feature/your-feature
-```
 
-Then, open a **Pull Request** on GitHub.
-
----
-
-## 📄 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
