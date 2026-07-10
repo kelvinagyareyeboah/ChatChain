@@ -1,6 +1,4 @@
 
-```
-
 ### Frontend Bundling
 
 Webpack outputs to `dist/`. Ensure `webpack.config.js` includes `declarations/`.
