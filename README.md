@@ -1,5 +1,4 @@
-ti – Internet Identity authentication
-* `@dfinity/idcli`, `webpack-dev-server` – Bundling
+ti – Internet Iderver` – Bundling
 * `html-webpack-plugin`, `css-loader`, `style-loader`, `copy-webpack-plugin` – Webpack setup
 * `font-awesome` – Icons (via CDN)
 
