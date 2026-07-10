@@ -2,8 +2,6 @@ econds.
 
 ---
 
-## 🚢 Deployment to ICP Mainnet
-
 ### 1. Deploy to Mainnet
 
 ```bash
