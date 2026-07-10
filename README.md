@@ -1,5 +1,4 @@
 
-## 🧪 Test the App
 
 1. Open the app in a browser.
 2. Click the gear icon to log in using Internet Identity.
