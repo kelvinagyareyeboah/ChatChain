@@ -1,8 +1,6 @@
 
 
----
-
-## 🔄 Extending Functionality
+Functionality
 
 * **Private Messaging**: Include recipient Principals in message types.
 * **Message Deletion/Pagination**: Add for scalability.
