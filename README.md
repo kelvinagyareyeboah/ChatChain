@@ -1,4 +1,4 @@
-fig.jeclarations/`.
+/`.
 
 Set:
 
