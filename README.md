@@ -1,8 +1,4 @@
-
- 'htt
-
-```bash
-dfx start --clean --background
+clean --background
 ```
 
 ---
