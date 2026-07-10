@@ -1,5 +1,4 @@
 
-Use [https://identity.ic0.app](https://identity.ic0.app) for auth. For local testing:
 
 ```bash
 dfx deploy internet_identity --network local
