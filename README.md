@@ -1,5 +1,5 @@
 
-After moding `main.mo`:
+`main.mo`:
 
 ```bash
 dfx generate ChatChain_backend
