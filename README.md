@@ -1,6 +1,4 @@
 
-
-1. Open the app in a browser.
 2. Click the gear icon to log in using Internet Identity.
 3. Enter a username to register.
 4. Choose a user from the list to start a chat.
