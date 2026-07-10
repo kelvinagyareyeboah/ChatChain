@@ -1,7 +1,4 @@
 
-### 1. Deploy to Mainnet
-
-```bash
 dfx deploy --network ic
 ```
 
