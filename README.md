@@ -1,6 +1,4 @@
 
-## 📦 Dependencies
-
 ### Backend
 
 * **Motoko** (via DFX)
