@@ -1,6 +1,3 @@
-owser.
-
----
 
 ## 🧪 Test the App
 
