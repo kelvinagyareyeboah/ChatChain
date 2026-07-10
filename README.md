@@ -1,8 +1,7 @@
 
 ### Backend
 
-* **Motoko** (via DFX)
-* **Internet Computer SDK (DFX)**
+uter SDK (DFX)**
 
 ### Frontend
 
