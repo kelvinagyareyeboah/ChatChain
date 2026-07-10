@@ -1,5 +1,4 @@
-
-* `@dfinity/agent` – Canister interactions
+– Canister interactions
 * `@dfinity/auth-client` – Internet Identity authentication
 * `@dfinity/identity` – Principal management
 * `webpack`, `webpack-cli`, `webpack-dev-server` – Bundling
