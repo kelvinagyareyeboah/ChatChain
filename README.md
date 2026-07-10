@@ -1,6 +1,4 @@
 
-dfx deploy --network ic
-```
 
 ### 2. Update Canister ID & Host
 
