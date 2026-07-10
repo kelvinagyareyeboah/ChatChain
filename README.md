@@ -1,8 +1,5 @@
 
-Or host the frontend statically (e.g., on Vercel) and point it to the backend.
-
----
-
+Or host the frontend statically (e.g., on Vercel) and poin
 ## 🛠 Development Notes
 
 ### Internet Identity
