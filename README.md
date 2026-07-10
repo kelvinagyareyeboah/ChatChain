@@ -1,7 +1,4 @@
-
-
-
-dfx gChatChain_backend
+hain_backend
 ```
 
 ### Frontend Bundling
