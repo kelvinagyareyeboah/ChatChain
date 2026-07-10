@@ -1,4 +1,4 @@
-fig.js` includes `declarations/`.
+fig.jeclarations/`.
 
 ### Local Testing
 
