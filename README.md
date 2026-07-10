@@ -1,7 +1,4 @@
 
-Or host th
-### Internet Identity
-
 Use [https://identity.ic0.app](https://identity.ic0.app) for auth. For local testing:
 
 ```bash
