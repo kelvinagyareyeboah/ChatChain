@@ -1,7 +1,5 @@
 
-
-```js
-const host = 'http://127.0.0.1:4943';
+ 'http://127.0.0.1:4943';
 ```
 
 To reset local:
