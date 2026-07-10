@@ -1,6 +1,4 @@
- log in using Internet Identity.
-3. Enter a username to register.
-4. Choose a user fromd in the canister and polled every 5 seconds.
+ log in using In every 5 seconds.
 
 ---
 
