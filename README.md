@@ -1,8 +1,4 @@
-
-
-### 2. Update Canister ID & Host
-
-Update `index.js`:
+.js`:
 
 ```js
 const canisterId = 'YOUR_ic_CANISTER_ID';
