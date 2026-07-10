@@ -1,7 +1,5 @@
 fig.jeclarations/`.
 
-### Local Testing
-
 Set:
 
 ```js
