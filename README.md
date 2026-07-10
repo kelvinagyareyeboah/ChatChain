@@ -1,7 +1,4 @@
 
-uter SDK (DFX)**
-
-
 * `@dfinity/agent` – Canister interactions
 * `@dfinity/auth-client` – Internet Identity authentication
 * `@dfinity/identity` – Principal management
