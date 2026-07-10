@@ -1,8 +1,6 @@
 .js`:
 
-```js
-const canisterId = 'YOUR_ic_CANISTER_ID';
-const host = 'https://icp-api.io';
+
 ```
 
 ### 3. Access the App
