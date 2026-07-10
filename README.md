@@ -1,4 +1,4 @@
-ient Principals in meion**: Add for scalability.
+d for scalability.
 * **File Uploads**: Store metadata (large files may need multiple canisters).
 
 ---
