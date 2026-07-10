@@ -1,10 +1,7 @@
 :
 
 
-
----
-al-time. Explore PubSub when available.
-* **Static Online Status**: Users always appear "online." Improve via real-time tracking.
+**: Users always appear "online." Improve via real-time tracking.
 * **Memory Storage**: All messages stored in-memory. Add pagination or archiving for production.
 * **Anonymous Messages**: Unregistered users can message. Enforce auth in `registerUser`.
 
