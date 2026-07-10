@@ -1,4 +1,3 @@
-ings
 
 After modifying `main.mo`:
 
