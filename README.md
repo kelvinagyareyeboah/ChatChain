@@ -1,6 +1,4 @@
-er ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
 
----
 
 ## 🧪 Run the Frontend
 
