@@ -1,7 +1,5 @@
 
- 'http:/
-
-To reset local:
+ 'htt
 
 ```bash
 dfx start --clean --background
