@@ -1,7 +1,6 @@
 
 uter SDK (DFX)**
 
-### Frontend
 
 * `@dfinity/agent` – Canister interactions
 * `@dfinity/auth-client` – Internet Identity authentication
