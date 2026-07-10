@@ -1,7 +1,4 @@
-
-
-al Identity
-### Regenerate Canister Bindings
+generate Canister Bindings
 
 After modifying `main.mo`:
 
