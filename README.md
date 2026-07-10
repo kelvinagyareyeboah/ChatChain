@@ -1,4 +1,4 @@
-`dist/`. Ensure `webpack.config.js` includes `declarations/`.
+bpack.config.js` includes `declarations/`.
 
 ### Local Testing
 
