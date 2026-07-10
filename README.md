@@ -1,7 +1,4 @@
-.js`:
 
-
-```
 
 ### 3. Access the App
 
