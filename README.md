@@ -1,8 +1,5 @@
 
 
-```bash
-dfx deploy internet_identity --network local
-```
 
 Update `index.js` with the local Identity canister ID.
 
