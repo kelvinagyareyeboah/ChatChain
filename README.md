@@ -1,5 +1,4 @@
-
-Webpack outputs to `dist/`. Ensure `webpack.config.js` includes `declarations/`.
+`dist/`. Ensure `webpack.config.js` includes `declarations/`.
 
 ### Local Testing
 
