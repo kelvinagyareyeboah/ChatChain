@@ -1,6 +1,3 @@
-econds.
-
----
 
 ### 1. Deploy to Mainnet
 
