@@ -1,5 +1,3 @@
-d for scalability.
-* **File Uploads**: Store metadata (large files may need multiple canisters).
 
 ---
 
