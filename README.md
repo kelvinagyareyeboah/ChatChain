@@ -1,4 +1,4 @@
-bpack.config.js` includes `declarations/`.
+fig.js` includes `declarations/`.
 
 ### Local Testing
 
