@@ -1,5 +1,4 @@
-
- backend canister ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
+er ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
 
 ---
 
