@@ -1,4 +1,4 @@
-– Canister interacti – Internet Identity authentication
+ti – Internet Identity authentication
 * `@dfinity/idcli`, `webpack-dev-server` – Bundling
 * `html-webpack-plugin`, `css-loader`, `style-loader`, `copy-webpack-plugin` – Webpack setup
 * `font-awesome` – Icons (via CDN)
