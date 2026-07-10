@@ -1,4 +1,4 @@
-generate Canister Bindings
+Canister Bindings
 
 After modifying `main.mo`:
 
