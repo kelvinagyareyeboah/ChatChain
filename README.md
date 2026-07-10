@@ -1,6 +1,5 @@
 
-
-with your actual backend canister ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
+ backend canister ID (e.g., `'ryjl3-tyaaa-aaaaa-aaaba-cai'`).
 
 ---
 
