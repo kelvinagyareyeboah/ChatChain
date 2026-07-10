@@ -1,5 +1,4 @@
-ti – Internet Iderver` – Bundling
-all with:
+:
 
 ```bash
 npm install
