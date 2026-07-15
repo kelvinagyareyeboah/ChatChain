@@ -1,8 +1,7 @@
 
     threadId : ?Nat;
     roomId : Nat;
-    mentions : [Principal];
-    attachments : [Attachment];
+ts : [Attachment];
     messageType : MessageType;
     poll : ?Poll;
     metadata : ?Blob;
