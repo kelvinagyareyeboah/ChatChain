@@ -1,6 +1,4 @@
-
-
-    endsAt : ?Int;
+Int;
     voters : [Principal];
   };
   
