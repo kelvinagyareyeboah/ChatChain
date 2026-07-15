@@ -1,8 +1,4 @@
 
-    
-    r
-  
-    messageId : ?Nat;
     roomId : ?Nat;
     fromUser : ?Principal;
     content : Text;
