@@ -2,9 +2,7 @@
   private let users = HashMap.HashMap<Principal, User>(0, Principal.equal, Principal.hash);
   private let messages = HashMap.HashMap<Nat, Message>(0, Nat.equal, Hash.hash);
   private let rooms = HashMap.HashMap<Nat, ChatRoom>(0, Nat.equal, Hash.hash);
-  
-  private let userByUsername = TrieMap.TrieMap<Text, Principal>(Text.equal, Text.hash);
-  private let userRoomMembership = HashMap.HashMap<Principal, Buffer.Buffer<Nat>>(0, Principal.equal, Principal.hash);
+  hMap<Principal, Buffer.Buffer<Nat>>(0, Principal.equal, Principal.hash);
   private let roomMembers = HashMap.HashMap<Nat, Buffer.Buffer<Principal>>(0, Nat.equal, Hash.hash);
   private let messagesByRoom = HashMap.HashMap<Nat, Buffer.Buffer<Nat>>(0, Nat.equal, Hash.hash);
   
