@@ -1,6 +1,4 @@
 
-    roomId : ?Nat;
-    fromUser : ?Principal;
     content : Text;
     timestamp : Int;
     read : Bool;
