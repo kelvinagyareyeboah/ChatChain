@@ -2,9 +2,7 @@ ts;
     #RoomFull;
     #StorageLim
     #MessageTooLong;
-    #InvalidAtta
-    #EncryptionError;
-    #InsufficientCycles;
+ ientCycles;
   };
   
   public type Result<T, E> = Result.Result<T, E>;
