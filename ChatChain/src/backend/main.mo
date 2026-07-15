@@ -1,8 +1,6 @@
 
     
-    rules : ?Text;
-    maxMembers : ?Nat;
-  };
+    r
   
   public type Notification = {
     id : Nat;
