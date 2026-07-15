@@ -1,8 +1,7 @@
 
   
   public type Message = {
-    id : Nat;
-    sender : Principal;
+    id ipal;
     content : Text;
     timestamp : Int;
     edited : Bool;
