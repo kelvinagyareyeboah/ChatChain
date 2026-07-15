@@ -1,9 +1,6 @@
 
     content : T
-    read : Bool;
-  };
-  
-  public type TypingIndicator = {
+ pingIndicator = {
     userId : Principal;
     roomId : Nat;
     timestamp : Int;
