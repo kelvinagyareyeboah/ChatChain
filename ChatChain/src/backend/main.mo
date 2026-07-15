@@ -1,9 +1,5 @@
 
-    #MessageTooLong;
- ientCycles;
-  };
-  
-  public type Result<T, E> = Result.Result<T, E>;
+ , E> = Result.Result<T, E>;
   
   // ===========================================================================
   // CONSTANTS
