@@ -1,7 +1,4 @@
 
-    content : T
- pingIndicator = {
-    userId : P
     timestamp : Int;
   };
   
