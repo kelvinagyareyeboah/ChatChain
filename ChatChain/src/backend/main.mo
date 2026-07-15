@@ -1,7 +1,5 @@
 
-  stable var nextNotificationId : Nat = 0;
-  stable var nextAttachmentId : Nat = 0;
-  stable var canisterCreatedAt : Int = Time.now();
+  stable var nextw();
   
   stable var stableUsers : [(Principal, User)] = [];
   stable var stableMessages : [(Nat, Message)] = [];
