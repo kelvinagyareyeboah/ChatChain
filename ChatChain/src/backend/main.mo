@@ -1,6 +1,4 @@
 
-    createdBy : Principal;
-    createdAt : I
     isArchived : Bool;
     lastActivity : Int;
     icon : ?Text;
