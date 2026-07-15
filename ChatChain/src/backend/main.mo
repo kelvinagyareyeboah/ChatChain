@@ -1,12 +1,4 @@
-e.now();
-    it(userId : Principal) : Bool {
-      let now = Time.now();
-      cleanupIfNeeded(now);
-      
-      if (checkMessageInterval(userId, now)) return true;
-      if (checkDailyLimit(userId, now)) return true;
-      
-      false
+
     };
     
     private func checkMessageInterval(userId : Principal, now : Int) : Bool {
