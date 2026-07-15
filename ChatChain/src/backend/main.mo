@@ -1,5 +1,4 @@
 Type : MessageType;
-    poll : ?Poll;
     metadata : ?Blob;
     encryptionKey : ?Text;
   };
