@@ -1,6 +1,4 @@
 
-  // ===========================================================================
-  // RATE LIMITER
   // =========================
     let dailyMessageCount = TrieMap.TrieMap<Principal, (Int, Nat)>(Principal.equal, Principal.hash);
     let lastMessageTime = TrieMap.TrieMap<Principal, Int>(Principal.equal, Principal.hash);
