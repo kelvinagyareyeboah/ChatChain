@@ -1,8 +1,4 @@
-r<Nat>>(0, Principal.equal, Principal.hash);
-  private let roomMembers = HashMa
-  private let onlineUsersCache = TrieMap.TrieMap<Nat, [User]>(Nat.equal, Hash.hash);
-  private var lastCacheUpdate : Int = 0;
-  
+
   // ===========================================================================
   // RATE LIMITER
   // ===========================================================================
