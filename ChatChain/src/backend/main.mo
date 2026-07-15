@@ -1,5 +1,4 @@
 
-    de
     threadId : ?Nat;
     roomId : Nat;
     mentions : [Principal];
