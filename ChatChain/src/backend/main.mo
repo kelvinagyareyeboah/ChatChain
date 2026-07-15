@@ -1,7 +1,4 @@
-lt<T, E>;
-  
-  // ==========================================================
-  
+
   let EDIT_WINDOW_SECONDS : Int = 900; // 15 minutes
   let MAX_MESSAGE_LENGTH : Nat = 5000;
   let MAX_DISPLAY_NAME_LENGTH : Nat = 50;
