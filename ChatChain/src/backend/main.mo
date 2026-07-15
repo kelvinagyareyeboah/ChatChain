@@ -1,6 +1,4 @@
 00;Int = 10_000_000_000;
-  let NOTIFICATION_RETENTION_DAYS : Int = 30;
-  let DEFAULT_PAGE_SIZE : Nat = 50;
   let MAXCH_RESULTS : Nat = 100;
   let CACHE_TTL : Int = 30_000_000_000;
   let ONLINE_THRESHOLD : Int = 300_000_000_000; // 5 minutes
