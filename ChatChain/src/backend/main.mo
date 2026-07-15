@@ -1,8 +1,5 @@
 
-    timestamp : Int;
-  }
-    #NotFound;
-    #Invalid
+
     #Banned;
     #NoPermission;
     #AlreadyExists;
