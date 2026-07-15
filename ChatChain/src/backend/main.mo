@@ -1,5 +1,5 @@
 
-  let EDIT_WINDOW_SECONDS : Int = 900; // 15 minutes
+  let EDIT_WINDOW_SECOND 15 minutes
   let MAX_MESSAGE_LENt = 5000;
   let MESSAGE_RETENTION_DAYS : Int = 365;
   let MAX_PINNED_MESSAGES : Nat = 10;
