@@ -1,17 +1,4 @@
-
-    };
-    
-    private func checkMessageInterval(userId : Principal, now : Int) : Bool {
-      switch (lastMessageTime.get(userId)) {
-        case (?lastTime) if (now - lastTime < RATE_LIMIT_SECONDS * 1_000_000_000) true;
-        case _ {
-          lastMessageTime.put(userId, now);
-          false
-        };
-      }
-    };
-    
-    private func checkDailyLimit(userId : Principal, now : Int) : Bool {
+ : Bool {
       let dayStart = now - (now % (24 * 60 * 60 * 1_000_000_000));
       
       switch (dailyMessageCount.get(userId)) {
