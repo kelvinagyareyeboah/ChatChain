@@ -1,6 +1,4 @@
-Hash.hash);
-  private let rooms = HashMap.HashMap<Nat, ChatRoom>(0, Nat.equal, Hash.hash);
-  hMap<Principal, Buffer.Buffer<Nat>>(0, Principal.equal, Principal.hash);
+r<Nat>>(0, Principal.equal, Principal.hash);
   private let roomMembers = HashMap.HashMap<Nat, Buffer.Buffer<Principal>>(0, Nat.equal, Hash.hash);
   private let messagesByRoom = HashMap.HashMap<Nat, Buffer.Buffer<Nat>>(0, Nat.equal, Hash.hash);
   
