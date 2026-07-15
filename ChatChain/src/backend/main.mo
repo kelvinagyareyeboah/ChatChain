@@ -1,6 +1,5 @@
 
-    content : Text;
-    timestamp : Int;
+    content : T
     read : Bool;
   };
   
