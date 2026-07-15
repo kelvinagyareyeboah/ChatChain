@@ -1,7 +1,4 @@
-s
-ey : ?Text;
-  };
-  
+
   public type ChatRoom = {
     id : Nat;
     name : Text;
