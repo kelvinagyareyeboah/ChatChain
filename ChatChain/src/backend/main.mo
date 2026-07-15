@@ -1,8 +1,4 @@
-
-
-    #Banned;
-    #NoPermission;
-    #AlreadyExists;
+ts;
     #RoomFull;
     #StorageLimitExceeded;
     #UserBlocked;
