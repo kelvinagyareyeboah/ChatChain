@@ -1,9 +1,6 @@
 
     timestamp : Int;
-  };
-  
-  public type Error = {
-    #Unauthorized;
+  }
     #NotFound;
     #InvalidInput;
     #RateLimited;
