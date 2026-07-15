@@ -4,8 +4,7 @@
   
   public type Notification = {
     id : Nat;
-    userId : Principal;
-    type : NotificationType;
+    userId : Prie;
     messageId : ?Nat;
     roomId : ?Nat;
     fromUser : ?Principal;
