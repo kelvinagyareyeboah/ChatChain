@@ -1,7 +1,5 @@
 
-    isArchived : Bool;
-    lastActivity : Int;
-    icon : ?Text;
+    
     rules : ?Text;
     maxMembers : ?Nat;
   };
