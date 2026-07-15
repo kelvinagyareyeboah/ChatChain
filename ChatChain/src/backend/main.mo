@@ -1,6 +1,4 @@
 
-  stable var nextMessageId : Nat = 0;
-  stable var nextRoomId : Nat = 0;
   stable var nextNotificationId : Nat = 0;
   stable var nextAttachmentId : Nat = 0;
   stable var canisterCreatedAt : Int = Time.now();
