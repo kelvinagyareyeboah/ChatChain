@@ -2,8 +2,7 @@ ts;
     #RoomFull;
     #StorageLim
     #MessageTooLong;
-    #InvalidAttachment;
-    #PollEnded;
+    #InvalidAttachm
     #DuplicateVote;
     #EncryptionError;
     #InsufficientCycles;
