@@ -1,6 +1,4 @@
 
-  
-  public type Message = {
     id ipal;
     content : Text;
     timestamp : Int;
