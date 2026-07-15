@@ -1,7 +1,4 @@
-
-  let MAXCH_RESULTS : Nat = 100;
-  let CACHE_TTL : Int = 30_000_000_000;
-  let ONLINE_THRESHOLD : Int = 300_000_000_000; // 5 minutes
+00_000_000; // 5 minutes
   
   // ===========================================================================
   // STABLE STATE
