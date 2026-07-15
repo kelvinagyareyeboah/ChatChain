@@ -1,8 +1,7 @@
 
     id ipal;
     content : Text;
-    timestamp : Int;
-    edited : Bool;
+    timestamp : In
     deleted : Bool;
     pinned : Bool;
     reactions : [Reaction];
