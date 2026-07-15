@@ -1,7 +1,6 @@
 ts;
     #RoomFull;
-    #StorageLimitExceeded;
-    #UserBlocked;
+    #StorageLim
     #MessageTooLong;
     #InvalidAttachment;
     #PollEnded;
