@@ -1,7 +1,6 @@
 
     createdBy : Principal;
-    createdAt : Int;
-    messageCount : Nat;
+    createdAt : I
     isArchived : Bool;
     lastActivity : Int;
     icon : ?Text;
