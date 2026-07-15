@@ -1,7 +1,6 @@
 
     threadId : ?Nat;
-    roomId : Nat;
-ts : [Attachment];
+    ro
     messageType : MessageType;
     poll : ?Poll;
     metadata : ?Blob;
