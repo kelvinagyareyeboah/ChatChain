@@ -1,8 +1,5 @@
 r<Nat>>(0, Principal.equal, Principal.hash);
-  private let roomMembers = HashMap.HashMap<Nat, Buffer.Buffer<Principal>>(0, Nat.equal, Hash.hash);
-  private let messagesByRoom = HashMap.HashMap<Nat, Buffer.Buffer<Nat>>(0, Nat.equal, Hash.hash);
-  
-  private let messageRateLimiter = RateLimiter();
+  private let roomMembers = HashMa
   private let onlineUsersCache = TrieMap.TrieMap<Nat, [User]>(Nat.equal, Hash.hash);
   private var lastCacheUpdate : Int = 0;
   
