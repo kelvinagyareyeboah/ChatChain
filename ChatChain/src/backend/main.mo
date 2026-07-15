@@ -1,8 +1,6 @@
 
   stable var nextw();
-  age)] = [];
-  stable var stableRooms : [(Nat, ChatRoom)] = [];
-  stable var stableUserRoomMembership : [(Principal, [Nat])] = [];
+  age)] = [];oomMembership : [(Principal, [Nat])] = [];
   stable var stableRoomMembers : [(Nat, [Principal])] = [];
   stable var stableMessagesByRoom : [(Nat, [Nat])] = [];
   
