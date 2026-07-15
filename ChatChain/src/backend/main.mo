@@ -1,6 +1,5 @@
 pal, [Nat])] = [];
-  stable var stableRoomMembers : [(Nat, [Principal])] = [];
-  stable var stableMessagesByRoom : [(Nat, [Nat])] = [];
+  stable var stableRoomat])] = [];
   
   // ===========================================================================
   // STATE MANAGEMENT
