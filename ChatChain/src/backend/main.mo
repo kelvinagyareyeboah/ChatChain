@@ -2,8 +2,7 @@
     timestamp : Int;
   }
     #NotFound;
-    #InvalidInput;
-    #RateLimited;
+    #Invalid
     #Banned;
     #NoPermission;
     #AlreadyExists;
