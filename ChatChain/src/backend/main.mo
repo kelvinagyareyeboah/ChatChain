@@ -1,5 +1,4 @@
 
-    i
     deleted : Bool;
     pinned : Bool;
     reactions : [Reaction];
