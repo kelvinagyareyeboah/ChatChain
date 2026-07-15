@@ -1,7 +1,5 @@
 ===============================================
   // STABLE STATE
-  // ===========================================================================
-  
   stable var nextMessageId : Nat = 0;
   stable var nextRoomId : Nat = 0;
   stable var nextNotificationId : Nat = 0;
