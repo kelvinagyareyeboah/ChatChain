@@ -2,9 +2,6 @@
     
     r
   
-  public type Notification = {
-    id : Nat;
-    userId : Prie;
     messageId : ?Nat;
     roomId : ?Nat;
     fromUser : ?Principal;
