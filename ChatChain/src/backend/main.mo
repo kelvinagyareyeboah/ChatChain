@@ -1,6 +1,4 @@
-ts;
-    #RoomFull;
-    #StorageLim
+
     #MessageTooLong;
  ientCycles;
   };
