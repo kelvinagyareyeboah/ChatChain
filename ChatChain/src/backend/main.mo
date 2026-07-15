@@ -1,8 +1,5 @@
 
-    deleted : Bool;
-    pinned : Bool;
-    reactions : [Reaction];
-    replyTo : ?Nat;
+    de
     threadId : ?Nat;
     roomId : Nat;
     mentions : [Principal];
