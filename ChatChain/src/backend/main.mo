@@ -1,8 +1,7 @@
 
     content : T
  pingIndicator = {
-    userId : Principal;
-    roomId : Nat;
+    userId : P
     timestamp : Int;
   };
   
