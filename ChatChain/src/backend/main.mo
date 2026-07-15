@@ -1,8 +1,4 @@
 
-  // ===========================================================================
-  // STATE MANAGEMENT
-  // ===========================================================================
-  
   private let users = HashMap.HashMap<Principal, User>(0, Principal.equal, Principal.hash);
   private let messages = HashMap.HashMap<Nat, Message>(0, Nat.equal, Hash.hash);
   private let rooms = HashMap.HashMap<Nat, ChatRoom>(0, Nat.equal, Hash.hash);
