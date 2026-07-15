@@ -1,18 +1,4 @@
- : Bool {
-      let dayStart = now - (now % (24 * 60 * 60 * 1_000_000_000));
-      
-      switch (dailyMessageCount.get(userId)) {
-        case (?(lastDay, count)) {
-          if (lastDay == dayStart) {
-            if (count >= MAX_MESSAGES_PER_USER_PER_DAY) return true;
-            dailyMessageCount.put(userId, (dayStart, count + 1));
-          } else {
-            dailyMessageCount.put(userId, (dayStart, 1));
-          };
-        };
-        case null { dailyMessageCount.put(userId, (dayStart, 1)) };
-      };
-      
+
       false
     };
     
