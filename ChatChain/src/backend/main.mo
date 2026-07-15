@@ -1,6 +1,4 @@
 
-  public type C
-    name : Text;
     description : ?Text;
     roomType : ChatRoomType;
     moderators : [Principal];
