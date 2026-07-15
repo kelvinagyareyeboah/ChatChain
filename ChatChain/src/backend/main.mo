@@ -1,6 +1,5 @@
-Type : MessageType;
-    metadata : ?Blob;
-    encryptionKey : ?Text;
+s
+ey : ?Text;
   };
   
   public type ChatRoom = {
