@@ -1,6 +1,4 @@
 
-    roomType : ChatRoomType;
-    moderators : [Principal];
     createdBy : Principal;
     createdAt : Int;
     messageCount : Nat;
