@@ -1,5 +1,4 @@
 
-    description : ?Text;
     roomType : ChatRoomType;
     moderators : [Principal];
     createdBy : Principal;
