@@ -1,7 +1,4 @@
-cipal>(100);
-      
-      fo
-      for (userId in toRemove.vals()) lastMessageTime.delete(userId);
+lastMessageTime.delete(userId);
     };
   };
   
