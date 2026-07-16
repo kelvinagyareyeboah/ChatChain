@@ -1,7 +1,6 @@
 
     };
-    
-    Buffer.toArray(mentions)
+    tions)
   };
   
   private func updateUser(userId : Principal, updateFn : User -> User) {
