@@ -1,6 +1,4 @@
 
-      let toRemove = Buffer.Buffer<Principal>(100);
-      
       for ((userId, (lastDay, _)) in dailyMessageCount.entries()) {
         if (lastDay < dayAgo) toRemove.add(userId);
       };
