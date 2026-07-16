@@ -1,6 +1,4 @@
-ms.entries());
-    
-    stableUserRoomMembership := Iter.toArray(userRoomMembership.entries()
+rship := Iter.toArray(userRoomMembership.entries()
       .map(func ((p, b) : (Principal, Buffer.Buffer<Nat>)) : (Principal, [Nat]) { (p, Buffer.toArray(b)) }));
     
     stableRoomMembers := Iter.toArray(roomMembers.entries()
