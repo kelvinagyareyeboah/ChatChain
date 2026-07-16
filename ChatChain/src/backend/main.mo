@@ -1,5 +1,4 @@
-r.role == #Admininc
-          case (?until) user.banned and until > now();
+.banned and until > now();
           case null user.banned;
         }
       };
