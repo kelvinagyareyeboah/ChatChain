@@ -1,7 +1,6 @@
 
       cleanup
-      lastCleanup := now;
-    };
+      la
     
     private func cleanupDailyCounts(now : Int) {
       let dayAgo = now - (24 * 60 * 60 * 1_000_000_000);
