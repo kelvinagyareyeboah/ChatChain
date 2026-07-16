@@ -1,6 +1,5 @@
 
       i
-        switch (userByUsername.get(username)) {
           case (?userId) mentions.add(userId);
           case null {};
         };
