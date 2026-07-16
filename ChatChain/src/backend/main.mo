@@ -1,7 +1,6 @@
 
     
-    for ((roomId, arr) in stableRoomMembers.vals()) {
-      roomMembers.put(roomId, Buffer.fromArray<Principal>(arr));
+    for ((roomId, arr) in stableRoom>(arr));
     };
     
     for ((roomId, arr) in stableMessagesByRoom.vals()) {
