@@ -1,7 +1,4 @@
 
-  // ================================================
-  
-  system func preupgrade() {
     stableUsers := Iter.toArray(users.entries());
     stableMessages := Iter.toArray(messages.entries());
     stableRooms := Iter.toArray(rooms.entries());
