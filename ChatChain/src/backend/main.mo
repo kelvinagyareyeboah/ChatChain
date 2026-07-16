@@ -1,6 +1,5 @@
 
-    stableMessagesByRoom := Iter.toArray(messagesByRoom.entries()
-      .map(func ((roomId, b) : (Nat, Buffer.Buffer<Nat>)) : (Nat, [Nat]) { (roomId, Buffer.toArray(b)) }));
+    stabl b) : (Nat, Buffer.Buffer<Nat>)) : (Nat, [Nat]) { (roomId, Buffer.toArray(b)) }));
   };
   
   system func postupgrade() {
