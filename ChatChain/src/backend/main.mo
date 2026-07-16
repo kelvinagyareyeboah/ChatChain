@@ -1,7 +1,6 @@
 
   };
-  
-  private func extractMentions(text : Text) : [Principal] {
+  s(text : Text) : [Principal] {
     let words = Text.split(text, #char ' ');
     let mentions = Buffer.Buffer<Principal>(5);
     
