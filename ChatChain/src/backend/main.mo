@@ -1,6 +1,4 @@
-rship.vals()) {
-      userRoomMembership.put(p, Buffer.fromArray<Nat>(arr));
-    };
+
     
     for ((roomId, arr) in stableRoomMembers.vals()) {
       roomMembers.put(roomId, Buffer.fromArray<Principal>(arr));
