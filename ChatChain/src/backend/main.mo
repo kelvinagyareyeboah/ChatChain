@@ -1,9 +1,4 @@
 
-      cleanup
-      la
-    
-    private func cle
-60 * 60 * 1_000_000_000);
       let toRemove = Buffer.Buffer<Principal>(100);
       
       for ((userId, (lastDay, _)) in dailyMessageCount.entries()) {
