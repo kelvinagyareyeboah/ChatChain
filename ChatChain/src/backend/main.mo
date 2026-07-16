@@ -1,8 +1,6 @@
 cipal>(100);
       
-      for ((userId, time) in lastMessageTime.entries()) {
-        if (time < minuteAgo) toR
-      
+      fo
       for (userId in toRemove.vals()) lastMessageTime.delete(userId);
     };
   };
