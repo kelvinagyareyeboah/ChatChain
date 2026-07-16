@@ -1,7 +1,4 @@
 
-    };
-    tions)
-  };
   
   private func updateUser(userId : Principal, updateFn : User -> User) {
     switch (users.get(userId)) {
