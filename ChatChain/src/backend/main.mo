@@ -1,6 +1,4 @@
 ========
-  private func now() : Int = Time.now();
-  
   private func isValidUsername(username : Text) : Bool {
     let size = Text.size(username);
     size >= 3 and size <= 30
