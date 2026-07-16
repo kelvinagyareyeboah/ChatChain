@@ -1,8 +1,6 @@
 xt)ontains(name, #char '/')
   };
   
-  private func isAdmin(userId : Principal) : Bool {
-    switch (users.get(userId)) {
       case (?user) user.role == #Admin or user.role == #Owner;
       case null false;
     }
