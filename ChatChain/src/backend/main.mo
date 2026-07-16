@@ -1,6 +1,4 @@
-r.role == #Admin or user.role == #Owner;
-      case null false;
-    }
+
   };
   
   private func isModOrAdmin(userId : Principal) : Bool {
