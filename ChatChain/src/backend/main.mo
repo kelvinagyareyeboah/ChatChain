@@ -1,6 +1,5 @@
 
-    stableUsers := Iter.toArray(users.entries());
-    stableMessages := Iter.toArray(messages.entries());
+    stableUsers := Iter.ries());
     stableRooms := Iter.toArray(rooms.entries());
     
     stableUserRoomMembership := Iter.toArray(userRoomMembership.entries()
