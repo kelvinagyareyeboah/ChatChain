@@ -1,8 +1,5 @@
 
-  
-  private e != updated.username) {
-          userByUsername.delete(user.username);
-          userByUsername.put(updated.username, userId);
+  dated.username, userId);
         };
       };
       case null {};
