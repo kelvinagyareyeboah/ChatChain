@@ -1,5 +1,4 @@
-000;
-      let toRemove = Buffer.Buffer<Principal>(100);
+cipal>(100);
       
       for ((userId, time) in lastMessageTime.entries()) {
         if (time < minuteAgo) toRemove.add(userId);
