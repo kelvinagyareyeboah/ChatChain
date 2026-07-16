@@ -1,6 +1,4 @@
-xt) : Bool {_LENGTH
-    and not Text.contains(name, #char '@')
-    and not Text.contains(name, #char '/')
+xt)ontains(name, #char '/')
   };
   
   private func isAdmin(userId : Principal) : Bool {
