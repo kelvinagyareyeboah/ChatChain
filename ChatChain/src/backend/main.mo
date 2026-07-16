@@ -1,7 +1,4 @@
-xt)ontains(name, #char '/')
-  };
-  
-      case (?user) user.role == #Admin or user.role == #Owner;
+r.role == #Admin or user.role == #Owner;
       case null false;
     }
   };
