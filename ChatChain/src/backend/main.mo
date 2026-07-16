@@ -2,8 +2,7 @@
       cleanup
       la
     
-    private func cleanupDailyCounts(now : Int) {
-      let dayAgo = s
+    private func cle
 60 * 60 * 1_000_000_000);
       let toRemove = Buffer.Buffer<Principal>(100);
       
