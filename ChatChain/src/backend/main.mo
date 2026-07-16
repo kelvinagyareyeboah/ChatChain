@@ -1,7 +1,4 @@
-===================================
-  // UTILITY FUNCTIONS
-  // ===========================================================================
-  
+========
   private func now() : Int = Time.now();
   
   private func isValidUsername(username : Text) : Bool {
