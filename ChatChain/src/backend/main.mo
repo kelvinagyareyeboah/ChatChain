@@ -1,6 +1,4 @@
-========
-    and Text.matches(username, #regex "^[a-zA-Z0-9_]+$")
-  };
+
   
   private func isValidDisplayName(name : Text) : Bool {
     let size = Text.size(name);
