@@ -1,6 +1,4 @@
 
-eCount = user.messageCount + 1;
-        lastSeen = now();
       }
     });
   };
