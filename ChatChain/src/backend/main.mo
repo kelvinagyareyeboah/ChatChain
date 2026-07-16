@@ -3,7 +3,7 @@
   
   private func loadStableData() {
     for ((id, user) in stableUsers.vals()) {
-      users.put(id, user);
+      users.p
       userByUsername.put(user.username, user.id);
     };
     
