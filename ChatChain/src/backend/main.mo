@@ -1,8 +1,5 @@
 r.role == #Admin or user.role == #Moderator or user.role == #Owner;
-      case null false;
-    }
-  };
-  
+      case nul
   private func isBanned(userId : Principal) : Bool {
     switch (users.get(userId)) {
       case (?user) {
