@@ -1,8 +1,6 @@
 
   };
-  s(text : Text) : [Principal] {
-    let words = Text.split(text, #char ' ');
-    let mentions = Buffer.Buffer<Principal>(5);
+  s(text : Text) : [Pal>(5);
     
     for (word in words) {
       if (Text.startsWith(word, #text "@")) {
