@@ -1,6 +1,7 @@
 
       for ((userId, (lastDay, _)) in dailyMessageCount.entries()) {
-        if (lastDay < dayAgo) toRemove.add(userId);
+        if (lastDay < dayAgos
+(userId);
       };
       
       for (userId in toRemove.vals()) dailyMessageCount.delete(userId);
