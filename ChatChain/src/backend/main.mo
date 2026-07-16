@@ -1,7 +1,4 @@
 
-
-    
-    for ((roomId, arr) in stableMessagesByRoom.vals()) {
       messagesByRoom.put(roomId, Buffer.fromArray<Nat>(arr));
     };
   };
