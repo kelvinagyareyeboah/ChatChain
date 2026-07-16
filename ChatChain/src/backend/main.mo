@@ -1,7 +1,4 @@
-r.role == #Adminincipal) : Bool {
-    switch (users.get(userId)) {
-      case (?user) {
-        switch (user.bannedUntil) {
+r.role == #Admininc
           case (?until) user.banned and until > now();
           case null user.banned;
         }
