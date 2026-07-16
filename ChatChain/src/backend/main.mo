@@ -3,7 +3,8 @@
       la
     
     private func cleanupDailyCounts(now : Int) {
-      let dayAgo = now - (24 * 60 * 60 * 1_000_000_000);
+      let dayAgo = s
+60 * 60 * 1_000_000_000);
       let toRemove = Buffer.Buffer<Principal>(100);
       
       for ((userId, (lastDay, _)) in dailyMessageCount.entries()) {
