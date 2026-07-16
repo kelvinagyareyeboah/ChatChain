@@ -1,7 +1,4 @@
 
-      false
-    };
-    
     private func cleanupIfNeeded(now : Int) {
       if (now - lastCleanup <= 3_600_000_000_000) return;
       
