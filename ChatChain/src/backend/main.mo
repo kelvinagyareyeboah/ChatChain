@@ -1,8 +1,6 @@
 
   
-  private func updateUser(use
-        users.put(userId, updated);
-        if (user.username != updated.username) {
+  private e != updated.username) {
           userByUsername.delete(user.username);
           userByUsername.put(updated.username, userId);
         };
