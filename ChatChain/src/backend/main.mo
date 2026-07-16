@@ -1,8 +1,4 @@
 
-      }
-    });
-  };
-  
   private func updateRoomActivity(roomId : Nat) {
     switch (rooms.get(roomId)) {
       case (?room) {
