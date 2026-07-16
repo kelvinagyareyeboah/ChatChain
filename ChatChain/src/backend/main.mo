@@ -1,6 +1,4 @@
 
-      for ((userId, (lastDay, _)) in dailyMessageCount.entries()) {
-        if (lastDay < dayAgos
 (userId);
       };
       
