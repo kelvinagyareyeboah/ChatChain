@@ -1,6 +1,4 @@
 ========
-  private func isValidUsername(username : T
-    size >= 3 and size <= 30
     and Text.matches(username, #regex "^[a-zA-Z0-9_]+$")
   };
   
