@@ -1,13 +1,5 @@
 
-  dated.username, userId);
-        };
-    };
-  };
-  
-  private func incrementMessageCount(userId : Principal) {
-    updateUser(userId, func(user) { 
-      { user with 
-        messageCount = user.messageCount + 1;
+eCount = user.messageCount + 1;
         lastSeen = now();
       }
     });
