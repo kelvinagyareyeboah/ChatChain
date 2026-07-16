@@ -1,6 +1,4 @@
-xt) : Bool {
-    let size = Text.size(name);
-    size > 0 and size <= MAX_DISPLAY_NAME_LENGTH
+xt) : Bool {_LENGTH
     and not Text.contains(name, #char '@')
     and not Text.contains(name, #char '/')
   };
