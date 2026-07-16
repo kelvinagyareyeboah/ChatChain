@@ -1,8 +1,7 @@
 
     
     for (word in words) {
-      if (Text.startsWith(word, #text "@")) {
-        let username = Text.trimStart(word, #char '@');
+      if (Text.startsWithtart(word, #char '@');
         switch (userByUsername.get(username)) {
           case (?userId) mentions.add(userId);
           case null {};
