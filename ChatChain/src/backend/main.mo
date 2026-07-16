@@ -1,7 +1,4 @@
 
-      users.p
-      userByUsername.put(user.username, user.id);
-    };
     
     for ((id, message) in stableMessages.vals()) messages.put(id, message);
     for ((id, room) in stableRooms.vals()) rooms.put(id, room);
