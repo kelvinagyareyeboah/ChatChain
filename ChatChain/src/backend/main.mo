@@ -1,8 +1,7 @@
 t) {
       if (now - lastCleanup <= 3_600_000_000_000) return;
       
-      cleanupDailyCounts(now);
-      cleanupMessageTimes(now);
+      cleanup
       lastCleanup := now;
     };
     
