@@ -1,8 +1,4 @@
 
-        }
-      };
-      case null false;
-    }
   };
   
   private func extractMentions(text : Text) : [Principal] {
