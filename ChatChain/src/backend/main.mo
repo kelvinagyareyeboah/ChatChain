@@ -1,6 +1,4 @@
 
-(userId);
-      };
       
       for (userId in toRemove.vals()) dailyMessageCount.delete(userId);
     };
