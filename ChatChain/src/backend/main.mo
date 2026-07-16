@@ -1,7 +1,4 @@
-
-    
-    private func cleanupMessageTimes(now : Int) {
-      let minuteAgo = now - 60_000_000_000;
+000;
       let toRemove = Buffer.Buffer<Principal>(100);
       
       for ((userId, time) in lastMessageTime.entries()) {
