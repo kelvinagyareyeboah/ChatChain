@@ -1,6 +1,4 @@
-oArray(roomMembers.entries()
-      .map(func ((roomId, b) : (Nat, Buffer.Buffer<Principal>)) : (Nat, [Principal]) { (roomId, Buffer.toArray(b)) }));
-    
+
     stableMessagesByRoom := Iter.toArray(messagesByRoom.entries()
       .map(func ((roomId, b) : (Nat, Buffer.Buffer<Nat>)) : (Nat, [Nat]) { (roomId, Buffer.toArray(b)) }));
   };
