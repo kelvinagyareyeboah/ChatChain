@@ -1,5 +1,4 @@
-.banned and until > now();
-          case null user.banned;
+
         }
       };
       case null false;
