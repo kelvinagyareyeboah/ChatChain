@@ -1,7 +1,4 @@
 
-  syst
-  
-  p stableUsers.vals()) {
       users.p
       userByUsername.put(user.username, user.id);
     };
