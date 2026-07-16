@@ -1,6 +1,4 @@
 
-  };
-  s(text : Text) : [Pal>(5);
     
     for (word in words) {
       if (Text.startsWith(word, #text "@")) {
