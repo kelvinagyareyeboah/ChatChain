@@ -1,9 +1,6 @@
 
   
-  private func updateUser(userId : Principal, updateFn : User -> User) {
-    switch (users.get(userId)) {
-      case (?user) {
-        let updated = updateFn(user);
+  private func updateUser(use
         users.put(userId, updated);
         if (user.username != updated.username) {
           userByUsername.delete(user.username);
