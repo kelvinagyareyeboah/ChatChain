@@ -1,8 +1,6 @@
 
   dated.username, userId);
         };
-      };
-      case null {};
     };
   };
   
