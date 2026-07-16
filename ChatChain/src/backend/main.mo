@@ -1,6 +1,4 @@
-
-    
-    for ((p, arr) in stableUserRoomMembership.vals()) {
+rship.vals()) {
       userRoomMembership.put(p, Buffer.fromArray<Nat>(arr));
     };
     
