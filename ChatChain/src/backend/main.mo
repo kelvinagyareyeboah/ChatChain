@@ -1,7 +1,4 @@
 
-      
-      for (userId in toRemove.vals()) dailyMessageCount.delete(userId);
-    };
     
     private func cleanupMessageTimes(now : Int) {
       let minuteAgo = now - 60_000_000_000;
