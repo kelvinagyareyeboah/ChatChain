@@ -1,7 +1,5 @@
 
   };
-  
-  private func isModOrAdmin(userId : Principal) : Bool {
     switch (users.get(userId)) {
       case (?user) user.role == #Admin or user.role == #Moderator or user.role == #Owner;
       case null false;
