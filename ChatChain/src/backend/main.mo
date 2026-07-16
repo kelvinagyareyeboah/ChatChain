@@ -1,9 +1,4 @@
 
-      i
-          case (?userId) mentions.add(userId);
-          case null {};
-        };
-      };
     };
     
     Buffer.toArray(mentions)
