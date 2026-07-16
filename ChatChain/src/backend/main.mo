@@ -1,6 +1,4 @@
 
-    
-    for (word in words) {
       if (Text.startsWithtart(word, #char '@');
         switch (userByUsername.get(username)) {
           case (?userId) mentions.add(userId);
