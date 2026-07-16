@@ -1,7 +1,5 @@
 
-  system func postupgrade() {
-    loadStableData();
-  };
+  syst
   
   private func loadStableData() {
     for ((id, user) in stableUsers.vals()) {
