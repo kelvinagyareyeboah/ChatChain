@@ -1,8 +1,5 @@
 
     
-    for ((id, message) in stableMessages.vals()) messages.put(id, message);
-    for ((id, room) in stableRooms.vals()) rooms.put(id, room);
-    
     for ((p, arr) in stableUserRoomMembership.vals()) {
       userRoomMembership.put(p, Buffer.fromArray<Nat>(arr));
     };
