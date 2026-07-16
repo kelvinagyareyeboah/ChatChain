@@ -1,5 +1,4 @@
-Buffer.Buffer<Nat>)) : (Principal, [Nat]) { (p, Buffer.toArray(b)) }));
-    
+
     stableRoomMembers := Iter.toArray(roomMembers.entries()
       .map(func ((roomId, b) : (Nat, Buffer.Buffer<Principal>)) : (Nat, [Principal]) { (roomId, Buffer.toArray(b)) }));
     
