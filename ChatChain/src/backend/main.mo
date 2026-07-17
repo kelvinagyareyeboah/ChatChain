@@ -1,8 +1,6 @@
 
      
-  // ===========================================================================
-  
-  public shared ({ caller }) func registerUser(
+  // =====aller }) func registerUser(
     username : Text,
     displayName : Text,
     bio : ?Text
