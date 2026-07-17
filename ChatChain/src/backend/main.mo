@@ -1,5 +1,4 @@
-error = #InvalidInput; value = currentUsername } };
-      case (?username) {
+
         if (not isValidUsername(username)) {
           { valid = false; error = #InvalidInput; value = "" };
         } else if (username != currentUsername and userByUsername.get(username) != null) {
