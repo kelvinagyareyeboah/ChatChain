@@ -1,5 +1,4 @@
-r; value : Text } {
-    switch (newUsername) {
+ {
       case null { { valid = true; error = #InvalidInput; value = currentUsername } };
       case (?username) {
         if (not isValidUsername(username)) {
