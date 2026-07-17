@@ -1,7 +1,5 @@
 
-    let user : User = {
-      id = caller;
-      displayName = displayName;
+    let uayName;
       username = username;
       bio = bio;
       avatar = null;
