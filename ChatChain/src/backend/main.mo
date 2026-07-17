@@ -1,9 +1,4 @@
 
-          newPr
-      };
-    }
-  };
-  
   private func validateNewUsername(
     currentUsername : Text,
     newUsername : ?Text
