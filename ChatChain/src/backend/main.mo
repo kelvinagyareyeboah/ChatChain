@@ -1,6 +1,4 @@
 
-      
-          newStatus,
           newPr
         updateUser(caller, func(_) { updatedUser });
         #ok(updatedUser)
