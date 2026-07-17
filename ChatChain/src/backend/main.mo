@@ -1,6 +1,5 @@
 
-    
-    if (userByUsername.get(username) != null) {
+    (username) != null) {
       return #err(#AlreadyExists);
     };
     
