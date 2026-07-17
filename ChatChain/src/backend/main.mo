@@ -1,5 +1,4 @@
 
-      banned = false;
       bannedUntil = nul
       status = #Online;
       joined = nowTime;
