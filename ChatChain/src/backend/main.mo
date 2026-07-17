@@ -1,6 +1,5 @@
 
-  private func validateNewUsername(
-    currentUsername : Text,
+  private func val
     newUsername : ?Text
   ) : { valid : Bool; error : Error; value : Text } {
     switch (newUsername) {
