@@ -1,7 +1,5 @@
 
     newStatus : ?UserStatus,
-    newPreferences : ?UserPreferences
-  ) : async Result<User, Error> {
     
     switch (users.get(caller)) {
       case null #err(#NotFound);
