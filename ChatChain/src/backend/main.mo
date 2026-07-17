@@ -1,6 +1,4 @@
-);
-    userByUsername.p
-  };
+
   
   public shared ({ caller }) func updateProfile(
     newDisplayName : ?Text,
