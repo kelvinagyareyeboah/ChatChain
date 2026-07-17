@@ -1,5 +1,4 @@
-<K, Br<V> {
-    switch (map.get(key)) {
+et(key)) {
       case (?buffer) buffer;
       case null {
         let buffer = Buffer.Buffer<V>(capacity);
