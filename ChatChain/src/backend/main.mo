@@ -1,5 +1,4 @@
-
-    switch (rooms.get(roomId)) {
+roomId)) {
       case (?room) {
         rooms.put(roomId, {
           room with
