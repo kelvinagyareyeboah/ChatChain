@@ -1,5 +1,4 @@
- {
-      case null { { valid = true; error = #InvalidInput; value = currentUsername } };
+error = #InvalidInput; value = currentUsername } };
       case (?username) {
         if (not isValidUsername(username)) {
           { valid = false; error = #InvalidInput; value = "" };
