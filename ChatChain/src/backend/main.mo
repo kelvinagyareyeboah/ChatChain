@@ -1,7 +1,4 @@
  {
-          room with
-          messageCount = room.messageCount + 1;
-          lastActivity =
       };
       case null {};
     };
