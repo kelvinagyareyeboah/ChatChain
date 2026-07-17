@@ -1,7 +1,6 @@
 
       preferences 
         language = "en";
-        autoDeleteDMs = false;
         showReadReceipts = true;
       };
       isVerified = false;
