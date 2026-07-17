@@ -1,7 +1,4 @@
-
-    newStatus : ?UserStatus,
-    
-    switch (users.get(caller)) {
+caller)) {
       case null #err(#NotFound);
       case (?user) {
         if (isBanned(caller)) return #err(#Banned);
