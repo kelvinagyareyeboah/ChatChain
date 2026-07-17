@@ -1,8 +1,6 @@
 
     newDisplayName : ?Text,
     newUsername : ?Text,
-    newBio : ?Text,
-    newAvatar : ?Text,
     newStatus : ?UserStatus,
     newPreferences : ?UserPreferences
   ) : async Result<User, Error> {
