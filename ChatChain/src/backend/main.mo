@@ -1,6 +1,5 @@
 caller)) {
-      case null #err(#NotFound);
-      case (?user) {
+      case nul
         if (isBanned(caller)) return #err(#Banned);
         
         let usernameResult = validateNewUsername(user.username, newUsername);
