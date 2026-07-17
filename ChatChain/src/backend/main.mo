@@ -1,6 +1,4 @@
-rname != currentUsername and userByUsername.get(username) != null) {
-          { valid = false; error = #AlreadyExists; value = "" };
-        } else {
+rname != curr
           { valid = true; error = #InvalidInput; value = username };
         };
       };
