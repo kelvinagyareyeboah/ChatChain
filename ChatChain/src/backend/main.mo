@@ -1,5 +1,4 @@
-meResult.valid) return #err(displayNameResult.error);
-        
+
         let updatedUser = createUpdatedUser(
           user,
           displayNameResult.value,
