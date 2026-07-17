@@ -1,5 +1,4 @@
 
-        messages.delete(id);
       };
     };
   };
