@@ -1,6 +1,4 @@
 
-          user,
-          displayNameResult.value,
           usernameResult.value,
           newBio,
           newAvatar,
