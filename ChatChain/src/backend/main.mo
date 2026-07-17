@@ -1,5 +1,4 @@
 
-      joined = nowTime;
       messageCount = 0;
       reputation = 0;
       preferences = {
