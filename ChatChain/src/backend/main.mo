@@ -1,4 +1,3 @@
-return #err(#Banned);
 
         let displayNameResult = validateDisplayName(newDisplayName);
         if (not displayNameResult.valid) return #err(displayNameResult.error);
