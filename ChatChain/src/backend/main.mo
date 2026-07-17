@@ -1,4 +1,4 @@
-roomId)) {
+
       case (?room) {
         rooms.put(roomId, {
           room with
