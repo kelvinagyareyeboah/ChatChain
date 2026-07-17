@@ -1,5 +1,4 @@
 
-        let updatedUser = createUpdatedUser(
           user,
           displayNameResult.value,
           usernameResult.value,
