@@ -1,8 +1,5 @@
 return #err(#Banned);
-        
-        let usernameResult = validateNewUsername(user.username, newUsername);
-        if (not usernameResult.valid) return #err(usernameResult.error);
-        
+
         let displayNameResult = validateDisplayName(newDisplayName);
         if (not displayNameResult.valid) return #err(displayNameResult.error);
         
