@@ -1,5 +1,4 @@
 
-        if (not isValidUsername(username)) {
           { valid = false; error = #InvalidInput; value = "" };
         } else if (username != currentUsername and userByUsername.get(username) != null) {
           { valid = false; error = #AlreadyExists; value = "" };
