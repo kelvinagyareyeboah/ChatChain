@@ -1,7 +1,5 @@
 
-      preferences = {
-        theme = "dark";
-        notifications = true;
+      preferences 
         language = "en";
         autoDeleteDMs = false;
         showReadReceipts = true;
