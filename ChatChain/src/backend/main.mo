@@ -1,5 +1,4 @@
-unc registerUser(
-    username : Text,
+unc regist
     displayName : Text,
     bio : ?Text
   ) : async Result<User, Error> {
