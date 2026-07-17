@@ -1,7 +1,4 @@
 
-      return #err(#AlreadyExists);
-    };
-    
     let nowTime = now();
     let role = if (users.size() == 0) #Owner else #User;
     
