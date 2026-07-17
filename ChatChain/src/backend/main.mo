@@ -1,9 +1,6 @@
 
       preferences 
-        language = "en";
-        showReadReceipts = true;
-      };
-      isVerified = false;
+        language = "en
     };
     
     users.put(caller, user);
