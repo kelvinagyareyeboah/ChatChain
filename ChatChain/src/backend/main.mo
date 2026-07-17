@@ -1,7 +1,4 @@
 
-      preferences 
-        language = "en
-    };
     
     users.put(caller, user);
     userByUsername.put(username, caller);
