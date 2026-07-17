@@ -1,6 +1,4 @@
-
-  };fer<K, V>(
-    map : HashMap.HashMap<K, Buffer.Buffer<V>>,
+<K, Buffer.Buffer<V>>,
     key : K,
     capacity : Nat
   ) : Buffer.Buffer<V> {
