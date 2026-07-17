@@ -1,6 +1,5 @@
 
-    let uayName;
-      username = username;
+    let 
       bio = bio;
       avatar = null;
       role = role;
