@@ -1,6 +1,4 @@
-<K, Buffe
-    capacity : Nat
-  ) : Buffer.Buffer<V> {
+<K, Br<V> {
     switch (map.get(key)) {
       case (?buffer) buffer;
       case null {
