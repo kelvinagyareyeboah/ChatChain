@@ -1,6 +1,4 @@
 
-      avatar = null;
-      role = role;
       banned = false;
       bannedUntil = null;
       lastSeen = nowTime;
