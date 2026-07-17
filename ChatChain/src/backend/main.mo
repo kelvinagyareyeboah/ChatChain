@@ -1,7 +1,6 @@
 
       banned = false;
-      bannedUntil = null;
-      lastSeen = nowTime;
+      bannedUntil = nul
       status = #Online;
       joined = nowTime;
       messageCount = 0;
