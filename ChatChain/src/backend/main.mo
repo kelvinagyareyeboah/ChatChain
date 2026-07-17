@@ -1,6 +1,4 @@
-
-    let nowTime = now();
-    let role = if (users.size() == 0) #Owner else #User;
+ 0) #Owner else #User;
     
     let user : User = {
       id = caller;
