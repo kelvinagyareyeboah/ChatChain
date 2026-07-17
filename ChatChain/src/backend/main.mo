@@ -1,6 +1,4 @@
 
-    if (not isVaidInput);
-    };
     
     if (users.get(caller) != null) {
       return #err(#AlreadyExists);
