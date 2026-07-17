@@ -1,5 +1,4 @@
-
-        rooms.put(roomId, {
+ {
           room with
           messageCount = room.messageCount + 1;
           lastActivity = now();
