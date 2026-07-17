@@ -1,8 +1,6 @@
 
       case null {
-        let buffer = Buffer.Buffer<V>(c
-        buffer
-      };
+        let buffer = Buf
     }
   };
   
