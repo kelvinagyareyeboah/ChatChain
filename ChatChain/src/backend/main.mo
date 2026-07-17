@@ -1,6 +1,4 @@
-
-     
-  // =====aller }) func registerUser(
+unc registerUser(
     username : Text,
     displayName : Text,
     bio : ?Text
