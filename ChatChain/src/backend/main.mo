@@ -1,5 +1,4 @@
-
-        let displayNameResult = validateDisplayName(newDisplayName);
+DisplayName(newDisplayName);
         if (not displayNameResult.valid) return #err(displayNameResult.error);
         
         let updatedUser = createUpdatedUser(
