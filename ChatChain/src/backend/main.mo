@@ -1,6 +1,4 @@
 
-    let 
-      bio = bio;
       avatar = null;
       role = role;
       banned = false;
