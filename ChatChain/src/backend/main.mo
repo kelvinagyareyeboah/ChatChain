@@ -1,5 +1,4 @@
 
-    (username) != null) {
       return #err(#AlreadyExists);
     };
     
