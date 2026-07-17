@@ -1,7 +1,6 @@
 
     
-    if (users.get(caller) != null) {
-      return #err(#AlreadyExists);
+    if (users.get(cs);
     };
     
     if (userByUsername.get(username) != null) {
