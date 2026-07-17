@@ -1,5 +1,4 @@
-unc regist
-    displayName : Text,
+unc registt,
     bio : ?Text
   ) : async Result<User, Error> {
     
