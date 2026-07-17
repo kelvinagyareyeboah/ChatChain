@@ -1,6 +1,4 @@
-
-    for ((id, msg) in messages.entries()) {
-      if (msg.timestamp < cutoff and not msg.pinned) {
+g.pinned) {
         messages.delete(id);
       };
     };
