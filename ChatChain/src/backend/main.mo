@@ -1,6 +1,4 @@
 
-  private func val
-    newUsername : ?Text
   ) : { valid : Bool; error : Error; value : Text } {
     switch (newUsername) {
       case null { { valid = true; error = #InvalidInput; value = currentUsername } };
