@@ -1,4 +1,4 @@
- {{
+
     let cutoff = now() - (MESSAGE_RETENTION_DAYS * 24 * 60 * 60 * 1_000_000_000);
     
     for ((id, msg) in messages.entries()) {
