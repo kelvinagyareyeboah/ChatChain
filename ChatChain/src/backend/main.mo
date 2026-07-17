@@ -1,6 +1,4 @@
-caller)) {
-      case nul
-        if (isBanned(caller)) return #err(#Banned);
+csBanned(caller)) return #err(#Banned);
         
         let usernameResult = validateNewUsername(user.username, newUsername);
         if (not usernameResult.valid) return #err(usernameResult.error);
