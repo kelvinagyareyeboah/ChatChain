@@ -1,6 +1,4 @@
 
-      };
-    };
   };
   
   private func getOrCreateBuffer<K, V>(
