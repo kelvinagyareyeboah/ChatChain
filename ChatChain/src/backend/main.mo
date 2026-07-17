@@ -1,5 +1,4 @@
- 0) #Owner else #User;
-    
+
     let user : User = {
       id = caller;
       displayName = displayName;
