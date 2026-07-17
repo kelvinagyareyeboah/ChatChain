@@ -1,7 +1,6 @@
 r, Error> {
     
-    if (not isValidUsername(username) or not isValidDisplayName(displayName)) {
-      return #err(#InvalidInput);
+    if (not isVaidInput);
     };
     
     if (users.get(caller) != null) {
