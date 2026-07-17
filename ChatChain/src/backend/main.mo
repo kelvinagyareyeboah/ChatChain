@@ -1,6 +1,4 @@
 
-      bannedUntil = nul
-      status = #Online;
       joined = nowTime;
       messageCount = 0;
       reputation = 0;
