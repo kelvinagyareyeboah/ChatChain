@@ -1,4 +1,4 @@
-ffer) buffer;
+
       case null {
         let buffer = Buffer.Buffer<V>(capacity);
         map.put(key, buffer);
