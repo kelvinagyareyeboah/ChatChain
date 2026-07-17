@@ -1,5 +1,4 @@
-<K, Buffer.Buffer<V>>,
-    key : K,
+<K, Buffe
     capacity : Nat
   ) : Buffer.Buffer<V> {
     switch (map.get(key)) {
