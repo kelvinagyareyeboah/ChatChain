@@ -1,8 +1,5 @@
 
     
-    if (users.get(cs);
-    };
-    
     if (userByUsername.get(username) != null) {
       return #err(#AlreadyExists);
     };
