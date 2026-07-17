@@ -1,6 +1,4 @@
-
-  
-  public shared ({ caller }) func updateProfile(
+unc updateProfile(
     newDisplayName : ?Text,
     newUsername : ?Text,
     newBio : ?Text,
