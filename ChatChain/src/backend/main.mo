@@ -1,6 +1,4 @@
-
-    
-    users.put(caller, user);
+);
     userByUsername.put(username, caller);
     
     #ok(user)
