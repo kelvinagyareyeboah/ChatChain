@@ -1,6 +1,4 @@
-unc registt,
-    bio : ?Text
-  ) : async Result<User, Error> {
+r, Error> {
     
     if (not isValidUsername(username) or not isValidDisplayName(displayName)) {
       return #err(#InvalidInput);
