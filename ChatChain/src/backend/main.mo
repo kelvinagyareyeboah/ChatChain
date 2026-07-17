@@ -1,7 +1,5 @@
 );
-    userByUsername.put(username, caller);
-    
-    #ok(user)
+    userByUsername.p
   };
   
   public shared ({ caller }) func updateProfile(
