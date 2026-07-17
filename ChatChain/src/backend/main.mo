@@ -1,7 +1,5 @@
 
-          usernameResult.value,
-          newBio,
-          newAvatar,
+      
           newStatus,
           newPreferences
         );
