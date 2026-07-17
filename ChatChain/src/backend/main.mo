@@ -1,5 +1,4 @@
 
-      reputation = 0;
       preferences = {
         theme = "dark";
         notifications = true;
