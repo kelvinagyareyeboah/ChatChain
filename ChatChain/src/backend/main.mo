@@ -1,4 +1,4 @@
-unc updateProfile(
+
     newDisplayName : ?Text,
     newUsername : ?Text,
     newBio : ?Text,
