@@ -1,6 +1,4 @@
-OrCreateBuffer(r
-    
-    messagesByRoom.put(roomId, Buffer.Buffer<Nat>(100));
+(roomId, Buffer.Buffer<Nat>(100));
   };
   
   public shared ({ caller }) func joinRoom(roomId : Nat) : async Result<Bool, Error> {
