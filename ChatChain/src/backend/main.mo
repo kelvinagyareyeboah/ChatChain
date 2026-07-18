@@ -1,6 +1,4 @@
 
-    var count : Nat = 0;
-    
     for (user in users.vals()) {
       if (matchesUserQuery(user, lowerQuery)) {
         if (count >= offset and results.size() < limit) {
