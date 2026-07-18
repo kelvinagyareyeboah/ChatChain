@@ -1,5 +1,4 @@
-Error; value : Text } {
-    switch (newDisplayName) {
+ame) {
       case null { { valid = true; error = #InvalidInput; value = "" } };
       case (?name) {
         if (not isValidDisplayName(name)) {
