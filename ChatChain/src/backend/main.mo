@@ -1,9 +1,6 @@
 
 
-    
-  
-  private func matchesUserQuery(user : User, query : Texuery)
-    or Text.contains(Text.map(user.displayName, Prim.charToLower), #text query)
+    me, Prim.charToLower), #text query)
   };
   
   private func paginateArray<T>(array : [T], limit : Nat, offset : Nat) : [T] {
