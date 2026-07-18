@@ -1,5 +1,4 @@
-Id : Nat) {
-    let userBuffer = getOrCreateBuffer(userRoomMembership, userId, 5);
+Id : Nat) {ffer(userRoomMembership, userId, 5);
     userBuffer.add(roomId);
     
     let roomBuffer = getOrCreateBuffer(roomMembers, roomId, 10);
