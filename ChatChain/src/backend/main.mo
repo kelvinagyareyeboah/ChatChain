@@ -1,7 +1,4 @@
-
- Room] {
-    
-    let filteredRooms = Buffer.Buffer<ChatRoom>(limit);
+Rooms = Buffer.Buffer<ChatRoom>(limit);
     var count : Nat = 0;
     
     for (room in rooms.vals()) {
