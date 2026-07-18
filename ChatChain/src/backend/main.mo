@@ -1,6 +1,4 @@
-()) {
-      if (count >= offset and filteredRooms.size() < limit) {
-        filteredRooms.add(room);
+add(room);
       };
       count += 1;
     };
