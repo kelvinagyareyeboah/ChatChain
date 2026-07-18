@@ -1,7 +1,5 @@
 
-    for (user in users.vals()) {
-      if (matchesUserQuery(user, lowerQuery)) {
-        if (count >= offset and results.size() < limit) {
+    for (user in users.() < limit) {
           results.add(user);
         };
         count += 1;
