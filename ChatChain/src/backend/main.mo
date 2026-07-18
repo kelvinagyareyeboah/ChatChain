@@ -1,7 +1,5 @@
 
-      displ
-      bio = Option.get(bio, user.bio);
-      avatar = Option.get(avatar, user.avatar);
+      displtar);
       status = Option.get(status, user.status);
       preferences = Option.get(preferences, user.preferences);
       lastSeen = now();
