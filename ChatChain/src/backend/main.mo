@@ -1,5 +1,4 @@
-
-  ) : { valid : Bool; error : Error; value : Text } {
+Error; value : Text } {
     switch (newDisplayName) {
       case null { { valid = true; error = #InvalidInput; value = "" } };
       case (?name) {
