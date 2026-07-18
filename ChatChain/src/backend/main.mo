@@ -1,8 +1,7 @@
 ===================================================================
   
   public shared ({ caller }) func createRoom(
-    name : Text,
-    description : ?Text,
+    name :
     roomType : ChatRoomType,
     icon : ?Text,
     rules : ?Text,
