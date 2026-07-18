@@ -2,9 +2,7 @@
 
     me, Prim.charToLower), #text query)
   };
-  
-  private func paginateArray<T>(array : [T], limit : Nat, offset : Nat) : [T] {
-    let start = Nat.min(offset, array.size());
+  ;
     let end = Nat.min(start + limit, array.size());
     Array.tabulate(end - start, func(i) { array[start + i] })
   };
