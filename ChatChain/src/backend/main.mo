@@ -1,8 +1,5 @@
 
-    for (user in users.() < limit) {
-          result
-      };
-    };
+
     
     Buffer.toArray(results)
   };
