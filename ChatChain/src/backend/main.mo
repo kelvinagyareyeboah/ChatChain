@@ -1,7 +1,5 @@
 
-    limit : Nat,
-    offset : Nat
-  ) : async [ChatRoom] {
+ Room] {
     
     let filteredRooms = Buffer.Buffer<ChatRoom>(limit);
     var count : Nat = 0;
