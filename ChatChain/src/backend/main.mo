@@ -1,6 +1,4 @@
-l(roomId : Nat, maxMembers 
-    }
-  };
+
   
   public query func getRooms(
     roomType : ?ChatRoomType,
