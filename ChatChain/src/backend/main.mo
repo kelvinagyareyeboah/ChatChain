@@ -1,6 +1,4 @@
 
-  
-    newDisplayName : ?Text
   ) : { valid : Bool; error : Error; value : Text } {
     switch (newDisplayName) {
       case null { { valid = true; error = #InvalidInput; value = "" } };
