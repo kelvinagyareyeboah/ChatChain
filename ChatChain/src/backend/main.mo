@@ -1,7 +1,6 @@
 
   private func creat
-    description : ?Text,
-    roomType : ChatRoomType,
+    descrip
     icon : ?Text,
     rules : ?Text,
     maxMembers : ?Nat,
