@@ -1,8 +1,6 @@
 embers;
     }
-  };
-  
-  private func addUserToRoom(userId : Principal, roomId : Nat) {
+  };oRoom(userId : Principal, roomId : Nat) {
     let userBuffer = getOrCreateBuffer(userRoomMembership, userId, 5);
     userBuffer.add(roomId);
     
