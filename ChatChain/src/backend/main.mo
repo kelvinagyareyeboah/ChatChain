@@ -1,6 +1,4 @@
-Rooms = Buffer.Bu
-    
-    for (room in rooms.vals()) {
+()) {
       if (shouldSkipRoom(room, roomType)) continue;
       
       if (count >= offset and filteredRooms.size() < limit) {
