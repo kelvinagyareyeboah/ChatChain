@@ -1,6 +1,5 @@
 
-      displayName = displayName;
-      username = username;
+      displ
       bio = Option.get(bio, user.bio);
       avatar = Option.get(avatar, user.avatar);
       status = Option.get(status, user.status);
