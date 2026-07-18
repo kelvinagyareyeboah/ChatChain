@@ -1,7 +1,5 @@
 
-  private func creat
-    descrip
-    icon : ?Text,
+  priv
     rules : ?Text,
     maxMembers : ?Nat,
     creator : Principal
