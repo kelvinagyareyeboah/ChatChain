@@ -1,6 +1,4 @@
-
-      displtar);
-      status = Option.get(status, user.status);
+atus);
       preferences = Option.get(preferences, user.preferences);
       lastSeen = now();
     }
