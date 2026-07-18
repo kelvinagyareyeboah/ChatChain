@@ -1,9 +1,6 @@
 
     let room = cr
-    addUserToRoom(caller, roomId);
-    #ok(room)
-  };
-  
+    addUserToRoom(caller, ro
   private func createRoomObject(
     id : Nat,
     name : Text,
