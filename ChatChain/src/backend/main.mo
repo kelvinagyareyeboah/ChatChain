@@ -1,8 +1,4 @@
 
-    preferences : ?UserPreferences
-  ) : User {
-    {
-      user with
       displayName = displayName;
       username = username;
       bio = Option.get(bio, user.bio);
