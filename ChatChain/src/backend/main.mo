@@ -1,5 +1,4 @@
-unc createRoom(
-   
+
     rules : ?Text,
     maxMembers : ?Nat
   ) : async Result<ChatRoom, Error> {
