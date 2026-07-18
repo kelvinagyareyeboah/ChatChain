@@ -1,6 +1,4 @@
 
-  
-  private func createUpdatedUs
     bio : ?Text,
     avatar : ?Text,
     status : ?UserStatus,
