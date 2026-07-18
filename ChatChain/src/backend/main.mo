@@ -1,7 +1,4 @@
 
-  public query func searchUsers(
-    query : Text,
-    limit : Nat,
     offset : Nat
   ) : async [User] {
     
