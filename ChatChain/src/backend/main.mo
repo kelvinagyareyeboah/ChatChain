@@ -1,6 +1,4 @@
 
-    avatar : ?Text,
-    status : ?UserStatus,
     preferences : ?UserPreferences
   ) : User {
     {
