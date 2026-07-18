@@ -1,9 +1,6 @@
 
   
-  private func createUpdatedUser(
-    user : User,
-    displayName : Text,
-    username : Text,
+  private func createUpdatedUs
     bio : ?Text,
     avatar : ?Text,
     status : ?UserStatus,
