@@ -1,7 +1,5 @@
 
-        addUserToRoom(caller, roomId);
-        #ok(true)
-      };
+        addUs
     }
   };
   
