@@ -1,7 +1,4 @@
-i) { array[start + i] })
-  };
-  
-  public query func getUser(principalOrUsername : Text) : async ?User {
+cipalOrUsername : Text) : async ?User {
     switch (Principal.fromText(principalOrUsername)) {
       case (?principal) users.get(principal);
       case null {
