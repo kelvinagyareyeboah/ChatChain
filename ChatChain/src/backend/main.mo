@@ -1,7 +1,4 @@
-
-
-    let end = Nat.min(start + limit, array.size());
-    Array.tabulate(end - start, func(i) { array[start + i] })
+i) { array[start + i] })
   };
   
   public query func getUser(principalOrUsername : Text) : async ?User {
