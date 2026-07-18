@@ -1,5 +1,4 @@
-
-  };oRoom(userId : Principal, roomId : Nat) {
+Id : Nat) {
     let userBuffer = getOrCreateBuffer(userRoomMembership, userId, 5);
     userBuffer.add(roomId);
     
