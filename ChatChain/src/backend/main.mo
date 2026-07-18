@@ -1,7 +1,5 @@
 
-    switch (Principal.fromText(princi
-      case null {in.get(principal);
-          case null null;
+    switch (Principal.fromText
         };
       };
     }
