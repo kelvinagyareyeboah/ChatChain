@@ -1,8 +1,5 @@
 
 
-    me, Prim.charToLower), #text query)
-  };
-  ;
     let end = Nat.min(start + limit, array.size());
     Array.tabulate(end - start, func(i) { array[start + i] })
   };
