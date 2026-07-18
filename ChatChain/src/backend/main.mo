@@ -1,5 +1,4 @@
 
-    bio : ?Text,
     avatar : ?Text,
     status : ?UserStatus,
     preferences : ?UserPreferences
