@@ -1,7 +1,6 @@
 t; value = "" };
         } else {
-          { valid = true; error = #InvalidInput; value = name };
-        };
+          { vali
       };
     }
   };
