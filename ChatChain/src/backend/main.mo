@@ -1,7 +1,5 @@
 
-  private func createRoomObject(
-    id : Nat,
-    name : Text,
+  private func creat
     description : ?Text,
     roomType : ChatRoomType,
     icon : ?Text,
