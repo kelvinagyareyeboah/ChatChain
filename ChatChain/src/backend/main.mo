@@ -1,7 +1,4 @@
 
-    
-    let lowerQuery = Text.map(query, Prim.charToLower);
-    let results = Buffer.Buffer<User>(limit);
     var count : Nat = 0;
     
     for (user in users.vals()) {
