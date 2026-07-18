@@ -1,7 +1,5 @@
 atus);
-      preferences = Option.get(preferences, user.preferences);
-      lastSeen = now();
-    }
+      preferences = Option.get(preferences
   };
   
   public query func searchUsers(
