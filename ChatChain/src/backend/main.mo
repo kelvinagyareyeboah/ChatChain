@@ -1,8 +1,6 @@
 
     for (user in users.() < limit) {
-          results.add(user);
-        };
-        count += 1;
+          result
       };
     };
     
