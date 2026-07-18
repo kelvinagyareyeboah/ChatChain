@@ -1,6 +1,4 @@
 ()) {
-      if (shouldSkipRoom(room, roomType)) continue;
-      
       if (count >= offset and filteredRooms.size() < limit) {
         filteredRooms.add(room);
       };
