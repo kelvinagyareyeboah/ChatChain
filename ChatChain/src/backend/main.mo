@@ -1,7 +1,5 @@
 unc createRoom(
-    name :
-    roomType : ChatRoomType,
-    icon : ?Text,
+   
     rules : ?Text,
     maxMembers : ?Nat
   ) : async Result<ChatRoom, Error> {
