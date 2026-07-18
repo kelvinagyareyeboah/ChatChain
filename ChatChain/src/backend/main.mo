@@ -1,4 +1,4 @@
-cipalOrUsername : Text) : async ?User {
+
     switch (Principal.fromText(princi
       case null {
         switch (userByUsername.get(principalOrUsername)) {
