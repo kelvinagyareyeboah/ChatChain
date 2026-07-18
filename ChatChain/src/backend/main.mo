@@ -1,7 +1,4 @@
 
-      };
-    }
-  };
   
   private func validateDisplayName(
     newDisplayName : ?Text
