@@ -1,7 +1,5 @@
 
-    let room = createRoomObject(roomId, name, description, roomType, icon, rules, maxMembers, caller);
-    rooms.put(roomId, room);
-    
+    let room = cr
     addUserToRoom(caller, roomId);
     #ok(room)
   };
