@@ -1,8 +1,4 @@
-
-    rules : ?
-  ) : async Result<ChatRoom, Error> {
-    
-    if (isBanned(caller)) return #err(#Banned);
+nned);
     
     let roomId = nextRoomId;
     nextRoomId += 1;
