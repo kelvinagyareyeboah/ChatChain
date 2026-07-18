@@ -1,8 +1,4 @@
 
-    let nowTime = now();
-    {
-      id = id;
-      name = name;
       description = description;
       roomType = roomType;
       moderators = [creator];
