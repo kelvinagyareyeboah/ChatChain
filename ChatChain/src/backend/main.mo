@@ -1,6 +1,4 @@
 
-      roomType = roomType;
-      moderators = [creator];
       createdBy = creator;
       createdAt = nowTime;
       messageCount = 0;
