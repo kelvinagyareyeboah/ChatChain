@@ -1,5 +1,4 @@
-Rooms = Buffer.Buffer<ChatRoom>(limit);
-    var count : Nat = 0;
+Rooms = Buffer.Bu
     
     for (room in rooms.vals()) {
       if (shouldSkipRoom(room, roomType)) continue;
