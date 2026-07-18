@@ -1,6 +1,4 @@
-ame) {
-        if (not isValidDisplayName(name)) {
-          { valid = false; error = #InvalidInput; value = "" };
+t; value = "" };
         } else {
           { valid = true; error = #InvalidInput; value = name };
         };
