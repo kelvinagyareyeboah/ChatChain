@@ -2,8 +2,7 @@
 
     
   
-  private func matchesUserQuery(user : User, query : Text) : Bool {
-    Text.contains(Text.map(user.username, Prim.charToLower), #text query)
+  private func matchesUserQuery(user : User, query : Texuery)
     or Text.contains(Text.map(user.displayName, Prim.charToLower), #text query)
   };
   
