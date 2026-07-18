@@ -1,6 +1,4 @@
 
-  priv
-    rules : ?Text,
     maxMembers : ?Nat,
     creator : Principal
   ) : ChatRoom {
