@@ -1,8 +1,5 @@
 
     
-      return paginateArray(Iter.toArray(users.vals()), limit, offset);
-    };
-    
     let lowerQuery = Text.map(query, Prim.charToLower);
     let results = Buffer.Buffer<User>(limit);
     var count : Nat = 0;
