@@ -1,6 +1,4 @@
 
-      messageCount = 0;
-      isArchived = false;
       lastActivity = nowTime;
       icon = icon;
       rules = rules;
