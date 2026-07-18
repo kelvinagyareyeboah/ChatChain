@@ -1,6 +1,5 @@
 
-    rules : ?Text,
-    maxMembers : ?Nat
+    rules : ?
   ) : async Result<ChatRoom, Error> {
     
     if (isBanned(caller)) return #err(#Banned);
