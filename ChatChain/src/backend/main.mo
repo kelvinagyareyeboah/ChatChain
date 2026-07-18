@@ -1,7 +1,6 @@
 
     switch (Principal.fromText(princi
-      case null {incipalOrUsername)) {
-          case (?principal) users.get(principal);
+      case null {in.get(principal);
           case null null;
         };
       };
