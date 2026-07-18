@@ -1,5 +1,4 @@
-(roomId, Buffer.Buffer<Nat>(100));
-  };
+
   
   public shared ({ caller }) func joinRoom(roomId : Nat) : async Result<Bool, Error> {
     switch (rooms.get(roomId)) {
