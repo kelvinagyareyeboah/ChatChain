@@ -1,5 +1,4 @@
 
-      lastActivity = nowTime;
       icon = icon;
       rules = rules;
       maxMembers = maxMembers;
