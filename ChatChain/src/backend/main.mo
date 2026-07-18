@@ -1,6 +1,4 @@
-===================================================================
-  
-  public shared ({ caller }) func createRoom(
+unc createRoom(
     name :
     roomType : ChatRoomType,
     icon : ?Text,
