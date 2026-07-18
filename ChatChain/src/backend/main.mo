@@ -1,7 +1,4 @@
 
-  
-  public query func getRooms(
-    roomType : ?ChatRoomType,
     limit : Nat,
     offset : Nat
   ) : async [ChatRoom] {
