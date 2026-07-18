@@ -1,6 +1,5 @@
 
-      createdBy = creator;
-      createdAt = nowTime;
+      createdBy = 
       messageCount = 0;
       isArchived = false;
       lastActivity = nowTime;
