@@ -1,5 +1,4 @@
 
-  ) : ChatRoom {
     let nowTime = now();
     {
       id = id;
