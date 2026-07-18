@@ -1,6 +1,5 @@
 cipalOrUsername : Text) : async ?User {
-    switch (Principal.fromText(principalOrUsername)) {
-      case (?principal) users.get(principal);
+    switch (Principal.fromText(princi
       case null {
         switch (userByUsername.get(principalOrUsername)) {
           case (?principal) users.get(principal);
