@@ -1,6 +1,4 @@
-
-  
-  public shared ({ caller }) func joinRoom(roomId : Nat) : async Result<Bool, Error> {
+Room(roomId : Nat) : async Result<Bool, Error> {
     switch (rooms.get(roomId)) {
       case null #err(#NotFound);
       case (?room) {
