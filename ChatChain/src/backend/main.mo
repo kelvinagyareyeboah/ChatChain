@@ -1,9 +1,4 @@
-
-        addUs
-    }
-  };
-  
-  private func isRoomFull(roomId : Nat, maxMembers : ?Nat) : Bool {
+l(roomId : Nat, maxMembers : ?Nat) : Bool {
     switch (maxMembers, roomMembers.get(roomId)) {
       case (?max, ?members) members.size() >= max;
       case _ false;
