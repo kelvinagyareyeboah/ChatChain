@@ -1,7 +1,4 @@
-atus);
-      preferences = Option.get(preferences
-  };
-  
+
   public query func searchUsers(
     query : Text,
     limit : Nat,
