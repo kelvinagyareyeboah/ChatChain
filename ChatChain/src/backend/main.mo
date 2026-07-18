@@ -1,8 +1,5 @@
 
-    offset : Nat
-  ) : async [User] {
     
-    if (query == "") {
       return paginateArray(Iter.toArray(users.vals()), limit, offset);
     };
     
