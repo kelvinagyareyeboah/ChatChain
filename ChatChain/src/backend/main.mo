@@ -1,5 +1,4 @@
 
-        if (isBanned(caller)) return #err(#Banned);
         if (isRoomFull(roomId, room.maxMembers)) return #err(#RoomFull);
         if (room.roomType == #Private) return #err(#NoPermission); // Needs invite system
         
