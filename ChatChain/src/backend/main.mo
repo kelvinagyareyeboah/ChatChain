@@ -1,6 +1,5 @@
 
   
-  private func validateDisplayName(
     newDisplayName : ?Text
   ) : { valid : Bool; error : Error; value : Text } {
     switch (newDisplayName) {
