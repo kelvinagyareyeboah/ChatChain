@@ -1,7 +1,4 @@
 
-      };
-    }
-  };
   
   private func createUpdatedUser(
     user : User,
