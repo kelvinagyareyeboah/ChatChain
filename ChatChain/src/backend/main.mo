@@ -1,6 +1,4 @@
 
-        if (room.roomType == #Private) return #err(#NoPermission); // Needs invite system
-        
         addUserToRoom(caller, roomId);
         #ok(true)
       };
