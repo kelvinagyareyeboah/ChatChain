@@ -1,8 +1,4 @@
-nned);
-    
-    let roomId = nextRoomId;
-    nextRoomId += 1;
-    
+
     let room = createRoomObject(roomId, name, description, roomType, icon, rules, maxMembers, caller);
     rooms.put(roomId, room);
     
