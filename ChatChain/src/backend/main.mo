@@ -1,7 +1,4 @@
-
-      icon = icon;
-      rules = rules;
-      maxMembers = maxMembers;
+embers;
     }
   };
   
