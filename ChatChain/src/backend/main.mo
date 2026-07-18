@@ -1,6 +1,4 @@
 
-          { valid = true; error = #InvalidInput; value = username };
-        };
       };
     }
   };
