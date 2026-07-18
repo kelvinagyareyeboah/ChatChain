@@ -1,5 +1,4 @@
 
-      description = description;
       roomType = roomType;
       moderators = [creator];
       createdBy = creator;
