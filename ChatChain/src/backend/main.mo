@@ -1,5 +1,4 @@
-OrCreateBuffer(roomMembers, roomId, 10);
-    roomBuffer.add(userId);
+OrCreateBuffer(r
     
     messagesByRoom.put(roomId, Buffer.Buffer<Nat>(100));
   };
