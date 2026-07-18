@@ -1,6 +1,4 @@
-
-    
-    let roomBuffer = getOrCreateBuffer(roomMembers, roomId, 10);
+OrCreateBuffer(roomMembers, roomId, 10);
     roomBuffer.add(userId);
     
     messagesByRoom.put(roomId, Buffer.Buffer<Nat>(100));
