@@ -1,6 +1,4 @@
 
-    maxMembers : ?Nat,
-    creator : Principal
   ) : ChatRoom {
     let nowTime = now();
     {
