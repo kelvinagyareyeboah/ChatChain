@@ -1,6 +1,4 @@
 
-    before : ?Nat
-  ) : async [Message] {
     
     let actualLimit = Nat.min(limit, DEFAULT_PAGE_SIZE);
     switch (messagesByRoom.get(roomId)) {
