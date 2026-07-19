@@ -1,6 +1,4 @@
-dStartIndex(
-    messageIds : Buffer.Buffer<Nat>,
-    size : Nat,
+
     before : ?Nat
   ) : Nat {
     switch (before) {
