@@ -1,7 +1,6 @@
 
     
-    let actualLimit = Nat.min(limit, DEFAULT_PAGE_SIZE);
-    switch (messagesByRoom.get(roomId)) {
+    let actualLimoomId)) {
       case null [];
       case (?messageIds) {
         let messages = collectMessages(messageIds, actualLimit, before);
