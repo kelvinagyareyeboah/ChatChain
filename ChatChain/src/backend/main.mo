@@ -1,6 +1,4 @@
-
-    
-    let message = createMessage(messageId, content, caller, roomId, replyTo, messageType, poll, metadata);
+Id, content, caller, roomId, replyTo, messageType, poll, metadata);
     
     storeMessage(message);
     updateStatistics(caller, roomId);
