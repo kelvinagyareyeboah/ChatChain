@@ -1,7 +1,4 @@
 
-    var count = 0;
-    
-    while (idx >= 0 and count < limit) {
       addMessageIfValid(messageIds.get(idx), results);
       idx -= 1;
       count += 1;
