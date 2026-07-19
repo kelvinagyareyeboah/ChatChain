@@ -1,6 +1,4 @@
 
-    and now() - message.timestamp <= EDIT_WINDOW_SECONDS * 1_000_000_000
-  };
   
   private func createUpdatedMessage(message : Message, newContent : Text) : Message {
     {
