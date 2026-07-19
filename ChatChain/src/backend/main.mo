@@ -1,6 +1,4 @@
 
-      editedeteMessage(messageId : Nat) : async Result<Bool, Error> {
-    switch (messagend);
       case (?message) {
         if (not canDeleteMessage(message, caller)) return #err(#Unauthorized);
         
