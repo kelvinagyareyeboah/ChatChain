@@ -1,5 +1,4 @@
 
-      message with
       content = newContent;
       edited = true;
       mentions = extractMentions(newContent);
