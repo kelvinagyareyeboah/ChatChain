@@ -1,6 +1,5 @@
 
-      case (?message) {
-        if (not canDeleteMessage(message, caller)) return #err(#Unauthorized);
+      case (?message)ge(message, caller)) return #err(#Unauthorized);
         
         messages.put(messageId, { message with deleted = true });
         #ok(true)
