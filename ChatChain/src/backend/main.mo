@@ -1,7 +1,4 @@
 
-    
-    #ok(message)
-  };
   mbership.get(userId)) {
       case (?buffer) Buffer.contains(buffer, roomId, Nat.equal);
       case null false;
