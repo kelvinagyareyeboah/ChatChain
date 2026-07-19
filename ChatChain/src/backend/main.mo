@@ -1,6 +1,4 @@
-
-    replyTo : ?Nat,
-    messageType : MessageType,
+Type,
     poll : ?Poll,
     metadata : ?Blob
   ) : Message {
