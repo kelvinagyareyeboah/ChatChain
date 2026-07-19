@@ -1,7 +1,4 @@
 
-  
-  private func createUpdatedMessage(message : Message, newContent : Text) : Message {
-    {
       message with
       content = newContent;
       edited = true;
