@@ -1,7 +1,4 @@
-
-    
-    if (Text.size(content) > MAX_MESSAGE_LENGTH) return #err(#MessageTooLong);
-    if (messageRateLimiter.checkRateLimit(caller)) return #err(#RateLimited);
+ckRateLimit(caller)) return #err(#RateLimited);
     if (not hasRoomAccess(caller, roomId)) return #err(#NoPermission);
     
     let messageId = nextMessageId;
