@@ -1,7 +1,4 @@
 
-    messageType : MessageType,
-    poll : ?Poll,
-    metadata : ?Blob
   ) : async Result<Message, Error> {
     
     if (isBanned(caller)) return #err(#Banned);
