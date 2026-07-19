@@ -1,7 +1,4 @@
-
-  
-  private func updateStatistics(userId : Principal, roomId : Nat) {
-    incrementMessageCount(userId);
+d);
     updateRoomActivity(roomId);
   };
   
