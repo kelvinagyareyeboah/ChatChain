@@ -1,5 +1,4 @@
-Type,
-    poll : ?Poll,
+
     metadata : ?Blob
   ) : Message {
     {
