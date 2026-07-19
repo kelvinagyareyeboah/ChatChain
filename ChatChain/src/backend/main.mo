@@ -1,4 +1,4 @@
-age, caller)) return #err(#Unauthorized);
+
         
         let updatedMessage = createUpdatedMessage(message, newContent);
         messages.put(messageId, updatedMessage);
