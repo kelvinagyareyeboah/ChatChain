@@ -1,7 +1,4 @@
-
-    if (size == 0) return results;
-    
-    let startIdx = findStartIndex(messageIds, size, before);
+Ids, size, before);
     var idx = startIdx;
     var count = 0;
     
