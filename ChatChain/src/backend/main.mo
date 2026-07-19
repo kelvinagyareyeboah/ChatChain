@@ -1,4 +1,4 @@
-ckRateLimit(caller)) return #err(#RateLimited);
+
     if (not hasRoomAccess(caller, roomId)) return #err(#NoPermission);
     
     let messageId = nextMessageId;
