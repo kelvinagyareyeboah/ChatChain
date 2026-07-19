@@ -1,6 +1,4 @@
 
-      timestamp = now();
-      edited = false;
       deleted = false;
       pinned = false;
       reactions = [];
