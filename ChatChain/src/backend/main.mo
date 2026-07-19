@@ -1,7 +1,4 @@
 
-      count += 1;
-    };
-    
     Buffer.toArray(filteredRooms)
   };
   
