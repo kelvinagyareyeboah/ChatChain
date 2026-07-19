@@ -1,5 +1,4 @@
 , messageTy
-    updateStatistics(caller, roomId);
     
     if (messageId % 100 == 0) periodicCleanup();
     
