@@ -1,6 +1,4 @@
 
-    if (not hasRoomAccess(caller, 
-    nextMessageId += 1;
     
     let message = createMessage(messageId, content, caller, roomId, replyTo, messageType, poll, metadata);
     
