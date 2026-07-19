@@ -1,5 +1,4 @@
-
-      case (?typeFilter) room.roomType != typeFilter;
+om.roomType != typeFilter;
       case null false;
     }
   };
