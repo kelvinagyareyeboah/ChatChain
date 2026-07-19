@@ -1,7 +1,4 @@
 
-    metadata : ?Blob
-  ) : Message {
-    {
       id = id;
       sender = sender;
       content = content;
