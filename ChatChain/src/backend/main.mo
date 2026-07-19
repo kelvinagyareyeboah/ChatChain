@@ -1,5 +1,4 @@
 
-  public query func getMessages(
     roomId : Nat,
     limit : Nat,
     before : ?Nat
