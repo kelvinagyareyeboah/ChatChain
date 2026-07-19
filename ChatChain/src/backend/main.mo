@@ -1,7 +1,5 @@
 
   };
-  
-  private func collectMessages(
     messageIds : Buffer.Buffer<Nat>,
     limit : Nat,
     before : ?Nat
