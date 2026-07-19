@@ -1,8 +1,4 @@
 
-      case (?buffer) Buffer.contains(buffer, roomId, Nat.equal);
-      case null false;
-    }
-  };
   
   private func createMessage(
     id : Nat,
