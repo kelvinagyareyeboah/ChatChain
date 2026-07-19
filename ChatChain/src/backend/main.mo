@@ -1,4 +1,4 @@
-Id, content, caller, roomId, replyTo, messageType, poll, metadata);
+, messageType, poll, metadata);
     
     storeMessage(message);
     updateStatistics(caller, roomId);
