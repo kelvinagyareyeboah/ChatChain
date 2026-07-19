@@ -1,7 +1,5 @@
 
-      edited = true;
-      mentions = extractMentions(newContent);
-    }
+      edited
   };
   
   public shared ({ caller }) func deleteMessage(messageId : Nat) : async Result<Bool, Error> {
