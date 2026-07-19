@@ -1,6 +1,4 @@
-
-      metadata = metadata;
-      encryptionKey = null;
+null;
     }
   };
   
