@@ -1,7 +1,4 @@
 
-        let messa
-      };
-    }
   };
   
   private func collectMessages(
