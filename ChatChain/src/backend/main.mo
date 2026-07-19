@@ -1,5 +1,4 @@
-Mentions(content);
-      attachments = [];
+
       messageType = messageType;
       poll = poll;
       metadata = metadata;
