@@ -1,6 +1,5 @@
 , messageTy
-    
-    if (messageId % 100 == 0) periodicCleanup();
+    riodicCleanup();
     
     #ok(message)
   };
