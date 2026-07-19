@@ -1,5 +1,4 @@
 
-      threadId = null;
       roomId = roomId;
       mentions = extractMentions(content);
       attachments = [];
