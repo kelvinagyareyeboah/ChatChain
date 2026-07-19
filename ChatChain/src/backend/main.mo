@@ -1,5 +1,4 @@
-dMessage(
-    content : Text,
+
     roomId : Nat,
     replyTo : ?Nat,
     messageType : MessageType,
