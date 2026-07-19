@@ -1,7 +1,5 @@
 
-  
-  private func shouldSkipRoom(room : ChatRoom, roomType : ?ChatRoomType) : Bool {
-    room.isArchived 
+  d 
     or switch (roomType) {
       case (?typeFilter) room.roomType != typeFilter;
       case null false;
