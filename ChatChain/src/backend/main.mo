@@ -2,9 +2,7 @@
     
     #ok(message)
   };
-  
-  private func hasRoomAccess(userId : Principal, roomId : Nat) : Bool {
-    switch (userRoomMembership.get(userId)) {
+  mbership.get(userId)) {
       case (?buffer) Buffer.contains(buffer, roomId, Nat.equal);
       case null false;
     }
