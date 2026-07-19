@@ -1,7 +1,5 @@
 
-    if (not hasRoomAccess(caller, roomId)) return #err(#NoPermission);
-    
-    let messageId = nextMessageId;
+    if (not hasRoomAccess(caller, 
     nextMessageId += 1;
     
     let message = createMessage(messageId, content, caller, roomId, replyTo, messageType, poll, metadata);
