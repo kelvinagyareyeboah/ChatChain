@@ -1,6 +1,4 @@
 
-      deleted = false;
-      pinned = false;
       reactions = [];
       replyTo = replyTo;
       threadId = null;
