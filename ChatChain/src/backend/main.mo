@@ -1,7 +1,6 @@
 
       id = id;
-      sender = sender;
-      content = content;
+      send
       timestamp = now();
       edited = false;
       deleted = false;
