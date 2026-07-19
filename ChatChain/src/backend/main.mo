@@ -1,6 +1,4 @@
-
-        
-        let updatedMessage = createUpdatedMessage(message, newContent);
+Message(message, newContent);
         messages.put(messageId, updatedMessage);
         
         #ok(updatedMessage)
