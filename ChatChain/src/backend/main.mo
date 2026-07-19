@@ -1,6 +1,4 @@
 
-    Buffer.toArray(filteredRooms)
-  };
   
   private func shouldSkipRoom(room : ChatRoom, roomType : ?ChatRoomType) : Bool {
     room.isArchived 
