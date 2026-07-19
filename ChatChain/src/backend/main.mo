@@ -1,5 +1,4 @@
 
-  ) : async Result<Message, Error> {
     
     if (isBanned(caller)) return #err(#Banned);
     if (Text.size(content) > MAX_MESSAGE_LENGTH) return #err(#MessageTooLong);
