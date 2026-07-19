@@ -1,7 +1,4 @@
-thorized);
-        
-        messages.put(messageId, { message with deleted = true });
-        #ok(true)
+thorized)
       };
     }
   };
