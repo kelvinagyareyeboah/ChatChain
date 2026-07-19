@@ -1,6 +1,4 @@
-
-  
-  public shared ({ caller }) func sendMessage(
+dMessage(
     content : Text,
     roomId : Nat,
     replyTo : ?Nat,
