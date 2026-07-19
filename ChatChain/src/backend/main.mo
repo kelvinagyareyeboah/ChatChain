@@ -1,6 +1,4 @@
 
-  d 
-    or switch (roomType) {
       case (?typeFilter) room.roomType != typeFilter;
       case null false;
     }
