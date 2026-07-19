@@ -1,6 +1,4 @@
 
-      messageType = messageType;
-      poll = poll;
       metadata = metadata;
       encryptionKey = null;
     }
