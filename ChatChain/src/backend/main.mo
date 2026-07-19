@@ -1,7 +1,4 @@
 null;
-    }
-  };
-  
   private func storeMessage(message : Message) {
     messages.put(message.id, message);
     
