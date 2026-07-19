@@ -1,5 +1,4 @@
-Ids, size, before);
-    var idx = startIdx;
+
     var count = 0;
     
     while (idx >= 0 and count < limit) {
