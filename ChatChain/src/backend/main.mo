@@ -1,6 +1,4 @@
 
-    limit : Nat,
-    before : ?Nat
   ) : Buffer.Buffer<Message> {
     let results = Buffer.Buffer<Message>(limit);
     let size = messageIds.size();
