@@ -1,6 +1,4 @@
-null;
-  private func storeMessage(message : Message) {
-    messages.put(message.id, message);
+age.id, message);
     
     let roomBuffer = getOrCreateBuffer(messagesByRoom, message.roomId, 100);
     roomBuffer.add(message.id);
