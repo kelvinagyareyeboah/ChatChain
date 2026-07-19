@@ -1,8 +1,5 @@
 
-      edited
-  };
-  
-  public shared ({ caller }) func deleteMessage(messageId : Nat) : async Result<Bool, Error> {
+      editedeteMessage(messageId : Nat) : async Result<Bool, Error> {
     switch (messagend);
       case (?message) {
         if (not canDeleteMessage(message, caller)) return #err(#Unauthorized);
