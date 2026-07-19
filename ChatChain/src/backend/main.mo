@@ -1,6 +1,4 @@
-, messageType, poll, metadata);
-    
-    storeMessage(message);
+, messageTy
     updateStatistics(caller, roomId);
     
     if (messageId % 100 == 0) periodicCleanup();
