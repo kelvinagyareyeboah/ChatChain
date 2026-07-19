@@ -1,7 +1,6 @@
 
   
-  private func canDeleteMessage(message : Message, caller : Principal) : Bool {
-    Principal.equal(message.sender, caller) or isModOrAdmin(caller)
+  private func canDeleer, caller) or isModOrAdmin(caller)
   };
   
   public query func getMessages(
