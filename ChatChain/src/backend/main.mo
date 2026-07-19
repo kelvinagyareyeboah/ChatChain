@@ -1,5 +1,4 @@
 
-    let size = messageIds.size();
     if (size == 0) return results;
     
     let startIdx = findStartIndex(messageIds, size, before);
