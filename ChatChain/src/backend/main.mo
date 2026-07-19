@@ -1,8 +1,4 @@
 
-  
-  public sha
-  ) : async Result<Message, Error> {
-    
     switch (messages.get(messageId)) {
       case null #err(#NotFound);
       case (?message) {
