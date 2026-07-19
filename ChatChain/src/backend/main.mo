@@ -1,6 +1,4 @@
 
-    roomId : Nat,
-    limit : Nat,
     before : ?Nat
   ) : async [Message] {
     
