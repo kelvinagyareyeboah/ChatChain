@@ -1,9 +1,5 @@
 
-      };
-    }
-  };
-  
-  private func canEditMessage(message : Message, caller : Principal) : Bool {
+      };Message, caller : Principal) : Bool {
     Principal.equal(message.sender, caller)
     and now() - message.timestamp <= EDIT_WINDOW_SECONDS * 1_000_000_000
   };
