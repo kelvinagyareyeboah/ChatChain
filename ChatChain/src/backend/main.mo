@@ -1,5 +1,4 @@
-
-    switch (messages.get(messageId)) {
+ageId)) {
       case null #err(#NotFound);
       case (?message) {
         if (not canEditMessage(message, caller)) return #err(#Unauthorized);
