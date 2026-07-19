@@ -1,5 +1,4 @@
-Message(message, newContent);
-        messages.put(messageId, updatedMessage);
+datedMessage);
         
         #ok(updatedMessage)
       };
