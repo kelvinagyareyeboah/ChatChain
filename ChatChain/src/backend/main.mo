@@ -1,5 +1,4 @@
 
-    sender : Principal,
     roomId : Nat,
     replyTo : ?Nat,
     messageType : MessageType,
