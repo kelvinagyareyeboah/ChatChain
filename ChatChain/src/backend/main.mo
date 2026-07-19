@@ -1,6 +1,4 @@
 
-      reactions = [];
-      replyTo = replyTo;
       threadId = null;
       roomId = roomId;
       mentions = extractMentions(content);
