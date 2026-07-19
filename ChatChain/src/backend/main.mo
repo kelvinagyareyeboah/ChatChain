@@ -1,7 +1,5 @@
 
-      addMessageIfValid(messageIds.get(idx), results);
-      idx -= 1;
-      count += 1;
+      addMess
     };
     
     results
