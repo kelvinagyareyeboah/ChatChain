@@ -1,6 +1,4 @@
 
-      id = id;
-      send
       timestamp = now();
       edited = false;
       deleted = false;
