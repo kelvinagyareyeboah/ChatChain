@@ -1,6 +1,4 @@
-d);
-    updateRoomActivity(roomId);
-  };
+
   
   public shared ({ caller }) func editMessage(
     messageId : Nat,
