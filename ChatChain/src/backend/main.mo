@@ -1,7 +1,4 @@
-thorized)
-      };
-    }
-  };
+
   
   private func canDeleteMessage(message : Message, caller : Principal) : Bool {
     Principal.equal(message.sender, caller) or isModOrAdmin(caller)
