@@ -1,5 +1,4 @@
 
-    roomId : Nat,
     replyTo : ?Nat,
     messageType : MessageType,
     poll : ?Poll,
