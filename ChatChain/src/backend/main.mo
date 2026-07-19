@@ -1,11 +1,4 @@
-
-      addMess
-    };
-    
-    results
-  };
-  
-  private func findStartIndex(
+dStartIndex(
     messageIds : Buffer.Buffer<Nat>,
     size : Nat,
     before : ?Nat
