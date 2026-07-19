@@ -1,8 +1,4 @@
 
-  
-  private func canDeleer, caller) or isModOrAdmin(caller)
-  };
-  
   public query func getMessages(
     roomId : Nat,
     limit : Nat,
