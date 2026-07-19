@@ -1,8 +1,6 @@
 
   
-  public shared ({ caller }) func editMessage(
-    messageId : Nat,
-    newContent : Text
+  public sha
   ) : async Result<Message, Error> {
     
     switch (messages.get(messageId)) {
