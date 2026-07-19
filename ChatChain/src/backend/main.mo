@@ -1,6 +1,4 @@
 
-  };
-    messageIds : Buffer.Buffer<Nat>,
     limit : Nat,
     before : ?Nat
   ) : Buffer.Buffer<Message> {
