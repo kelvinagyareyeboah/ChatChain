@@ -1,7 +1,4 @@
-age.id, message);
-    
-    let roomBuffer = getOrCreateBuffer(messagesByRoom, message.roomId, 100);
-    roomBuffer.add(message.id);
+age.id, messag);
   };
   
   private func updateStatistics(userId : Principal, roomId : Nat) {
