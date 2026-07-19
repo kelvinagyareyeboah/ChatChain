@@ -1,4 +1,4 @@
-age.id, messag);
+
   };
   
   private func updateStatistics(userId : Principal, roomId : Nat) {
