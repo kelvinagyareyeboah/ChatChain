@@ -1,7 +1,4 @@
 
-  
-  private func createMessag
-    content : Text,
     sender : Principal,
     roomId : Nat,
     replyTo : ?Nat,
