@@ -1,6 +1,4 @@
-
-      roomId = roomId;
-      mentions = extractMentions(content);
+Mentions(content);
       attachments = [];
       messageType = messageType;
       poll = poll;
