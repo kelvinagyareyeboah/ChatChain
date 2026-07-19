@@ -1,5 +1,4 @@
-===========
-===================================================
+
   
   public shared ({ caller }) func sendMessage(
     content : Text,
