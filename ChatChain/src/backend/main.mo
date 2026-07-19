@@ -1,5 +1,4 @@
 
-      case (?messageIds) {
         let messages = collectMessages(messageIds, actualLimit, before);
         Buffer.toArray(messages)
       };
