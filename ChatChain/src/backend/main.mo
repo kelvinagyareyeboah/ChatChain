@@ -1,6 +1,4 @@
 
-    before : ?Nat
-  ) : Nat {
     switch (before) {
       case (?msgId) {
         for (i in Iter.range(0, size - 1)) {
