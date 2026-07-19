@@ -3,8 +3,7 @@
   };
   
   public shared ({ caller }) func deleteMessage(messageId : Nat) : async Result<Bool, Error> {
-    switch (messages.get(messageId)) {
-      case null #err(#NotFound);
+    switch (messagend);
       case (?message) {
         if (not canDeleteMessage(message, caller)) return #err(#Unauthorized);
         
