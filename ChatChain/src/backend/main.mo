@@ -1,9 +1,4 @@
 
-  };
-  
-  private func shouldUseCache(roomId : ?Nat, now : Int) : Bool {
-    now - lastCacheUpdate < CACHE_TTL
-  };
   
   private func calculateOnlineUsers(roomId : ?Nat, now : Int) : [User] {
     let results = Buffer.Buffer<User>(50);
