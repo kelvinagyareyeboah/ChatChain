@@ -1,7 +1,4 @@
-
-          switch (messages.get(msgId)) {
-            case (?msg) if (not msg.dele
-              updateMessageStats(msg, dayAgo, weekAgo, userMessageCounts, activeUsers);
+ekAgo, userMessageCounts, activeUsers);
               if (msg.timestamp >= dayAgo) messagesToday += 1;
             };
             case null {};
