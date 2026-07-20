@@ -1,7 +1,4 @@
 
-    let stas;ats.activeUsers.size();
-      messagesToday = stats.messagesToday;
-      topPosters = 
   
   private type RoomStatistics = {
     totalMessages : Nat;
