@@ -1,6 +1,4 @@
 
-    switch (before) {
-      case (?msgId) {
         for (i in Iter.range(0, size - 1)) {
           if (messageIds.get(i) == msgId) return if (i > 0) i - 1 else 0;
         };
