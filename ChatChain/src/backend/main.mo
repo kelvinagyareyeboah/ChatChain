@@ -1,6 +1,4 @@
-=======
-        cas
-UsersCache.get(id)) {
+et(id)) {
             case (?cached) return cached;
             case null {};
           };
