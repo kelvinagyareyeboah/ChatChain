@@ -1,10 +1,4 @@
-case (?cached) return cached;
-      s
 
-        case null {};
-      };
-    };
-    
     let result = calculateOnlineUsers(roomId, now);
     
     updateCache(roomId, result, now);
