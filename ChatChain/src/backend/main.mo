@@ -1,8 +1,5 @@
 
-    let sta
-    {
-      room = room;
-      totalMessages = stats.totalMessages;
+    let stas;
       activeUsers = stats.activeUsers.size();
       messagesToday = stats.messagesToday;
       topPosters = topPosters;
