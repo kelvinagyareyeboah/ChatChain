@@ -1,7 +1,4 @@
-=========================================
-  
-  public query ({ caller }) func whoAmI() : async ?User {
-    users.get(caller)
+=================
   };
   
   public query func getOnlineUsers(roomId : ?Nat) : async [User] {
