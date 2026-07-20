@@ -1,6 +1,5 @@
 tics(roomId : Nat) : async ?{
-    room : ChatRoom;
-    totalMessages : Nat;
+    room : Chat
     activeUsers : Nat;
     messagesToday : Nat;
     topPosters : [(Principal, Nat)];
