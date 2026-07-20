@@ -1,5 +1,4 @@
-et(id)) {
-            case (?cached) return cached;
+case (?cached) return cached;
             case null {};
           };
         };
