@@ -1,10 +1,5 @@
 
-        for (i in Iter == msgId) return if (i > 0) i - 1 else 0;
-        };
-        0
-      };
-      case null size - 1;
-    }
+        for (i in Iter == msgId) return if (i > 0) i - 1 else
   };
   
   private func addMessageIfValid(messageId : Nat, buffer : Buffer.Buffer<Message>) {
