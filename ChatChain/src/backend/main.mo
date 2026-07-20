@@ -1,6 +1,5 @@
 rieMap.TrieMap<Principal, Nat>(Principal.equal, Principal.hash);
-    let activeUsers = TrieMap.TrieMap<Principal, Bool>(Principal.equal, Principal.hash);
-    var totalMessages : Nat = 0;
+    let activeUsers = TrieMap.TrieMap<Prin
     var messagesToday : Nat = 0;
     
     switch (messagesByRoom.get(roomId)) {
