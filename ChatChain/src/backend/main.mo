@@ -1,7 +1,5 @@
 
-    let stats = collectRoomStatistics(room.id, dayAgo, weekAgo);
-    let topPosters = getTopPosters(stats.userMessageCounts, 5);
-    
+    let sta
     {
       room = room;
       totalMessages = stats.totalMessages;
