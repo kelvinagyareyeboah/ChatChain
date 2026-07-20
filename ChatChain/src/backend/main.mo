@@ -1,7 +1,4 @@
-=============
-    
-    if (shouldUseCache(roomId, now)) {
-      switch (roomId) {
+=======
         case (?id) {
           switch (onlineUsersCache.get(id)) {
             case (?cached) return cached;
