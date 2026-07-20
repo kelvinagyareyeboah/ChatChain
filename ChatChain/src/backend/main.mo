@@ -1,7 +1,5 @@
 
-   : ?Nat, users : [User], now : Int) {
-    lastCachsCache.put(id, users
-  
+   : ?Nat, users : [User], n
   public query func getRoomStatistics(roomId : Nat) : async ?{
     room : ChatRoom;
     totalMessages : Nat;
