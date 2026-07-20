@@ -1,6 +1,4 @@
-tics(roomId : Nat) : async ?{
-    room : Chat
-    activeUsers : Nat;
+tics(roomId : Nat) :
     messagesToday : Nat;
     topPosters : [(Principal, Nat)];
   } {
