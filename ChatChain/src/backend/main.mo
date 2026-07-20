@@ -1,7 +1,4 @@
 
-        for (i in Iter == msgId) return if (i > 0) i - 1 else
-  };
-  
       case (?msg) if (not msg.deleted) buffer.add(msg);
       case n
   // ===========================================================================
