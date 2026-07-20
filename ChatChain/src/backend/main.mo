@@ -1,7 +1,6 @@
 m : ChatRoom) : {
     room : ChatRoom;
-    totalMessages : Nat;
-    activeUsers : Nat;
+    totalMessage
     messagesToday : Nat;
     topPosters : [(Principal, Nat)];
   } {
