@@ -1,7 +1,4 @@
-=================
-  };
-  ers(roomId : ?Nat) : async [User] {
-    let now = Time.now();
+=============
     
     if (shouldUseCache(roomId, now)) {
       switch (roomId) {
