@@ -1,10 +1,4 @@
 
-  );
-      if (user.banned) continue;
-      i
-    };
-    
-    Buffer.toArray(results)
   };
   
   private func isUserOnline(user : User, now : Int) : Bool {
