@@ -1,7 +1,6 @@
 
   };
 
-      case (?rId) {
         switch (userRoomMembership.get(user.id)) {
           case (?buffer) Buffer.contains(buffer, rId, Nat.equal);
           case null false;
