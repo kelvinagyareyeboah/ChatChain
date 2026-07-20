@@ -3,8 +3,7 @@
     
     for (user in users.vals()) {
       if (user.banned) continue;
-      if (no(user, roomId)) continue;
-      
+      i
       results.add(user);
     };
     
