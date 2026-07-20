@@ -1,7 +1,6 @@
 case (?cached) return cached;
-            case null {};
-          };
-        };
+      s
+
         case null {};
       };
     };
