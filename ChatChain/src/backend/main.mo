@@ -1,8 +1,5 @@
 
   };
-    dayAgo : Int,
-    weekAgo : Int
-  ) : RoomStatistics {
     let userMessageCounts = TrieMap.TrieMap<Principal, Nat>(Principal.equal, Principal.hash);
     let activeUsers = TrieMap.TrieMap<Principal, Bool>(Principal.equal, Principal.hash);
     var totalMessages : Nat = 0;
