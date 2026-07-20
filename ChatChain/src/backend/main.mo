@@ -1,8 +1,5 @@
 
   };
-  
-  private func collectRoomStatistics(
-    roomId : Nat,
     dayAgo : Int,
     weekAgo : Int
   ) : RoomStatistics {
