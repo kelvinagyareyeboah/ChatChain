@@ -2,8 +2,7 @@ m : ChatRoom) : {
     room : ChatRoom;
     totalMessage
     messagesToday : Nat;
-    topPosters : [(Principal, Nat)];
-  } {
+  
     let dayAgo = now() - (24 * 60 * 60 * 1_000_000_000);
     let weekAgo = now() - (7 * 24 * 60 * 60 * 1_000_000_000);
     
