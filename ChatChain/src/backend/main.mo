@@ -1,8 +1,4 @@
 
-    let result = calculateOnlineUsers(roomId, now);
-    
-    updateCache(roomId, result, now);
-    result
   };
   
   private func shouldUseCache(roomId : ?Nat, now : Int) : Bool {
