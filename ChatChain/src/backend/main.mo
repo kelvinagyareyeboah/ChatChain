@@ -1,8 +1,4 @@
 
-  };
-
-        switch (userRoomMembership.get(user.id)) {
-          case
       case null true;
     }
   };
