@@ -1,6 +1,4 @@
 
-      case null true;
-    }
    : ?Nat, users : [User], now : Int) {
     lastCacheUpdate := now;
     switch (roomId) {
