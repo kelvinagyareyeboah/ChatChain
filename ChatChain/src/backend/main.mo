@@ -1,9 +1,6 @@
 
   };
   
-  private func isUserOnline(user : User, now : Int) : Bool {
-    (now - user.lastSeen) < ONLINE_THRESHOLD
-  };
   
   private func isUserInRoom(user : User, roomId : ?Nat) : Bool {
     switch (roomId) {
