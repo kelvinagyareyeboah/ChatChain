@@ -1,9 +1,6 @@
 
   };
-  
-  
-  private func isUserInRoom(user : User, roomId : ?Nat) : Bool {
-    switch (roomId) {
+
       case (?rId) {
         switch (userRoomMembership.get(user.id)) {
           case (?buffer) Buffer.contains(buffer, rId, Nat.equal);
