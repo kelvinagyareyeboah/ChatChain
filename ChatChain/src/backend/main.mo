@@ -2,9 +2,7 @@
     let stas;
       activeUsers = stats.activeUsers.size();
       messagesToday = stats.messagesToday;
-      topPosters = topPosters;
-    }
-  };
+      topPosters = 
   
   private type RoomStatistics = {
     totalMessages : Nat;
