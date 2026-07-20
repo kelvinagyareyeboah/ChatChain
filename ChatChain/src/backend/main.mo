@@ -1,7 +1,4 @@
-m : ChatRoom) : {
-    let dayAgo = now() - (24 * 60 * 60 * 1_000_000_000);
-    let weekAgo = now() - (7 * 24 * 60 * 60 * 1_000_000_000);
-    
+
     let stats = collectRoomStatistics(room.id, dayAgo, weekAgo);
     let topPosters = getTopPosters(stats.userMessageCounts, 5);
     
