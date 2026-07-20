@@ -1,7 +1,5 @@
 
-  
-  private func calculateOnlineUsers(roomId : ?Nat, now : Int) : [User] {
-    let results = Buffer.Buffer<User>(50);
+  );
     
     for (user in users.vals()) {
       if (user.banned) continue;
