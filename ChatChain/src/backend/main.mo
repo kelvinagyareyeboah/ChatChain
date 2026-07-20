@@ -1,8 +1,6 @@
 
    : ?Nat, users : [User], now : Int) {
-    lastCacheUpdate := now;
-    switch (roomId) {
-      case (?id) onlineUsersCache.put(id, users);
+    lastCachsCache.put(id, users);
       case null {};
     };
   };
