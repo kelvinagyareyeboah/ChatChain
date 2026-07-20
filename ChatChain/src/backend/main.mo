@@ -1,6 +1,4 @@
 
-    switch (messagesByRoom.get(roomId)) {
-      case (?messageIds) {
         for (msgId in messageIds.vals()) {
           switch (messages.get(msgId)) {
             case (?msg) if (not msg.deleted) {
