@@ -1,6 +1,5 @@
 
-    let stas;
-      activeUsers = stats.activeUsers.size();
+    let stas;ats.activeUsers.size();
       messagesToday = stats.messagesToday;
       topPosters = 
   
