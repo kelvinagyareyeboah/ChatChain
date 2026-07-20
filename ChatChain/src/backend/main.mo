@@ -1,8 +1,4 @@
-ekAgo, userMessageCounts, activeUsers);
-              if (msg.timestamp >= dayAgo) messagesToday += 1;
-            };
-        };
-      };
+
       case null {};
     };
     
