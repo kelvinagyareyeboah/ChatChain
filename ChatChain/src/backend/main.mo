@@ -1,7 +1,6 @@
 =================
   };
-  
-  public query func getOnlineUsers(roomId : ?Nat) : async [User] {
+  ers(roomId : ?Nat) : async [User] {
     let now = Time.now();
     
     if (shouldUseCache(roomId, now)) {
