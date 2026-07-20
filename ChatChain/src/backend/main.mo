@@ -2,9 +2,7 @@
   };
 
         switch (userRoomMembership.get(user.id)) {
-          case (?buff
-        };
-      };
+          case
       case null true;
     }
   };
