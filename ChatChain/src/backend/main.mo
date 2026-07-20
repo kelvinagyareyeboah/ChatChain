@@ -1,6 +1,4 @@
-
-   : ?Nat, users : [User], n
-  public query func getRoomStatistics(roomId : Nat) : async ?{
+tics(roomId : Nat) : async ?{
     room : ChatRoom;
     totalMessages : Nat;
     activeUsers : Nat;
