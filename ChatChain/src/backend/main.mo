@@ -1,7 +1,5 @@
 
   );
-    
-    for (user in users.vals()) {
       if (user.banned) continue;
       i
       results.add(user);
