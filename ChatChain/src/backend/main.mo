@@ -1,8 +1,7 @@
 
   
-  private type RoomStatistics = {
-    totalMessages : Nat;
-    messagesToday : Nat;
+  private type RoomStatis
+
     activeUsers : TrieMap.TrieMap<Principal, Bool>;
     userMessageCounts : TrieMap.TrieMap<Principal, Nat>;
   };
