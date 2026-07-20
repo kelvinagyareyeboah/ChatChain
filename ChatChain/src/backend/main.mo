@@ -1,7 +1,4 @@
 
-  
-  private type RoomStatis
-TrieMap<Principal, Nat>;
   };
   
   private func collectRoomStatistics(
