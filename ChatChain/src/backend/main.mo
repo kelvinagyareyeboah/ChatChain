@@ -1,9 +1,7 @@
 
       case null true;
     }
-  };
-  
-  private func updateCache(roomId : ?Nat, users : [User], now : Int) {
+   : ?Nat, users : [User], now : Int) {
     lastCacheUpdate := now;
     switch (roomId) {
       case (?id) onlineUsersCache.put(id, users);
