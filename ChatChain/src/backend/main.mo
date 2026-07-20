@@ -1,9 +1,4 @@
-[(Pri
-      case (?room) ?analyzeRoom(room);
-    }
-  };
-  
-  private func analyzeRoom(room : ChatRoom) : {
+m : ChatRoom) : {
     room : ChatRoom;
     totalMessages : Nat;
     activeUsers : Nat;
