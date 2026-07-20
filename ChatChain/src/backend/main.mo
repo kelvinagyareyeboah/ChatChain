@@ -1,6 +1,4 @@
-tics(roomId : Nat) :
-    messagesToday : Nat;
-    topPosters : [(Principal, Nat)];
+[(Principal, Nat)];
   } {
     switch (rooms.get(roomId)) {
       case null null;
