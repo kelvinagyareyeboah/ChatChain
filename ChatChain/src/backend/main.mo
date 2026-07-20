@@ -2,7 +2,6 @@
   );
       if (user.banned) continue;
       i
-      results.add(user);
     };
     
     Buffer.toArray(results)
