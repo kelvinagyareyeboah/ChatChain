@@ -1,7 +1,4 @@
-[(Principal, Nat)];
-  } {
-    switch (rooms.get(roomId)) {
-      case null null;
+[(Pri
       case (?room) ?analyzeRoom(room);
     }
   };
