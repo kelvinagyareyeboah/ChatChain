@@ -5,8 +5,7 @@
     
     for (user in users.vals()) {
       if (user.banned) continue;
-      if (not isUserOnline(user, now)) continue;
-      if (not isUserInRoom(user, roomId)) continue;
+      if (no(user, roomId)) continue;
       
       results.add(user);
     };
