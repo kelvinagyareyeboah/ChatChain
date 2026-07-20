@@ -1,6 +1,6 @@
 =======
-        case (?id) {
-          switch (onlineUsersCache.get(id)) {
+        cas
+UsersCache.get(id)) {
             case (?cached) return cached;
             case null {};
           };
