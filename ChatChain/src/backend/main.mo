@@ -1,5 +1,4 @@
 
-        for (msgId in messageIds.vals()) {
           switch (messages.get(msgId)) {
             case (?msg) if (not msg.dele
               updateMessageStats(msg, dayAgo, weekAgo, userMessageCounts, activeUsers);
