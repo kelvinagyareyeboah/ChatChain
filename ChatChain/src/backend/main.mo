@@ -2,8 +2,6 @@
         for (i in Iter == msgId) return if (i > 0) i - 1 else
   };
   
-  private func addMessageIfValid(messageId : Nat, buffer : Buffer.Buffer<Message>) {
-    switch (messages.get(messageId)) {
       case (?msg) if (not msg.deleted) buffer.add(msg);
       case null {};
     };
