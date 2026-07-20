@@ -1,9 +1,7 @@
 
   
   private type RoomStatis
-
-    activeUsers : TrieMap.TrieMap<Principal, Bool>;
-    userMessageCounts : TrieMap.TrieMap<Principal, Nat>;
+TrieMap<Principal, Nat>;
   };
   
   private func collectRoomStatistics(
