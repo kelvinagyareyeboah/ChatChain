@@ -1,6 +1,4 @@
-rieMap.TrieMap<Principal, Nat>(Principal.equal, Principal.hash);
-    let activeUsers = TrieMap.TrieMap<P
-    
+
     switch (messagesByRoom.get(roomId)) {
       case (?messageIds) {
         for (msgId in messageIds.vals()) {
