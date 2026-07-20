@@ -1,6 +1,4 @@
-
-  };
-    let userMessageCounts = TrieMap.TrieMap<Principal, Nat>(Principal.equal, Principal.hash);
+rieMap.TrieMap<Principal, Nat>(Principal.equal, Principal.hash);
     let activeUsers = TrieMap.TrieMap<Principal, Bool>(Principal.equal, Principal.hash);
     var totalMessages : Nat = 0;
     var messagesToday : Nat = 0;
