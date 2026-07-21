@@ -1,7 +1,5 @@
 
   // ====
-      content : Text;
-      roomId : Nat;
     }]
   ) : async Result<[Message], Error> {
     
