@@ -1,5 +1,4 @@
-vals()) {
-      let result = createAndStoreMessage(msg, caller);
+ler);
       results.add(result);
     };
     
