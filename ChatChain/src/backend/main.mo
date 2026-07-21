@@ -1,5 +1,4 @@
-s.size();
-      roomCount = rooms.size();
+;
       storageSize = storageSize;
       isHealthy = true;
     }
