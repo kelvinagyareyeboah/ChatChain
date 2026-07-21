@@ -1,8 +1,4 @@
-
-    for (msg in 
-  
-  private func createAndStoreMessage(
-    msg : { content : Text; roomId : Nat },
+xt; roomId : Nat },
     caller : Principal
   ) : Message {
     let messageId = nextMessageId;
