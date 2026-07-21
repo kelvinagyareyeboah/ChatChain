@@ -1,5 +1,4 @@
-ormMessageCleanup(days
-  
+
   private func performMessageCleanup(daysOld : Nat) : Nat {
     let cutoff = now() - (daysOld * 24 * 60 * 60 * 1_000_000_000);
     let deleted = Buffer.Buffer<Nat>(100);
