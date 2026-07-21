@@ -1,8 +1,4 @@
-;
-      storageSize = storageSize;
-      isHealthy = true;
-    }
-  };
+
   
   private func estimateStorageSize() : Nat {
     (users.size() * 500) + (messages.size() * 200) + (rooms.size() * 300)
