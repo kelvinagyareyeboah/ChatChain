@@ -1,7 +1,5 @@
 
-    dayAgo : Int,
-    weekAgo : Int,
-    userMessageCounts : TrieMap.TrieMap<Principal, Nat>,
+    dayAgeMap.TrieMap<Principal, Nat>,
     activeUsers : TrieMap.TrieMap<Principal, Bool>
   ) {
     updateUserMessageCount(msg.sender, userMessageCounts);
