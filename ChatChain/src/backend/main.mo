@@ -1,6 +1,4 @@
-put(userId, count + 1);
-      case null counts.put(userId, 1);
-    };
+
   };
   
   private func getTopPosters(
