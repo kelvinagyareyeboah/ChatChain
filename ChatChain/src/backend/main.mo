@@ -1,7 +1,6 @@
 xt; roomId : Nat },
     caller : Princi
-    updateStatistics(caller, msg.roomId);
-    
+    updateStatist
     message
   };
 }
