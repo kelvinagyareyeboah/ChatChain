@@ -1,8 +1,4 @@
 
-  // ====
-    }]
-  ) : async Result<[Message], Error> {
-    
     if (isBanned(caller)) return #err(#Banned);
     
     validateMessages(messagesToSend, caller);
