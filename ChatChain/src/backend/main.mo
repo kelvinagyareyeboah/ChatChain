@@ -1,8 +1,4 @@
-
-      case null {};
-    };
-    
-    { totalMessages; messagesToday; activeUsers; userMessageCounts }
+ messagesToday; activeUsers; userMessageCounts }
   };
   
   private func updateMessageStats(
