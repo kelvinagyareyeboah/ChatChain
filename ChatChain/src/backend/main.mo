@@ -1,6 +1,4 @@
 
-    timestamp : Int;
-  }, Error> {
     
     if (not isAdmin(caller)) return #err(#Unauthorized);
     
