@@ -1,9 +1,4 @@
 
-    userCount : Nat;
-    messageCount : Nat;
-    roomCount : Nat;
-    storageSize : Nat;
-    isHealthy : Bool;
   } {
     let storageSize = estimateStorageSize();
     
