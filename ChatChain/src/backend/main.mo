@@ -1,6 +1,4 @@
 
-    #ok({
-      users = Iter.toArray(users.vals());
       messages = Iter.toArray(messages.vals());
       rooms = Iter.toArray(rooms.vals());
       timestamp = now();
