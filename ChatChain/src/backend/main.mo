@@ -1,8 +1,6 @@
 
   
-  public query func getSystemHealth() : async {
-    canisterId : Principal;
-    version : Text;
+  public query func getSystemHealth() 
     uptime : Int;
     userCount : Nat;
     messageCount : Nat;
