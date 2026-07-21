@@ -1,6 +1,4 @@
-s
-go) activeUsers.put(msg.sender, true);
-  };
+
   
   private func updateUserMessageCount(
     userId : Principal,
