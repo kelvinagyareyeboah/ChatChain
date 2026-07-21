@@ -1,6 +1,5 @@
 
-  ) : [(Principal, Nat)] {
-    let entries = Iter.toArray(userMessageCounts.entries());
+.toArray(userMessageCounts.entries());
     let sorted = Array.sort(entries, func(a : (Principal, Nat), b : (Principal, Nat)) : Order.Order {
       if (a.1 > b.1) #greater else if (a.1 < b.1) #less else #equal
     });
