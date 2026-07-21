@@ -1,7 +1,4 @@
 
-  
-  public query func getSystemHealth() 
-    uptime : Int;
     userCount : Nat;
     messageCount : Nat;
     roomCount : Nat;
