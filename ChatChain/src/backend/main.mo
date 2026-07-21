@@ -1,7 +1,4 @@
-;
-    fo
-  public shared ({ caller }) func backupData() : async Result<{
-    users : [User];
+
     messages : [Message];
     rooms : [ChatRoom];
     timestamp : Int;
