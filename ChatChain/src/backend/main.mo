@@ -1,8 +1,5 @@
 00) + (roounc deleteOldMessages(
-    daysOld : Nat
-  ) : async Result<Nat, Error> {
-    
-    if (not isAdmin(caller)) return #err(#Unauthorized);
+    daysOld : Nat\#err(#Unauthorized);
     
     let deletedCount = performMessageCleanup(daysOld);
     #ok(deletedCount)
