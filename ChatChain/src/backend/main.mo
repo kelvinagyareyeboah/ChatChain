@@ -1,7 +1,6 @@
 
   private func performMessageCleanup(daysOld : Nat) : Nat {
-    let cutoff = now() - (daysOld * 24 * 60 * 60 * 1_000_000_000);
-    let deleted = Buffer.Buffer<Nat>(100);
+    let cutoff = now() - (da00);
     
     for ((id, msg) in messages.entries()) {
       if (msg.timestamp < cutoff and not msg.pinned) {
