@@ -1,6 +1,4 @@
-
-  
-  private func updateUserMessageCount(
+eCount(
     userId : Principal,
     counts : TrieMap.TrieMap<Principal, Nat>
   ) {
