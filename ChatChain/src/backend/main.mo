@@ -1,9 +1,4 @@
 
-    };
-    
-    #ok(Buffer.toArray(results))
-  };
-  
   private func validateMessages(
     messages : [{ content : Text; roomId : Nat }],
     caller : Principal
