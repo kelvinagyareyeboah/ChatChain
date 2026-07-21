@@ -1,7 +1,5 @@
 
-    counts : TrieMap.TrieMap<Principal, Nat>
-  ) {
-    switch (counts.get(userId)) {
+    counts : TrieMap
       case (?count) counts.put(userId, count + 1);
       case null counts.put(userId, 1);
     };
