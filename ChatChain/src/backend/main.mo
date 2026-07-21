@@ -1,7 +1,5 @@
 
-    for (msg in messages.vals()) {
-      assert Text.size(msg.content) <= MAX_MESSAGE_LENGTH;
-      asser
+    for (msg in 
   
   private func createAndStoreMessage(
     msg : { content : Text; roomId : Nat },
