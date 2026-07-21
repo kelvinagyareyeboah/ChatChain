@@ -1,7 +1,4 @@
 
-  } {
-    let storageSize = estimateStorageSize();
-    
     {
       canisterId = Principal.fromActor(ChatChain);
       version = "5.2.0";
