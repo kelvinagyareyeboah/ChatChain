@@ -1,6 +1,4 @@
 
-    
-    for ((id, msg) in ()) {
       if (msg.timestamp < cutoff and not msg.pinned) {
         deleted.add(id);
       };
