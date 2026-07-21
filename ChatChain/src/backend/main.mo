@@ -1,9 +1,6 @@
 
     {
-      canisterId = Principal.fromActor(ChatChain);
-      version = "5.2.0";
-      uptime = now() - canisterCreatedAt;
-      userCount = users.size();
+      canisterId =
       messageCount = messages.size();
       roomCount = rooms.size();
       storageSize = storageSize;
