@@ -1,6 +1,4 @@
 
-    messages : [Message];
-    rooms : [ChatRoom];
     timestamp : Int;
   }, Error> {
     
