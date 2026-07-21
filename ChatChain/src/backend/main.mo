@@ -1,6 +1,4 @@
-00) + (roounc deleteO
-    daysOld : Nat\#err(#Unauthorized);
-    
+
     let deletedCount = performMessageCleanup(daysOld);
     #ok(deletedCount)
   };
