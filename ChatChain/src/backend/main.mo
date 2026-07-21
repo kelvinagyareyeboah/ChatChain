@@ -1,6 +1,4 @@
 
-      messages = Iter.toArray(messages.vals());
-      rooms = Iter.toArray(rooms.vals());
       timestamp = now();
     })
   };
