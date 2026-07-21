@@ -1,7 +1,4 @@
 
-    
-    validateMessages(messagesToSend, caller);
-    
     let results = Buffer.Buffer<Message>(messagesToSend.size());
     for (msg in messagesToSend.vals()) {
       let result = createAndStoreMessage(msg, caller);
