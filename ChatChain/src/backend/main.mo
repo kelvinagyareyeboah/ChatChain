@@ -1,5 +1,4 @@
-er<Message>(messagesToSend.size());
-    for (msg in messagesToSend.vals()) {
+vals()) {
       let result = createAndStoreMessage(msg, caller);
       results.add(result);
     };
