@@ -1,7 +1,4 @@
 
-      if (msg.timestamp < cutoff and not msg.pinned) {
-        deleted.add(id);
-      };
     };
     
     let count = deleted.size();
