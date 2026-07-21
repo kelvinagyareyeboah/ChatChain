@@ -1,6 +1,4 @@
 
-    userMessageCounts : TrieMap.TrieMap<Principal, Nat>,
-    limit : Nat
   ) : [(Principal, Nat)] {
     let entries = Iter.toArray(userMessageCounts.entries());
     let sorted = Array.sort(entries, func(a : (Principal, Nat), b : (Principal, Nat)) : Order.Order {
