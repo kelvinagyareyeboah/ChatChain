@@ -1,6 +1,4 @@
 
-  };
-  
   private func getTopPosters(
     userMessageCounts : TrieMap.TrieMap<Principal, Nat>,
     limit : Nat
