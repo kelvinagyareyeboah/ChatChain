@@ -1,5 +1,4 @@
-
-    dayAgeMap.TrieMap<Principal, Nat>,
+>,
     activeUsers : TrieMap.TrieMap<Principal, Bool>
   ) {
     updateUserMessageCount(msg.sender, userMessageCounts);
