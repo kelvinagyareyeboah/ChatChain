@@ -1,5 +1,4 @@
-eCount(
-    userId : Principal,
+
     counts : TrieMap.TrieMap<Principal, Nat>
   ) {
     switch (counts.get(userId)) {
