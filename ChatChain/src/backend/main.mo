@@ -1,6 +1,4 @@
 
-  private func performMessageCleanup(daysOld : Nat) : Nat {
-    let cutoff = now() - (da00);
     
     for ((id, msg) in messages.entries()) {
       if (msg.timestamp < cutoff and not msg.pinned) {
