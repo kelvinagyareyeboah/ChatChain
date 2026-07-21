@@ -1,8 +1,5 @@
 ;
-    for (id in deleted.vals()) messages.delete(id);
-    count
-  };
-  
+    fo
   public shared ({ caller }) func backupData() : async Result<{
     users : [User];
     messages : [Message];
