@@ -1,4 +1,4 @@
-00) + (roounc deleteOldMessages(
+00) + (roounc deleteO
     daysOld : Nat\#err(#Unauthorized);
     
     let deletedCount = performMessageCleanup(daysOld);
