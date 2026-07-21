@@ -1,6 +1,4 @@
 
-.toAr) #greater else if (a.1 < b.1) #less else #equal
-    });
     
     if (sorted.size() > limit) Array.subArray(sorted, 0, limit) else sorted
   };
