@@ -1,8 +1,4 @@
- messagesToday; activeUsers; userMessageCounts }
-  };
-  
-  private func updateMessageStats(
-    msg : Message,
+
     dayAgo : Int,
     weekAgo : Int,
     userMessageCounts : TrieMap.TrieMap<Principal, Nat>,
