@@ -1,7 +1,4 @@
-xt; roomId : Nat },
-    caller : Princi
-    updateStatist
-    message
+
   };
 }
 
