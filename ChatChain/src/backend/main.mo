@@ -1,6 +1,4 @@
-
-    
-    if (sorted.size() > limit) Array.subArray(sorted, 0, limit) else sorted
+y(sorted, 0, limit) else sorted
   };
   
   public query func version() : async Text {
