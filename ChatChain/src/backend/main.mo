@@ -1,9 +1,7 @@
 
     for (msg in messages.vals()) {
       assert Text.size(msg.content) <= MAX_MESSAGE_LENGTH;
-      assert hasRoomAccess(caller, msg.roomId);
-    };
-  };
+      asser
   
   private func createAndStoreMessage(
     msg : { content : Text; roomId : Nat },
