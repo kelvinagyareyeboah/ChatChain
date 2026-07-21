@@ -1,8 +1,7 @@
 
   // ===========================================================================
   
-  public shared ({ caller }) func batchSendMessages(
-    messagesToSend : [{
+  public shared ({ caller }
       content : Text;
       roomId : Nat;
     }]
