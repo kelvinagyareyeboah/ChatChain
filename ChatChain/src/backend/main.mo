@@ -1,7 +1,4 @@
-00) + (rooms.size() * 300)
-  };
-
-  public shared ({ caller }) func deleteOldMessages(
+00) + (roounc deleteOldMessages(
     daysOld : Nat
   ) : async Result<Nat, Error> {
     
