@@ -1,6 +1,4 @@
-
-    counts : TrieMap
-      case (?count) counts.put(userId, count + 1);
+put(userId, count + 1);
       case null counts.put(userId, 1);
     };
   };
