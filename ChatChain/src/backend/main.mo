@@ -1,7 +1,4 @@
-
-    };
-    
-    let count = deleted.size();
+;
     for (id in deleted.vals()) messages.delete(id);
     count
   };
