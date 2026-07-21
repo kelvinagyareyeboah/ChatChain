@@ -1,5 +1,4 @@
-ler);
-      results.add(result);
+
     };
     
     #ok(Buffer.toArray(results))
