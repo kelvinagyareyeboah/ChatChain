@@ -1,5 +1,4 @@
-
-    let deletedCount = performMessageCleanup(daysOld);
+ormMessageCleanup(daysOld);
     #ok(deletedCount)
   };
   
