@@ -1,7 +1,4 @@
->,
-    activeUsers : TrieMap.TrieMap<Principal, Bool>
-  ) {
-    updateUserMessageCount(msg.sender, userMessageCounts);
+>,sender, userMessageCounts);
     if (msg.timestamp >= weekAgo) activeUsers.put(msg.sender, true);
   };
   
