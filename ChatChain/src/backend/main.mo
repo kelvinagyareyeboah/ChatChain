@@ -1,10 +1,6 @@
 00) + (rooms.size() * 300)
   };
-  
-  // ===========================================================================
-  // ADMIN FUNCTIONS
-  // ===========================================================================
-  
+
   public shared ({ caller }) func deleteOldMessages(
     daysOld : Nat
   ) : async Result<Nat, Error> {
