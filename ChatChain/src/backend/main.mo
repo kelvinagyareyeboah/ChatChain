@@ -1,7 +1,4 @@
 
-    
-    if (not isAdmin(caller)) return #err(#Unauthorized);
-    
     #ok({
       users = Iter.toArray(users.vals());
       messages = Iter.toArray(messages.vals());
