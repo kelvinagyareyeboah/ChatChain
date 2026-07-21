@@ -1,7 +1,4 @@
 
-  public query func version() : async Text {
-    "ChatChain v5.2.0"
-  };
   
   public query func getSystemHealth() : async {
     canisterId : Principal;
