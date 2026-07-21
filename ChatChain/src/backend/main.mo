@@ -1,5 +1,5 @@
->,sender, userMessageCounts);
-    if (msg.timestamp >= weekAgo) activeUsers.put(msg.sender, true);
+s
+go) activeUsers.put(msg.sender, true);
   };
   
   private func updateUserMessageCount(
