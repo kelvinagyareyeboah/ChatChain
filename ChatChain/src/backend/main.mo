@@ -1,8 +1,6 @@
 
   private func validateMessages(
-    messages : [{ content : Text; roomId : Nat }],
-    caller : Principal
-  ) {
+    messages : [{ content : Text; 
     for (msg in messages.vals()) {
       assert Text.size(msg.content) <= MAX_MESSAGE_LENGTH;
       assert hasRoomAccess(caller, msg.roomId);
