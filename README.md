@@ -1,8 +1,7 @@
 
 | 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/identity` |
-| 🛠️ SDK | DFX v0.15+ |
-
+| 🛠️
 ---
 
 ## 📁 Project Structure
