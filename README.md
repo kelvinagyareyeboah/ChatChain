@@ -2,7 +2,7 @@
 │   │   ├── 📄 index.html
 │   │  
 │   │    
-│   └── 📂 backend/
+│ 
 │       ├── main.mo
 │       └
 ├── 📄 dfx.json
