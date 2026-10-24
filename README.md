@@ -1,5 +1,5 @@
 
-| ⛓️ Blockchain | Internet Computer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/identity` |
+| ⛓️ Blockchain | Iet Computer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/identity` |
 | 🛠️
 ---
 
