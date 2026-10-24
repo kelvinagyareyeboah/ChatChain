@@ -3,7 +3,7 @@
 │   │   └── 📂 decla
 │   
 │   │     
-│   │           └── ChatChain.js
+│   │    
 │   └── 📂 backend/
 │       ├── main.mo
 │       └── canister_ids.json
