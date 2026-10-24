@@ -1,4 +1,4 @@
-t on-chain storage — no servers, no middlemen
+
 [Features](#-features) ·started) · [Deployment](#-deployment-to-icp-mainnet) · [Contribut
 ## 📖 About
 
