@@ -1,6 +1,4 @@
-<div align="center">
-
-# 💬 ChatChain
+<div align="center
 
 **A decentralized, serverless chat application built on the Internet Computer Protocol.**
 
