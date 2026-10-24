@@ -1,6 +1,6 @@
 
 │   │   ├── 📄 index.html
-│   │   └── 📂 declarations/
+│   │   └── 📂 decla
 │   
 │   │     
 │   │           └── ChatChain.js
