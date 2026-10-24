@@ -1,4 +1,4 @@
-_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)](https:[![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+re&logo=dfinity&logoColor=white)](https:[![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Webpack](https://img.shields.io/badge/Bundler-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![DFX](https://img.shields.io/badge/SDK-DFX_v0.15+-29ABE2?style=flat-square)](https://internetcomputer.org/docs/current/developer-docs/setup
 Secure, blockchain-native messaging with Internet Identity authentication and persistent on-chain storage — no servers, no middlemen.
