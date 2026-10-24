@@ -1,10 +1,7 @@
 styled interface with user list, chat window, and settings modal
 - 🔄 **Live Updates** — Polls for new messages every 5 seconds to keep conversations fresh
 - 🗄️ **Persistent Storage** — Motoko canister handles all user and message data on-chain
-- 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read, fork, and extend
-
----
-
+- 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
