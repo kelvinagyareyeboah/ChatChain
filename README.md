@@ -1,5 +1,4 @@
- Computer Protocol (ICP)**. Messages are stored in a **Motoko canister** on-chain, users authenticate via **Internet Identity**, and there's no traditional backend server in sight. Built with vanilla JavaScript, HTML, CSS, and Motoko — lightweight and easy to extend.
-
+ Compute
 ---
 
 ## ✨ Features
