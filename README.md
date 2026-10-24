@@ -4,7 +4,7 @@ oko canister handles all user and message data on-chain
 | 🧠 Smart Contract | Motoko (ICP Canister) |
 | ⛓️ Blockchain | Internet Computer Protocol (ICP) |
 | 🔐 Authentication | Internet Identity |
-| 🖥️ Frontend | Vanilla JavaScript, HTML, CSS |
+| 🖥️ Frontend | Vanilla JavaScr
 | 📦 Bundler | Webpack |
 | 🔗 ICP Integration | `@dfinity/agent`, `@dfinity/auth-client`, `@dfinity/identity` |
 | 🛠️ SDK | DFX v0.15+ |
