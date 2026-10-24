@@ -1,8 +1,6 @@
 
 
-## ⚡ Getting Started
-
-### Prerequisites
+## ⚡### Prerequisites
 
 ![DFX](https://img.shields.io/badge/DFX-v0.15+-29
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?style=flat-square&logo=nodedotjs&logoColor=white)
