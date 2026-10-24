@@ -1,5 +1,5 @@
  and message data on-chain
-- 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read
+- 🌐 **Op JS, HTML, CSS, and Motoko — easy to read
 ## 🛠️ Tech Sta|---|---|
 | 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol (ICP) |
