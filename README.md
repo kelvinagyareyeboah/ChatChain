@@ -1,5 +1,4 @@
-
-ChatChain is a fully decentralized chat application running entirely on the **Internet Computer Protocol (ICP)**. Messages are stored in a **Motoko canister** on-chain, users authenticate via **Internet Identity**, and there's no traditional backend server in sight. Built with vanilla JavaScript, HTML, CSS, and Motoko — lightweight and easy to extend.
+lized chat application running entirely on the **Internet Computer Protocol (ICP)**. Messages are stored in a **Motoko canister** on-chain, users authenticate via **Internet Identity**, and there's no traditional backend server in sight. Built with vanilla JavaScript, HTML, CSS, and Motoko — lightweight and easy to extend.
 
 ---
 
