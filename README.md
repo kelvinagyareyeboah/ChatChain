@@ -1,6 +1,5 @@
 
-
-## ⚡### Pre![Node](https://img.shields.io/badge/Node.js-≥16-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+img.shields.io/badge/Node.js-≥16-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-required-F05032?style=flat-square&logo=
 ```bash
 # Install DFX SDK
