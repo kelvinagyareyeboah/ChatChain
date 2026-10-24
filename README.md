@@ -13,9 +13,7 @@ sh -ci "$(curl -fsSL
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/KelvCodes/ChatChain.git
-cd ChatChain
-
+git clone https://github.com/KelvCodes/C
 # 2. Install dependencies
 npm install
 
