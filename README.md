@@ -1,8 +1,4 @@
 
-├── 📄 dfx.json
-├── 📄 package.json
-├── 📄 webpack.config.js
-└── 
 
 ## ⚡ Getting Started
 
