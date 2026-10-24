@@ -1,7 +1,6 @@
 
 
-│   ├── 📂 frontend/
-│   │   ├── 📂 assets/
+│   ├── 📂 frontend
 │   │ 
 │   │   │ 
 │   │   │   └── 📂 js/
