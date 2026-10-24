@@ -1,5 +1,5 @@
-omputer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/i
-C
+
+
 │   ├── 📂 frontend/
 │   │   ├── 📂 assets/
 │   │ 
