@@ -2,7 +2,7 @@ omputer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-cli
 C
 │   ├── 📂 frontend/
 │   │   ├── 📂 assets/
-│   │   │   ├── 📂 css/
+│   │ 
 │   │   │   │   └── styles.css
 │   │   │   └── 📂 js/
 │   │   │       └── index.js
