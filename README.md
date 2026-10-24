@@ -2,11 +2,7 @@ io/bGit-required-F05032?style=flat-square&logo=
 ```bash
 # Install DFX SDK
 sh -ci "$(curl -fsSL 
-- **Node.js** ≥ 16 — [Download](https://nodejs.org)
-- **Internet
-
-```bash
-# 1. Clone the repository
+- **Node.js** ≥ 16 — [Download](https://no# 1. Clone the repository
 git clone https://gi
 # 2. Install dependencies
 npm install
