@@ -1,8 +1,6 @@
 
 | 🧠 Smart Contra
-| ⛓️ Blockchain | Internet Computer Protocol| 🖥️ Frontend | Vanilla JavaScr
-| 📦 Bundler | Webpack |
-| 🔗 ICP Integration | `@dfinity/agent`, `@dfinity/auth-client`, `@dfinity/identity` |
+| ⛓️ Blockchain | Internet Computer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@dfinity/agent`, `@dfinity/auth-client`, `@dfinity/identity` |
 | 🛠️ SDK | DFX v0.15+ |
 
 ---
