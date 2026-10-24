@@ -1,8 +1,4 @@
-omputer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/identity` |
-| 🛠️
----
-
-## ```
+omputer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/i
 ChatChain/
 ├── 📂 src/
 │   ├── 📂 frontend/
