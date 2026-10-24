@@ -3,7 +3,7 @@
 │   ├── 📂 frontend/
 │   │   ├── 📂 assets/
 │   │ 
-│   │   │   │   └── styles.css
+│   │   │ 
 │   │   │   └── 📂 js/
 │   │   │       └── index.js
 │   │   ├── 📄 index.html
