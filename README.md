@@ -1,6 +1,4 @@
-s stored securely and permanently on the ICP blockchain
-- 🔐 **Internet Identity Auth** — Passwordless, privacy-preserving user authentication
-- 📱 **Responsive UI** — Gradient-styled interface with user list, chat window, and settings modal
+styled interface with user list, chat window, and settings modal
 - 🔄 **Live Updates** — Polls for new messages every 5 seconds to keep conversations fresh
 - 🗄️ **Persistent Storage** — Motoko canister handles all user and message data on-chain
 - 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read, fork, and extend
