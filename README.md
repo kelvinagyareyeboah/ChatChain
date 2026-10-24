@@ -9,7 +9,7 @@
 │   │   ├── 📄 index.html
 │   │   └── 📂 declarations/
 │   │       └── 📂 ChatChain/
-│   │           ├── ChatChain.d.ts
+│   │     
 │   │           └── ChatChain.js
 │   └── 📂 backend/
 │       ├── main.mo
