@@ -1,11 +1,7 @@
 
 - **Node.js** ≥ 16 — [Download](https://no# 1. Clone the repository
 git clone https://gi
-# 2. Install dependencies
-npm install
-
-# 3. Start the local ICP replica
-dfx start --background
+# 2. Install dependdfx start --background
 
 # 4. Deploy canisters locally
 dfx deploy
