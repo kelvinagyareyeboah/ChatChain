@@ -1,6 +1,5 @@
- Internet Identity authentication and persistent on-chain storage — no servers, no middlemen.
-
-[Features](#-features) · [Getting Started](#-getting-started) · [Deployment](#-deployment-to-icp-mainnet) · [Contribut
+ Internet Identity authentication and persistent on-chain storage — no servers, no middlemen
+[Features](#-features) ·started) · [Deployment](#-deployment-to-icp-mainnet) · [Contribut
 ## 📖 About
 
 ChatChain is a fully decentralized chat application running entirely on the **Internet Computer Protocol (ICP)**. Messages are stored in a **Motoko canister** on-chain, users authenticate via **Internet Identity**, and there's no traditional backend server in sight. Built with vanilla JavaScript, HTML, CSS, and Motoko — lightweight and easy to extend.
