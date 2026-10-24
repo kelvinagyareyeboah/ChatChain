@@ -1,5 +1,4 @@
 
-| 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol| 🖥️ Frontend | Vanilla| 🔗 ICP Integration | `@/auth-client`, `@dfinity/identity` |
 | 🛠️
 ---
