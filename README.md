@@ -1,6 +1,4 @@
 
-│   │ 
-│   .js
 │   │   ├── 📄 index.html
 │   │   └── 📂 declarations/
 │   │       └── 📂 ChatChain/
