@@ -1,5 +1,4 @@
- ainS, and Motoko — easy to read
-## 🛠️ Tech Sta|---|---|
+
 | 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol (ICP) |
 | 🔐 Authentication | Internet Identity |
