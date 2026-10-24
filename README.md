@@ -4,9 +4,7 @@
 | 🛠️
 ---
 
-## 📁 Project Structure
-
-```
+## ```
 ChatChain/
 ├── 📂 src/
 │   ├── 📂 frontend/
