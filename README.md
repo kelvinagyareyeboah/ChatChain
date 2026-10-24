@@ -4,8 +4,7 @@
 ![Git](https://img.shields.io/badge/Git-required-F05032?style=flat-square&logo=
 ```bash
 # Install DFX SDK
-sh -ci "$(curl -fsSL https://smartcontrac
-
+sh -ci "$(curl -fsSL 
 - **Node.js** ≥ 16 — [Download](https://nodejs.org)
 - **Internet Identity** — [identity.ic0.app](https://identity.ic0.app) or deploy locally
 
