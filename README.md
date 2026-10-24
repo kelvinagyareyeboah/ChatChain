@@ -10,8 +10,7 @@
 
 ![DFX](https://img.shields.io/badge/DFX-v0.15+-29ABE2?style=flat-square)
 ![Node](https://img.shields.io/badge/Node.js-≥16-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-required-F05032?style=flat-square&logo=git&logoColor=white)
-
+![Git](https://img.shields.io/badge/Git-required-F05032?style=flat-square&logo=
 ```bash
 # Install DFX SDK
 sh -ci "$(curl -fsSL https://smartcontracts.org/install.sh)"
