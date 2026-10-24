@@ -1,4 +1,4 @@
-oko canister handles all user and message data on-chain
+ and message data on-chain
 - 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read
 ## 🛠️ Tech Sta|---|---|
 | 🧠 Smart Contra
