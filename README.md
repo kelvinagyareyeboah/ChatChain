@@ -1,7 +1,7 @@
 oko canister handles all user and message data on-chain
 - 🌐 **Open Source** — Vanilla JS, HTML, CSS, and Motoko — easy to read
 ## 🛠️ Tech Sta|---|---|
-| 🧠 Smart Contract | Motoko (ICP Canister) |
+| 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol (ICP) |
 | 🔐 Authentication | Internet Identity |
 | 🖥️ Frontend | Vanilla JavaScr
