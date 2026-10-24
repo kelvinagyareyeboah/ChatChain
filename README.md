@@ -4,7 +4,7 @@
 │   │    
 │   └── 📂 backend/
 │       ├── main.mo
-│       └── canister_ids.json
+│       └
 ├── 📄 dfx.json
 ├── 📄 package.json
 ├── 📄 webpack.config.js
