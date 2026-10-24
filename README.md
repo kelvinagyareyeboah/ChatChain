@@ -1,5 +1,4 @@
-
-**A decentralized, serverless chat application built on the Internet Computer Protocol.**
+pplication built on the Internet Computer Protocol.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 [![ICP](https://img.shields.io/badge/Blockchain-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)](https://internet
