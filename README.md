@@ -3,7 +3,6 @@
 │   │  
 │   │    
 │ 
-│       ├── main.mo
 │       └
 ├── 📄 dfx.json
 ├── 📄 package.json
