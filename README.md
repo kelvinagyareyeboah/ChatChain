@@ -1,4 +1,4 @@
-io/bGit-required-F05032?style=flat-square&logo=
+=
 ```bash
 # Install DFX SDK
 sh -ci "$(curl -fsSL 
