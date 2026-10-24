@@ -3,12 +3,7 @@ _Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)](https:[![JavaS
 [![DFX](https://img.shields.io/badge/SDK-DFX_v0.15+-29ABE2?style=flat-square)](https://internetcomputer.org/docs/current/developer-docs/setup
 Secure, blockchain-native messaging with Internet Identity authentication and persistent on-chain storage — no servers, no middlemen.
 
-[Features](#-features) · [Getting Started](#-getting-started) · [Deployment](#-deployment-to-icp-mainnet) · [Contributing](#-contributing)
-
-</div>
-
----
-
+[Features](#-features) · [Getting Started](#-getting-started) · [Deployment](#-deployment-to-icp-mainnet) · [Contribut
 ## 📖 About
 
 ChatChain is a fully decentralized chat application running entirely on the **Internet Computer Protocol (ICP)**. Messages are stored in a **Motoko canister** on-chain, users authenticate via **Internet Identity**, and there's no traditional backend server in sight. Built with vanilla JavaScript, HTML, CSS, and Motoko — lightweight and easy to extend.
