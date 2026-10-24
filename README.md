@@ -1,8 +1,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![ICP](https://img.shields.io/badge/Blockchain-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)](https://internet
-[![Motoko](https://img.shields.io/badge/Backend-Motoko-6B4FBB?style=flat-square)](https://internetcomputer.org/docs/current/motoko/main/motoko)
-[![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![ICP](https://img.shields.io/badge/Blockchain-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white)](https:[![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Webpack](https://img.shields.io/badge/Bundler-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![DFX](https://img.shields.io/badge/SDK-DFX_v0.15+-29ABE2?style=flat-square)](https://internetcomputer.org/docs/current/developer-docs/setup/install/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
