@@ -1,7 +1,7 @@
 
 │   │   ├── 📄 index.html
 │   │   └── 📂 declarations/
-│   │       └── 📂 ChatChain/
+│   
 │   │     
 │   │           └── ChatChain.js
 │   └── 📂 backend/
