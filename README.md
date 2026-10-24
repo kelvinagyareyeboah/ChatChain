@@ -1,8 +1,6 @@
 
 │   │   ├── 📄 index.html
-│   │   └── 📂 decla
-│   
-│   │     
+│   │  
 │   │    
 │   └── 📂 backend/
 │       ├── main.mo
