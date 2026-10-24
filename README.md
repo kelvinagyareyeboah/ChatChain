@@ -8,10 +8,7 @@
 ├── 📄 dfx.json
 ├── 📄 package.json
 ├── 📄 webpack.config.js
-└── 📄 README.md
-```
-
----
+└── 
 
 ## ⚡ Getting Started
 
