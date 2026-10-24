@@ -1,4 +1,4 @@
- and message data on-chain
+ ain
 - 🌐 **Op JS, HTML, CSS, and Motoko — easy to read
 ## 🛠️ Tech Sta|---|---|
 | 🧠 Smart Contra
