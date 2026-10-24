@@ -1,7 +1,5 @@
 
 
-## ✨ Features
-
 - 🔗 **Decentralized Messaging** — Messages stored securely and permanently on the ICP blockchain
 - 🔐 **Internet Identity Auth** — Passwordless, privacy-preserving user authentication
 - 📱 **Responsive UI** — Gradient-styled interface with user list, chat window, and settings modal
