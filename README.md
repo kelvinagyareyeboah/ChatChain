@@ -1,5 +1,4 @@
-black)](https://developer.mozilla.org/en-US/docs/Wck-8DD6F9?style=flat-square&logo=webpack&logoColor=black)](https://webpack.js.org/)
-[![DFX](https://img.shields.io/badge/SDK-DFX_v0.15+-29ABE2?style=flat-square)](https://internetcomputer.org/docs/current/developer-docs/setup
+K-DFX_v0.15+-29ABE2?style=flat-square)](https://internetcomputer.org/docs/current/developer-docs/setup
 Secure, blockchain-native messaging with Internet Identity authentication and persistent on-chain storage — no servers, no middlemen.
 
 [Features](#-features) · [Getting Started](#-getting-started) · [Deployment](#-deployment-to-icp-mainnet) · [Contribut
