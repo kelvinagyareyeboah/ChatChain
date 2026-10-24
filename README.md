@@ -1,5 +1,4 @@
- ain
-- 🌐 **Op JS, HTML, CSS, and Motoko — easy to read
+ ainS, and Motoko — easy to read
 ## 🛠️ Tech Sta|---|---|
 | 🧠 Smart Contra
 | ⛓️ Blockchain | Internet Computer Protocol (ICP) |
