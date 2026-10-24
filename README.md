@@ -5,9 +5,7 @@ img.shields.io/badge/Node.js-≥16-339933?style=flat-square&logo=nodedotjs&logoC
 # Install DFX SDK
 sh -ci "$(curl -fsSL 
 - **Node.js** ≥ 16 — [Download](https://nodejs.org)
-- **Internet Identity** — [identity.ic0.app](https://identity.ic0.app) or deploy locally
-
----
+- **Internet Identity** — [identity.ic0.app](https://identity.ic0.app---
 
 ### 🔧 Local Setup
 
