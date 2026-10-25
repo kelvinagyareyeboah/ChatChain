@@ -1,6 +1,5 @@
 
 
-1. 🌐 Open the app in your browser
 2. ⚙️ Click the gear icon to log in via **Internet Identity**
 3. 📝 Enter a username to register
 4. 👤 Select a user from the list to start chatting
