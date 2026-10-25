@@ -1,8 +1,6 @@
 
 ```bash
 @dfinity/agent         # Canister interaction
-@dfinity/auth-client   # Internet Identity awebpack                # Modulecss-loader             # CSS processing
-copy-webpack-plugin    # Static asInstall everything with:
 
 ```bash
 npm install
