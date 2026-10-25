@@ -1,6 +1,4 @@
 
-Open [http://localhost:9000](http://localhost:9000) in your browser.
-
 ---
 
 ## 🧪 Testing the App
