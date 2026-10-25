@@ -1,9 +1,6 @@
 
 point dfx deploy internet_identity --Update `index.js` with the local Identity caniste
-### Regenerate Cani| 🗑️ Message Deletion | Add dele| ⚡ Real-Time | Explore ICP Pu
-
-| Issue | Details |
-|---|---|
+### Regenerate Cani| 🗑️ Message Deletion | Add dele| ⚡ Real-Time | Expl|---|---|
 | 🕐 Polling Delay | Not fully real-time — messages refresh every 5 seconds |
 | 🟢 Static Online Status | All users appear "online" — needs real-time tracking |
 | 💾 In-Memory Storage | All messages stored in-memory; add pagination for production |
