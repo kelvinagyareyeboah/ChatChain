@@ -2,7 +2,7 @@
 
 
 3. 📝 Enter a username to register
-4. 👤 Select a user from the list to start chatting
+4. 👤 Select a user from the list
 5. 💬 Send messages — they
 
 ## 🚀 Deployment to I
