@@ -8,7 +8,8 @@ npm install
 
 ## 🤝 Contributing
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
+[![PRs Welcom
+://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/issues/KelvCodes/ChatChain?style=flat-square)](https://github.com/KelvCodes/ChatChain/issues)
 [![GitHub stars](https://img.shields.io/github/stars/KelvCodes/ChatChain?style=flat-square)](https://github.com/KelvCodes/ChatChain/stargazers)
 
