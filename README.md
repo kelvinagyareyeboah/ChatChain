@@ -1,9 +1,7 @@
 
 ```bash
 @dfinity/agent         # Canister interaction
-@dfinity/auth-client   # Internet Identity authentication
-@dfinity/
-webpack                # Modulecss-loader             # CSS processing
+@dfinity/auth-client   # Internet Identity awebpack                # Modulecss-loader             # CSS processing
 copy-webpack-plugin    # Static asset copying
 ```
 
