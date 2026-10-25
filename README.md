@@ -1,10 +1,6 @@
 
 ```bash
-@dfinity/agent         # Canister inter
-npm install
-```
-
----
+@dfinity/agent 
 
 ## 🤝 Contributing
 
