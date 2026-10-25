@@ -1,8 +1,6 @@
 
 4. 👤 Select a user 
-# Deploy to ICP mainnet
-
-Ac
+# Deploy to
 https://<ChatChain_front
 ```
 
