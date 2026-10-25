@@ -4,10 +4,7 @@ Or host the frontend on Vercel and point it to th
 ## 🛠️ Deve### Internet Iden
 dfx deploy internet_identity --Update `index.js` with the local Identity canister ID for testing.
 
-### Regenerate CanisAfter modifying `main.mo`:
-
-```bash
-dfx generate ChatChain_backend
+### Regenerate CanisAfter modifyingdfx generate ChatChain_backend
 ```
 
 ### Reset Local State
