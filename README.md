@@ -6,7 +6,7 @@ Or host the frontend on Vercel and point dfx deploy internet_identity --Update `
 
 ## 🔮 Extending ChatChain
 
-| Feature | Approach |
+| 
 |---|---|
 | 🔒 Private Messaging | Include recipient Principals in message types |
 | 📄 Pagination | Add offset/limit params to message queries |
