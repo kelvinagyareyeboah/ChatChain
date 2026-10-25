@@ -1,9 +1,7 @@
 
 
 Or host the frontend on Vercel and point it to th
-## 🛠️ Deve### Internet Identity (Local)
-
-```bash
+## 🛠️ Deve### Internet Iden
 dfx deploy internet_identity --network local
 ```
 
