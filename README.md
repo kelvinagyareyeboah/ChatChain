@@ -2,7 +2,7 @@
 4. 👤 Select a user 
 # Deploy to ICP mainnet
 
-Access your live
+Ac
 https://<ChatChain_front
 ```
 
