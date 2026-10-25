@@ -1,9 +1,7 @@
 
 ://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![GitHub issues](https://img.shields.io/github/i?style=flat-square)](https://github.com/KelvCodes/ChatChain/issues)
-[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/ChatChain?style=flat-square)](https://github.com/KelvCodes/ChatChain/stargazers)
-
-All contributions are welcome — bug fixes, new features, docs, or ideas.
+[![GitHub stars](https://img.shields.io/github/stars/KelvCodes/ChatChain?style=flat-square)](https://github.com/KelvCodes/
 
 ```bashs
 
