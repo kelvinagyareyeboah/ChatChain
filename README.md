@@ -4,7 +4,7 @@
 # 3. Commit your changes
 git commit -m "Add your feature"
 
-# 4. Push and open a Pull Request
+# 4. 
 git push origin feature/
 
 ## 📄 License
