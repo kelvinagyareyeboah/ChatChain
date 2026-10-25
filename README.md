@@ -5,9 +5,7 @@ Or host the frontend on Vercel and point dfx deploy internet_identity --Update `
 ### Reset Local State
 
 ```bash
-dfx start --clean --background
-```
-
+dfx start --cl
 ---
 
 ## 🔮 Extending ChatChain
