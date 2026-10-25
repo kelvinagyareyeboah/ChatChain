@@ -1,8 +1,6 @@
 
 
-Or host the frontend on Vercel and point it to the mainnet backend canister.
-
----
+Or host the frontend on Vercel and point it to the mainnet---
 
 ## 🛠️ Development Notes
 
