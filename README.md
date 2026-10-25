@@ -6,7 +6,7 @@ git clone https://gi
 
 ### 5. S
 In `src/frontend/assets/js/in// Replace with your actual backend canister ID
-const canisterId = 'ryjl3-tyaaa-aaaaa-aaaba-cai';
+const canisterId = 'ryjl3-tyaa
 const host = 'http://127.0.0.1:4943';
 ```
 
