@@ -1,8 +1,6 @@
 
 4. 👤 Select a user 
 # Deploy to ICP mainnet
-dfx deploy -
-Update```js
 const caniste
 
 Access your live app at:
