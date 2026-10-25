@@ -1,7 +1,6 @@
 
 4. 👤 Select a user 
 # Deploy to ICP mainnet
-const caniste
 
 Access your live app at:
 
