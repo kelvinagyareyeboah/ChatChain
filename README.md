@@ -3,7 +3,6 @@
 git clone https://gi
 # 2. Install dependdfx start --background
 
-# 4. Deploy cani```
 
 ### 5. Set Your Canister ID
 
