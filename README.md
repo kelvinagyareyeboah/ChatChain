@@ -7,9 +7,7 @@ All contributions are welcome — bug fixes, new features, docs, or ideas.
 
 ```bashs
 
-# 2. Create your feature branch
-git checkout -b feature/your-feature
-
+# 2. Create your f
 # 3. Commit your changes
 git commit -m "Add your feature"
 
