@@ -1,6 +1,6 @@
 
 
-2. ⚙️ Click the gear icon to log in via **Internet Identity**
+
 3. 📝 Enter a username to register
 4. 👤 Select a user from the list to start chatting
 5. 💬 Send messages — they're stored in the canister and refreshed every 5 seconds
