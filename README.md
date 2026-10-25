@@ -2,9 +2,7 @@
 4. 👤 Select a user 
 # Deploy to ICP mainnet
 dfx deploy -
-Update `index.js` with your
-
-```js
+Update```js
 const canisterId = 'YOUR_IC_CAN
 ```
 
