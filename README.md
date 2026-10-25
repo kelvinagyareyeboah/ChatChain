@@ -1,8 +1,5 @@
 
-4. 👤 Select a user f
-5. 💬 Send
-
-## 🚀 
+4. 👤 Select a user 
 # Deploy to ICP mainnet
 dfx deploy --network ic
 ```
