@@ -1,9 +1,6 @@
 
 point dfx deploy internet_identity --Update `index.js` with the local Identity caniste
-### Regenerate Cani| 🗑️ Message Deletion | Add dele| ⚡ Real-Time | Explore ICP PubSub patterns 
-
----
-
+### Regenerate Cani| 🗑️ Message Deletion | Add dele| ⚡ Real-Time | Explore ICP Pu
 
 | Issue | Details |
 |---|---|
