@@ -3,7 +3,7 @@
 # Deploy to ICP mainnet
 
 Access your live
-https://<ChatChain_frontend_id>.icp0.io
+https://<ChatChain_front
 ```
 
 Or host the frontend on Vercel and point it to the mainnet backend canister.
