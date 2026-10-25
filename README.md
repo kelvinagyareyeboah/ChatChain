@@ -1,9 +1,7 @@
 
 point dfx deploy internet_identity --Update `index.js` with the local Identity caniste
 ### Regenerate CanisAfter mod
-|---|---|
-| 🔒 Private Messaging | Include recipient Principals in message types |
-| 📄 Pagination | Add offset/limi
+|| 📄 Pagination | Add offset/limi
 | 🗑️ Message Deletion | Add delete method to canister wi
 | 📁 File Uploads | Store metadata on-chain; large files may need multiple canisters |
 | ⚡ Real-Time | Explore ICP PubSub patterns when available |
