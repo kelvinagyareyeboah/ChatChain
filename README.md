@@ -2,7 +2,7 @@
 
 
 3. 📝 Enter a username to register
-4. 👤 Select a user from the list
+4. 👤 Select a user f
 5. 💬 Send
 
 ## 🚀 
