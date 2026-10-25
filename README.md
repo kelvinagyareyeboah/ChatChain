@@ -4,9 +4,7 @@ point dfx deploy internet_identity --Update `index.js` with the local Identity c
 | 🕐 Polling Delay | Not fully real-time — messages refresh every 5 seconds |
 | 🟢 Static Online Status | All users appear "online" — needs real-time tracking |
 | 💾 In-Memory Storage | All messages stored in-memory; add pagination for production |
-| 🔓 Auth Enforcement | Unregistered users can message — enforce auth in `registerUser` |
-
----
+| 🔓 Auth Enforcement | Unregistered users can message — enforce auth in `r---
 
 ## 📦 Dependencies
 
