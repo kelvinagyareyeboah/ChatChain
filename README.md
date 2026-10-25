@@ -3,8 +3,7 @@
 # Deploy to ICP mainnet
 dfx deploy -
 Update```js
-const canisterId = 'YOUR_IC_CAN
-```
+const caniste
 
 Access your live app at:
 
