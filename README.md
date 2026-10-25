@@ -4,7 +4,7 @@ point dfx deploy internet_identity --Update `index.js` with the local Identity c
 || 📄 Pagination | Add offset/limi
 | 🗑️ Message Deletion | Add delete method 
 | 📁 File Uploads | Store metadata on-chain; large files may need multiple canisters |
-| ⚡ Real-Time | Explore ICP PubSub patterns when available |
+| ⚡ Real-Time | Explore ICP PubSub patterns 
 
 ---
 
