@@ -1,7 +1,5 @@
 
 4. 👤 Select a user 
-# Deploy to
-http
 
 
 Or host the frontend on Vercel and point it to the mainnet backend canister.
