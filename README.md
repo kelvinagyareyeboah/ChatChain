@@ -2,9 +2,7 @@
 point dfx deploy internet_identity --Update `index.js` with the local Identity caniste
 ### Regenerate Cani| 🗑️ Message Deletion | Add dele| ⚡ Real-Time | Expl|---|---|
 | 🕐 Polling Delay | Not fully real-time — messages refresh every 5 seconds |
-| 🟢 Static Online Status | All users appear "online" — needs real-time| 🔓 Auth Enforcement | Unregistered user
-
-### Backend
+| 🟢 Static Online Status | All users appear "online" — needs real-time| 🔓 Auth Enforcement | Un
 - **Motoko** — via DFX SDK
 - **Internet Computer SDK (DFX)**
 
