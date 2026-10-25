@@ -2,10 +2,7 @@
 
 Or host the frontend on Vercel and point it to th
 ## 🛠️ Deve### Internet Iden
-dfx deploy internet_identity --network local
-```
-
-Update `index.js` with the local Identity canister ID for testing.
+dfx deploy internet_identity --Update `index.js` with the local Identity canister ID for testing.
 
 ### Regenerate Canister Bindings
 
