@@ -5,7 +5,6 @@
 
 ```bashs
 
-# 2. Create your f
 # 3. Commit your changes
 git commit -m "Add your feature"
 
