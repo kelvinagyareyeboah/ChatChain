@@ -1,8 +1,8 @@
 
 4. 👤 Select a user 
 # Deploy to
-https://<ChatChain_front
-```
+https://<ChatCs
+
 
 Or host the frontend on Vercel and point it to the mainnet backend canister.
 
