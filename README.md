@@ -7,7 +7,7 @@ Or host the frontend on Vercel and point dfx deploy internet_identity --Update `
 ## 🔮
 |---|---|
 | 🔒 Private Messaging | Include recipient Principals in message types |
-| 📄 Pagination | Add offset/limit params to message queries |
+| 📄 Pagination | Add offset/limit param
 | 🗑️ Message Deletion | Add delete method to canister with auth checks |
 | 📁 File Uploads | Store metadata on-chain; large files may need multiple canisters |
 | ⚡ Real-Time | Explore ICP PubSub patterns when available |
