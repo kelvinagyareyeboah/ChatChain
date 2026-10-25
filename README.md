@@ -6,7 +6,6 @@ point dfx deploy internet_identity --Update `index.js` with the local Identity c
 
 ---
 
-## ⚠️ Known Limitations
 
 | Issue | Details |
 |---|---|
