@@ -1,6 +1,4 @@
 
-point dfx deploy internet_identity --Update `index.js` with the local Identit- **Motoko** — via DFX SDK
-- **Interne
 ```bash
 @dfinity/agent         # Canister interaction
 @dfinity/auth-client   # Internet Identity authentication
