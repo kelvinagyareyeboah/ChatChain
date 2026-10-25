@@ -2,9 +2,7 @@
 4. 👤 Select a user 
 # Deploy to ICP mainnet
 
-Access your live app at:
-
-```
+Access your live
 https://<ChatChain_frontend_id>.icp0.io
 ```
 
