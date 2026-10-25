@@ -1,9 +1,7 @@
 
 
 Or host the frontend on Vercel and point dfx deploy internet_identity --Update `index.js` with the local Identity caniste
-### Regenerate CanisAfter modifyingdfx generate Ch
-### Reset Local State
-
+### Regenerate CanisAfter modifying
 ```bash
 dfx start --cl
 ---
