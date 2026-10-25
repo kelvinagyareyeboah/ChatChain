@@ -1,7 +1,7 @@
 
 
 
-3. 📝 Enter a username to register
+3. 📝 Enter a u
 4. 👤 Select a user f
 5. 💬 Send
 
