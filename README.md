@@ -3,7 +3,7 @@
 
 3. 📝 Enter a username to register
 4. 👤 Select a user from the list
-5. 💬 Send messages — they
+5. 💬 Send
 
 ## 🚀 
 # Deploy to ICP mainnet
