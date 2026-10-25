@@ -5,7 +5,7 @@
 4. 👤 Select a user from the list
 5. 💬 Send messages — they
 
-## 🚀 Deployment to I
+## 🚀 
 # Deploy to ICP mainnet
 dfx deploy --network ic
 ```
