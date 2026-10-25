@@ -4,8 +4,7 @@ git commit
 git push origin feature/
 
 ## 📄 License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
 MIT — free to use, modify, and distribute. See [`LICENSE`](LICENSE) for details.
 
