@@ -6,7 +6,7 @@ Update `index.js` with your
 
 ```js
 const canisterId = 'YOUR_IC_CANISTER_ID';
-const host = 'https://icp-api.io';
+const host = 'https
 ```
 
 Access your live app at:
