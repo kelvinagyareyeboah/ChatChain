@@ -1,6 +1,5 @@
 
-- **Node.js** ≥ 16 — [Download](https://no# 1. Clone the repository
-git clone https://gi
+- **Node.js** ≥ 16 — [Download](https://no# 1. Clone the reposi
 # 2. Install dependdfx st
 In `src/frontend/assets/js/in// Replace with your actual backen
 
