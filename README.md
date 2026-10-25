@@ -6,7 +6,7 @@ git push origin feature/
 ## 📄 License
 [![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
-MIT — free to use, modify, and distribute. See [`LICENSE`](LICENSE) for details.
+MIT — free to use, modify, and distribute. See [`LIC details.
 
 ---
 
