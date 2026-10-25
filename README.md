@@ -1,6 +1,4 @@
-
-://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![GitHub issues](https://img.shields.io/gitlvCodes/ChatChain?style=flat-square)](https://git
+img.shields.io/gitlvCodes/ChatChain?style=flat-square)](https://git
 # 3. Commit your changes
 git commit 
 git push origin feature/
