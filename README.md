@@ -2,9 +2,7 @@
 
 Or host the frontend on Vercel and point it to the mainnet---
 
-## 🛠️ Development Notes
-
-### Internet Identity (Local)
+## 🛠️ Deve### Internet Identity (Local)
 
 ```bash
 dfx deploy internet_identity --network local
