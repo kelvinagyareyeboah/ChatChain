@@ -2,8 +2,7 @@
 - **Node.js** ≥ 16 — [Download](https://no# 1. Clone the repository
 git clone https://gi
 # 2. Install dependdfx st
-In `src/frontend/assets/js/in// Replace with your actual backendconst host = 'http:/
-
+In `src/frontend/assets/js/in// Replace with your actual backen
 
 Open [http://localhost:9000](http://localhost:9000) in your browser.
 
