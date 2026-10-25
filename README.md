@@ -1,7 +1,6 @@
 
 
-Or host the frontend on Vercel and point it to the mainnet---
-
+Or host the frontend on Vercel and point it to th
 ## 🛠️ Deve### Internet Identity (Local)
 
 ```bash
