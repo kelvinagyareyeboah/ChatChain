@@ -1,6 +1,4 @@
 
-4. 👤 Select a user 
-
 
 Or host the frontend on Vercel and point it to the mainnet backend canister.
 
