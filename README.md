@@ -1,8 +1,6 @@
 
 ```bash
-@dfinity/agent         # Canister interaction
-
-```bash
+@dfinity/agent         # Canister inter
 npm install
 ```
 
