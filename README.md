@@ -4,8 +4,7 @@ git clone https://gi
 # 2. Install dependdfx start --background
 
 
-### 5. Set Your Canister ID
-
+### 5. S
 In `src/frontend/assets/js/index.js`, update:
 
 ```js
