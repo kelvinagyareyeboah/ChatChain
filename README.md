@@ -3,9 +3,7 @@
 @dfinity/agent         # Canister interaction
 @dfinity/auth-client   # Internet Identity authentication
 @dfinity/
-webpack                # Module bundling
-html-webpack-plugin    # HTML templating
-css-loader             # CSS processing
+webpack                # Modulecss-loader             # CSS processing
 copy-webpack-plugin    # Static asset copying
 ```
 
