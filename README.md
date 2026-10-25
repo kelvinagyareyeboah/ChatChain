@@ -1,4 +1,4 @@
-img.shields.io/gitlvCodes/ChatChain?style=flat-square)](https://git
+s/ChatChain?style=flat-square)](https://git
 # 3. Commit your changes
 git commit 
 git push origin feature/
