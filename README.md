@@ -4,7 +4,7 @@ point dfx deploy internet_identity --Update `index.js` with the local Identit- *
 ```bash
 @dfinity/agent         # Canister interaction
 @dfinity/auth-client   # Internet Identity authentication
-@dfinity/identity      # Principal management
+@dfinity/identity      # Pri
 webpack                # Module bundling
 html-webpack-plugin    # HTML templating
 css-loader             # CSS processing
