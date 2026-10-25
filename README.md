@@ -5,8 +5,8 @@
 
 All contributions are welcome — bug fixes, new features, docs, or ideas.
 
-```bash
-# 1. Fork the repo
+```bashs
+
 # 2. Create your feature branch
 git checkout -b feature/your-feature
 
