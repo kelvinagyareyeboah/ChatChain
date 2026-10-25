@@ -1,4 +1,4 @@
-* ≥ 16 — [Download](https://no# 1. Clone the reposi
+s://no# 1. Clone the reposi
 # 2. Install dependdfx st
 In `src/frontend/assets/js/in// Replace with your actual backen
 
