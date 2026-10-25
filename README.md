@@ -5,8 +5,7 @@ dfx deploy -
 Update `index.js` with your
 
 ```js
-const canisterId = 'YOUR_IC_CANISTER_ID';
-const host = 'https
+const canisterId = 'YOUR_IC_CAN
 ```
 
 Access your live app at:
