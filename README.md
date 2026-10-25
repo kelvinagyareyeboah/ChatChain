@@ -4,9 +4,7 @@ Or host the frontend on Vercel and point dfx deploy internet_identity --Update `
 ### Regenerate CanisAfter modifying
 ```b
 
-## 🔮 Extending ChatChain
-
-| 
+## 🔮
 |---|---|
 | 🔒 Private Messaging | Include recipient Principals in message types |
 | 📄 Pagination | Add offset/limit params to message queries |
