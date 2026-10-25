@@ -3,11 +3,7 @@
 git clone https://gi
 # 2. Install dependdfx st
 In `src/frontend/assets/js/in// Replace with your actual backendconst host = 'http:/
-### 
 
-```bash
-npm start
-```
 
 Open [http://localhost:9000](http://localhost:9000) in your browser.
 
