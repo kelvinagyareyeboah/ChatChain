@@ -1,9 +1,7 @@
 
 4. 👤 Select a user 
 # Deploy to ICP mainnet
-dfx deploy --network ic
-```
-
+dfx deploy -
 Update `index.js` with your mainnet config:
 
 ```js
