@@ -5,9 +5,7 @@
 4. 👤 Select a user from the list to start chatting
 5. 💬 Send messages — they
 
-## 🚀 Deployment to ICP Mainnet
-
-```bash
+## 🚀 Deployment to I
 # Deploy to ICP mainnet
 dfx deploy --network ic
 ```
