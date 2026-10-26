@@ -1,3 +1,3 @@
 
 # 3. C
-[![License: MIT](ht
+[![License: MIT](
