@@ -2,7 +2,7 @@
 # 3. Commit your changes
 git commit 
 git push origin 
-## 📄 License
+## 📄 Lice
 [![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
 MIT — free to use, modify, and distribute. See [`LIC de
