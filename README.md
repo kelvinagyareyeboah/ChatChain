@@ -1,8 +1,7 @@
 
 # 3. Commit your changes
 git commit 
-git push origin feature/
-
+git push origin 
 ## 📄 License
 [![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
