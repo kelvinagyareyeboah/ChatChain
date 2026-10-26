@@ -3,7 +3,7 @@
 git commit 
 git push origin 
 ## 📄 Lice
-[![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
+[![License: MIT](https://img.shields.iodge/License-MIT)](LICENSE)
 
 MIT — free odify, and distrib
 *Built with 🖤 on the Internet Computer — no servers,](https://img.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCo
