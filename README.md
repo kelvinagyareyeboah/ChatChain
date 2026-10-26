@@ -2,7 +2,7 @@
 # 3. Commit your changes
 git commit 
 git push origin 
-## 📄 Lice
+
 [![License: MIT](https://img.shields.iodge/License-MIT)](LICENSE)
 
 MIT — free odify, and distrib
