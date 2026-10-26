@@ -1,4 +1,4 @@
 
 # 3. Commit
-[![License: MIT](https://img.shields.iodge/Lic
+[![License: MIT](https://img.shields.iodge
 *Built with 🖤
