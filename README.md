@@ -5,8 +5,7 @@ git push origin
 ## 📄 Lice
 [![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
-MIT — free to modify, and distribute. See [`LIC de
----
+MIT — free to modify, and distribute. See [`L
 
 <div align="cente
 
