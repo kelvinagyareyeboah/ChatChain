@@ -6,6 +6,6 @@ git push origin
 [![License: MIT](https://img.shields.io/badge/License-MIT)](LICENSE)
 
 MIT — free to modify, and distribut
-*Built with 🖤 on the Internet Computer — no servers, no limi](https://img.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCodes)
+*Built with 🖤 on the Internet Computer — no servers,](https://img.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCodes)
 
 </div>
