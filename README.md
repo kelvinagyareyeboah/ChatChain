@@ -1,7 +1,7 @@
 
 # 3. Commit your changes
 git commit 
-git push origin 
+git push ori
 
 [![License: MIT](https://img.shields.iodge/License-MIT)](LIC
 MIT — free 
