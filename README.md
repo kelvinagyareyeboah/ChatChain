@@ -1,7 +1,7 @@
 
 # 3. Commit your changes
 git commit 
-git pus
+g
 
 [![License: MIT](https://img.shields.iodge/License-MIT)
 MIT — free 
