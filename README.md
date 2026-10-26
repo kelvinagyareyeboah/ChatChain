@@ -8,7 +8,7 @@ git push origin
 MIT — free to modify, and distribute. See [`LIC de
 ---
 
-<div align="center">
+<div align="cente
 
 *Built with 🖤 on the Internet Computer — no servers, no limits.*
 [![GitHub](https://img.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCodes)
