@@ -5,4 +5,4 @@ git pus
 
 [![License: MIT](https://img.shields.iodge/License-MIT)
 MIT — free 
-*Built with 🖤 on the Internet Computer — no servers,](https:hields.io/badge/GitHub-KelvCodes-?styl-the-badge&logo=github&logoColor=white)](https://githu
+*Built with 🖤 on the Internet Computer — no sertps:hields.io/badge/GitHub-KelvCodes-?styl-the-badge&logo=github&logoColor=white)](https://githu
