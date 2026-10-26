@@ -8,4 +8,4 @@ git push origin
 MIT — free odify, and distribut
 *Built with 🖤 on the Internet Computer — no servers,](https://img.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCodes)
 
-</div>
+</di
