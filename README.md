@@ -5,4 +5,4 @@ git push origin
 
 [![License: MIT](https://img.shields.iodge/License-MIT)](LIC
 MIT — free odify, and 
-*Built with 🖤 on the Internet Computer — no servers,](https:/g.shields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCo
+*Built with 🖤 on the Internet Computer — no servers,](https:hields.io/badge/GitHub-KelvCodes-?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KelvCo
