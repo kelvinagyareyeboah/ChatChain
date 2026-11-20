@@ -1,8 +1,7 @@
 <div 
 
 <img src="docs/banner.png" alt="ChatChain" width=
-# ChatChain
-
+# C
 **Serverless chat on the Interne
 
 Messages live in a Motoko canister, users sign in with Internet Identity, and there is no backend server.
