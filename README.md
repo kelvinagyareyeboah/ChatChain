@@ -1,7 +1,6 @@
 <div 
 
-<img src="docs/banner.png" alt="ChatChain" width="100%" />
-
+<img src="docs/banner.png" alt="ChatChain" width=
 # ChatChain
 
 **Serverless chat on the Internet Computer.**
