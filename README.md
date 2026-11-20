@@ -4,7 +4,7 @@
 [Architecture](#architecture) •
 [Deploy
 
-ChatChain is a chat app that r the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Internet Identity** handles pass, HTML, and CSS, so it is easy to read, fork, and extend.
+ChatChain is a chat app that r the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS, so it is easy to read, fork, and extend.
 
 ## Features
 
