@@ -1,4 +1,4 @@
-s a chat app that r the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
+at r the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
 
 ## Features
 
