@@ -1,4 +1,4 @@
- canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
+stores users and messages, **Interneles pass, HTML, and CSS,  textend.
 
 ## Features
 
