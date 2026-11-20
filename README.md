@@ -1,4 +1,4 @@
-e/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+le=for-the-badge)](CONTRIBUTING.md)
 
 [Features](#features) •
 [Quick Start](#quick-start) •
