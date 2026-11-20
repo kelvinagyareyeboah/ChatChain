@@ -1,5 +1,4 @@
-
-[![Motoko](https://img.shields.io/badge/Motoko-6B4FBB?style=for-the-badge)](https://internetcomputer.org/docs/current/motoko/main/motoko)
+(https://img.shields.io/badge/Motoko-6B4FBB?style=for-the-badge)](https://internetcomputer.org/docs/current/motoko/main/motoko)
 [![JavaScript](https://img.shieavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
