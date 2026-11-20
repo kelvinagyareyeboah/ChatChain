@@ -1,7 +1,6 @@
 )
 
-[Features](#features) •
-[Quick Start](#quick-start) •
+[Features](#featurrt) •
 [Architecture](#architecture) •
 [Deploy
 
