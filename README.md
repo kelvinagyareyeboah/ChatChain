@@ -4,9 +4,7 @@ lack)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [Features](#features) •
 [Quick Start](#quick-start) •
 [Architecture](#architecture) •
-[Deployment](---
-
-## Overview
+[Deploy
 
 ChatChain is a chat app that runs entirely on the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Internet Identity** handles passwfrontend is plain JavaScript, HTML, and CSS, so it is easy to read, fork, and extend.
 
