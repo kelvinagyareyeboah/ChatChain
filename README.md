@@ -1,4 +1,4 @@
-ps://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+e/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 [Features](#features) •
 [Quick Start](#quick-start) •
