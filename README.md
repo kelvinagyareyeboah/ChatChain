@@ -1,4 +1,3 @@
-stores users and messages, **Interneles pass, HTML, and CSS,  textend.
 
 ## Features
 
