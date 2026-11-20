@@ -5,7 +5,7 @@ org/docs/current/motoko/main/motoko)
 [Features](#features) •
 [Quick Start](#quick-start) •
 [Architecture](#architecture) •
-[Deployment](#deploy-to-mainnet) •
+[Deployment](#deploy
 </div>
 
 ---
