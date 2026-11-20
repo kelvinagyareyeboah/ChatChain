@@ -1,5 +1,4 @@
-)
-[Architecture](#architec
+](#architec
 ChatChain is a chat app that r the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  to read, fork, and extend.
 
 ## Features
