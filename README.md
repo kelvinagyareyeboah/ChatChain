@@ -1,4 +1,4 @@
- chat on the Interne
+he Interne
 
 Messages livster, users sign in with Internet Identity, and there is no backend server.
 
