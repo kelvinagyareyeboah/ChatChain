@@ -1,4 +1,4 @@
-<div align="center">
+<div 
 
 <img src="docs/banner.png" alt="ChatChain" width="100%" />
 
