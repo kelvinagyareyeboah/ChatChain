@@ -6,7 +6,6 @@ org/docs/current/motoko/main/motoko)
 [Quick Start](#quick-start) •
 [Architecture](#architecture) •
 [Deployment](#deploy-to-mainnet) •
-[Roadmap](#ro
 </div>
 
 ---
