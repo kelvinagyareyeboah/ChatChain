@@ -1,4 +1,4 @@
-CP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
+ canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
 
 ## Features
 
