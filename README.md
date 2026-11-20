@@ -1,4 +1,4 @@
-Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
+ter Protocol (ICP)**. A Motoko canister stores users and messages, **Interneles pass, HTML, and CSS,  textend.
 
 ## Features
 
