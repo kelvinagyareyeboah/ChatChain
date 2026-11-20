@@ -9,9 +9,7 @@ ternet Identity, and there is no back
 [Quick Start](#quick-start) •
 [Architecture](#architecture) •
 [Deployment](#deploy-to-mainnet) •
-[Roadmap](#roadmap) •
-[Contributing](#contributing)
-
+[Roadmap](#ro
 </div>
 
 ---
