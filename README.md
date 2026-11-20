@@ -1,6 +1,4 @@
-<div 
-
-<img src="docs/banner.png" alt="ChatChain" width=
+ocs/banner.png" alt="ChatChain" width=
 # C
 **Serverless chat on the Interne
 
