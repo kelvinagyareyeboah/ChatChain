@@ -1,5 +1,4 @@
-=
-rverless chat on the Interne
+ chat on the Interne
 
 Messages livster, users sign in with Internet Identity, and there is no backend server.
 
