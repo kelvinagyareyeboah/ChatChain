@@ -1,5 +1,4 @@
-
-[![License](https://img.shields.ise-MIT-2ea44f?style=for-the-badge)](LICENSE)
+https://img.shields.ise-MIT-2ea44f?style=for-the-badge)](LICENSE)
 [![ICP](https://img.shields.io/badge/Internet_Computer-29ABE2?style=for-the-badge&logo=dfinity&logoColor=white)](https://internetcomputer.org/)
 [![Motoko](https://img.shields.io/badge/Motoko-6B4FBB?style=for-the-badge)](https://internetcomputer.org/docs/current/motoko/main/motoko)
 [![JavaScript](https://img.shieavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
