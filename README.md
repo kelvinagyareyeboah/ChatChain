@@ -1,5 +1,4 @@
 
-cription |
 |---|---|---|
 | 🔗 | **Decentralized messaging** | Users and messages are stored in an ICP canister, with no central server |
 | 🔐 | **Internet Identity** | Passwordless, privacy-preserving sign-in |
