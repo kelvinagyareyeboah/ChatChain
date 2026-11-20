@@ -1,4 +1,4 @@
-ocs/banner.png" alt="ChatChain" width=
+ner.png" alt="ChatChain" width=
 # C
 **Serverless chat on the Interne
 
