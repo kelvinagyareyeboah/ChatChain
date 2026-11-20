@@ -3,7 +3,7 @@
 <img src="docs/banner.png" alt="ChatChain" width=
 # ChatChain
 
-**Serverless chat on the Internet Computer.**
+**Serverless chat on the Interne
 
 Messages live in a Motoko canister, users sign in with Internet Identity, and there is no backend server.
 
