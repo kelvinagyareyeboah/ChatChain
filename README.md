@@ -1,4 +1,4 @@
-le=for-the-badge)](CONTRIBUTING.md)
+)
 
 [Features](#features) •
 [Quick Start](#quick-start) •
