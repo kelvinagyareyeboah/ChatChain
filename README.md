@@ -9,7 +9,7 @@ org/docs/current/motoko/main/motoko)
 
 ## Overview
 
-ChatChain is a chat app that runs entirely on the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Internet Identity** handles passwordless login, and the frontend is plain JavaScript, HTML, and CSS, so it is easy to read, fork, and extend.
+ChatChain is a chat app that runs entirely on the **Internet Computer Protocol (ICP)**. A Motoko canister stores users and messages, **Internet Identity** handles passwfrontend is plain JavaScript, HTML, and CSS, so it is easy to read, fork, and extend.
 
 ## Features
 
