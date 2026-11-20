@@ -2,7 +2,7 @@ hatChain" width=
 # C
 **Serverless chat on the Interne
 
-Messages live in a Motoko canister, users sign in with Internet Identity, and there is no backend server.
+Messages livster, users sign in with Internet Identity, and there is no backend server.
 
 <br />
 [![License](https://img.shields.ise-MIT-2ea44f?style=for-the-badge)](LICENSE)
