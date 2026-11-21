@@ -1,8 +1,5 @@
 =gi
-1. Open the app and click the gear icon to log in with **Internet 
-2. 
-4. Send a
-f
+1. Open the app and click the gear icon to log in with **Internet
     U[Browser] -->|login| II[Internet Identity]
     U -->|"@dfini Canister<br/>Motoko)]
     II -.->|principal| U
