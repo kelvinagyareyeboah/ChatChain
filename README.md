@@ -1,12 +1,11 @@
 
 ## Quic![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://internetcomputer.
 ```
 
 You also need [Node.js](https://nodejs.org) 1### Run locally
 
-```basgit clone https://github.com/KelvCodes/Ch
-# Install dependencies
+```basgit clone https://giths
 npm install
 
 # Start the local replica
