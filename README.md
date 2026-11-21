@@ -5,9 +5,7 @@ You also need [Node.js](https://nodejs.org) 1### Ru
 dfx start --back
 
 Then set your backend canister ID in `src/frontend/assets/j
-const canisterId = '<your-backend-canister-id>'; // from `dfx canister id Chat
-const host = 'http://127.0.0.1:4943';
-```
+const canisterId = '<your-backend-canister-id>'; // from `dfx canister```
 
 Start the frontend:
 
