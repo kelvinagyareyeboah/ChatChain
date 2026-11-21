@@ -4,7 +4,7 @@ sponsive UI** | Gradient interface with a user list, chat window, and settings m
 
 ## Quick 
 
-![DFX](https://img.shields.io/badge/DFX-0.15+-29ABE2?style=flat-square)
+![DFX](https://img.shields.io/badge/DFX-0.15+-29ABE2?sty
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-required-F05032?style=flat-square&logo=git&logoColor=white)
 
