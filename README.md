@@ -1,8 +1,7 @@
 =gi
 1. Open the app and click the gear icon to log in with **Internet 
 2. 
-4. Send a message. It is stored in the canister 
-
+4. Send a message. It is stored in t
 ## 
 
 ```mermaid
