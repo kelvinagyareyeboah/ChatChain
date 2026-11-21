@@ -4,7 +4,7 @@
 4. Send a
 f
     U[Browser] -->|login| II[Internet Identity]
-    U -->|"@dfinity/agent"| C[(ChatChain Canister<br/>Motoko)]
+    U -->|"@dfini Canister<br/>Motoko)]
     II -.->|principal| U
     C -->|users, messages| U
 ```
