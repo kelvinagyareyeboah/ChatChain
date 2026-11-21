@@ -2,7 +2,7 @@
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(cuThen se
 
 Open *> Get your canister ID with `dfx canister id ChatChain_
-1. Open the app and click the gear icon to log in with **Internet Identity**.
+1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username to register.
 3. Pick a user from the list.
 4. Send a message. It is stored in the canister and refreshes every 5 seconds.
