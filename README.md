@@ -1,6 +1,6 @@
 =gi
 1. Open the app and click the gear icon to log in with **Internet
-    U[Browser] -->|login| II[Internet Identity]
+    U[Browser] -->nternet Identity]
     U -->|"@dfini Canister
     II -.->|principal| U
     C -->|
