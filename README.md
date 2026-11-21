@@ -1,7 +1,5 @@
 6-339933?sty=nodedotjs&logoColor=white)
-![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
-You also need [Node.js](htt
-Then se
+![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(cuThen se
 
 Open *> Get your canister ID with `dfx canister id ChatChain_backend`.
 
