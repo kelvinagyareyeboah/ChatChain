@@ -1,7 +1,6 @@
 6-339933?sty=nodedotjs&logoColor=white)
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
-You also need [Node.js](https://nodejs.org) 1### Ru
-# Start the 
+You also need [Node.js](https://nodejs.org) 1
 dfx s
 
 Then set your backend caniste
