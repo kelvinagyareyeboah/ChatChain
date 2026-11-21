@@ -1,4 +1,4 @@
-uired-F05e&logo=git&logoCsh -
+=git&logoCsh -
 Open *> Get you
 1. Open the app and click the gear icon to log in with **Internet 
 2. 
