@@ -1,4 +1,4 @@
-p and click the gear icon to log in with **Internet
+ar icon to log in with **Internet
     U[Browser] -->nternet Identity]
     U -->|"@dfini 
     participant A as Alice
