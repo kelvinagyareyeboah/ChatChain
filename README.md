@@ -1,6 +1,5 @@
 6-339933?sty=nodedotjs&logoColor=white)
-![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(cuThen se
-
+![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -
 Open *> Get your canister ID with `dfx canister id
 1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username to register.
