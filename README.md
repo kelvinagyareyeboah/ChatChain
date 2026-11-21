@@ -3,10 +3,7 @@
 You also need [Node.js](https://node
 
 Then set your backend caniste
-const canisterId = '<your-backend-canister-id>'; // from `dfx
-
-St
-```bash
+const canisterId = '<your-backend-canister-id>'; // 
 npm start
 ```
 
