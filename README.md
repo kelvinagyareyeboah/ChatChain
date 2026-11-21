@@ -3,9 +3,7 @@
 You also need [Node.js](htt
 Then se
 
-Open **http://loc
-> [!TIP]
-> Get your canister ID with `dfx canister id ChatChain_backend`.
+Open *> Get your canister ID with `dfx canister id ChatChain_backend`.
 
 ### Try it out
 
