@@ -3,8 +3,7 @@
     U[Browser] -->|login| II[Internet Identity]
     U -->|"@dfini Canister<br/>Motoko)]
     II -.->|principal| U
-    C -->|users, messages| U
-```
+    C -->|
 
 ```mermaid
 sequenceDiagram
