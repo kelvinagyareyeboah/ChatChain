@@ -1,8 +1,6 @@
 
 ## Quic![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://internetcomputer.
-```
-
+![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://inte
 You also need [Node.js](https://nodejs.org) 1### Run locally
 
 ```basgit clone https://giths
