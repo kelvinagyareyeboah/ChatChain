@@ -1,7 +1,6 @@
 6-339933?sty=nodedotjs&logoColor=white)
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
-You also need [Node.js](https://node
-
+You also need [Node.js](htt
 Then se
 
 Open **http://localhost:9000**.
