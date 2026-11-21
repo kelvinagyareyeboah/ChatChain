@@ -3,7 +3,7 @@
 2. 
 4. Send a
 ```mermaid
-flowchart LR
+f
     U[Browser] -->|login| II[Internet Identity]
     U -->|"@dfinity/agent"| C[(ChatChain Canister<br/>Motoko)]
     II -.->|principal| U
