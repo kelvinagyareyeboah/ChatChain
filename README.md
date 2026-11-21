@@ -1,5 +1,4 @@
-
-| 🌐 | **Easy to extend** | Vanilla JS and Motoko, with no framework to learn |
+ to extend** | Vanilla JS and Motoko, with no framework to learn |
 
 ## Quick 
 
