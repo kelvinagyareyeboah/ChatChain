@@ -1,4 +1,4 @@
-Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?sty=nodedotjs&logoColor=white)
+img.shields.io/badge/Node.js-%E2%89%A516-339933?sty=nodedotjs&logoColor=white)
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://inte
 You also need [Node.js](https://nodejs.org) 1### Ru
 # Start the local replica
