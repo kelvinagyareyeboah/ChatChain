@@ -1,6 +1,6 @@
 6-339933?sty=nodedotjs&logoColor=white)
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -
-Open *> Get your canister ID with `dfx canister id
+Open *> Get your canister ID with `dfx 
 1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username to register.
 4. Send a message. It is stored in the canister 
