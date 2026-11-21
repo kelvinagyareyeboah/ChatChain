@@ -2,9 +2,7 @@
 1. Open the app and click the gear icon to log in with **Internet
     U[Browser] -->nternet Identity]
     U -->|"@dfini Canister
-    II -.->|principal| U
-    C -->|
-
+    II -.->|pri
 ```mermaid
 sequenceDiagram
     participant A as Alice
