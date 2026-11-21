@@ -4,7 +4,6 @@
 You also need [Node.js](https://nodejs.org) 1### Run locally
 
 ```basgit clone https://giths
-npm install
 
 # Start the local replica
 dfx start --background
