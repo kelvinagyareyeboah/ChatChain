@@ -1,4 +1,4 @@
-ar icon to log in with **Internet
+n with **Internet
     U[Browser] -->nternet Identity]
     U -->|"@dfini 
     participant A as Alice
