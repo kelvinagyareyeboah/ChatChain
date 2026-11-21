@@ -1,5 +1,5 @@
 adge/Git-required-F05e&logo=git&logoCsh -
-Open *> Get your canister ID 
+Open *> Get you
 1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username 
 4. Send a message. It is stored in the canister 
