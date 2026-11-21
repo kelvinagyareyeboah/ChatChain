@@ -2,7 +2,7 @@
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
 You also need [Node.js](https://node
 
-Then set your backen```
+Then se
 
 Open **http://localhost:9000**.
 
