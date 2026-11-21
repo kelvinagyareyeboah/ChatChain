@@ -4,7 +4,7 @@ You also need [Node.js](https://nodejs.org) 1### Ru
 # Start the 
 dfx start --back
 
-Then set your backend canister ID in `src/fro
+Then set your backend caniste
 const canisterId = '<your-backend-canister-id>'; // from `dfx canister```
 
 St
