@@ -1,4 +1,4 @@
-radient interface with a user list, chat window, and settings modal |
+ith a user list, chat window, and settings modal |
 | 🔄 | **Live updates** | The client polls for new messages every 5 seconds |
 | 🌐 | **Easy to extend** | Vanilla JS and Motoko, with no framework to learn |
 
