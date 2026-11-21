@@ -1,5 +1,4 @@
-=gi
-1. Open the app and click the gear icon to log in with **Internet
+p and click the gear icon to log in with **Internet
     U[Browser] -->nternet Identity]
     U -->|"@dfini 
     participant A as Alice
