@@ -2,7 +2,7 @@ Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?sty=nodedotjs&l
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://inte
 You also need [Node.js](https://nodejs.org) 1### Ru
 # Start the local replica
-dfx start --background
+dfx start --back
 
 # Deploy canisters
 dfx deploy
