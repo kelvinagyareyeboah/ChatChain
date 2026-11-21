@@ -1,4 +1,4 @@
-e client polls for new messages every 5 seconds |
+or new messages every 5 seconds |
 | 🌐 | **Easy to extend** | Vanilla JS and Motoko, with no framework to learn |
 
 ## Quick 
