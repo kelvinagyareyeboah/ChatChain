@@ -5,7 +5,7 @@ Open *> Get your canister ID with `dfx canister id
 1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username to register.
 3. Pick a us
-4. Send a message. It is stored in the canister and refreshe
+4. Send a message. It is stored in the canister 
 
 ## Architecture
 
