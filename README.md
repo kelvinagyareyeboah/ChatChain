@@ -1,7 +1,6 @@
 6-339933?sty=nodedotjs&logoColor=white)
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
-You also need [Node.js](https://nodejs.org) 1
-dfx s
+You also need [Node.js](https://node
 
 Then set your backend caniste
 const canisterId = '<your-backend-canister-id>'; // from `dfx canister```
