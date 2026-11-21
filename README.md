@@ -7,8 +7,7 @@ dfx start --back
 Then set your backend canister ID in `src/fro
 const canisterId = '<your-backend-canister-id>'; // from `dfx canister```
 
-Start the frontend:
-
+St
 ```bash
 npm start
 ```
