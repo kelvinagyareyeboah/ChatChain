@@ -1,11 +1,7 @@
  to extend** | Vanilla JS and Motoko, with no framework to learn |
 
 ## Quic![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-required-F05e&logo=git&logoColor=white)
-
-I
-```bash
-sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+![Git](https://img.shields.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
 
 You also need [Node.js](https://nodejs.org) 16 or later.
