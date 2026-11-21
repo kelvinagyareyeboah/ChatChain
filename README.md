@@ -5,11 +5,7 @@
 
 You also need [Node.js](https://nodejs.org) 1### Run locally
 
-```bash
-# Clone
-git clone https://github.com/KelvCodes/ChatChain.git
-cd ChatChain
-
+```basgit clone https://github.com/KelvCodes/Ch
 # Install dependencies
 npm install
 
