@@ -2,7 +2,7 @@
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
 You also need [Node.js](https://nodejs.org) 1### Ru
 # Start the 
-dfx start --back
+dfx s
 
 Then set your backend caniste
 const canisterId = '<your-backend-canister-id>'; // from `dfx canister```
