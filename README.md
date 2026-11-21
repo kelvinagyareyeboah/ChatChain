@@ -1,5 +1,4 @@
-6-339933?sty=nodedotjs&logoC
-![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -
+adge/Git-required-F05e&logo=git&logoCsh -
 Open *> Get your canister ID 
 1. Open the app and click the gear icon to log in with **Internet 
 2. Enter a username 
