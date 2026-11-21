@@ -2,10 +2,7 @@
 ![Git](h.io/badge/Git-required-F05e&logo=git&logoCsh -ci "$(curl -
 You also need [Node.js](https://node
 
-Then set your backend caniste
-const canisterId = '<your-backend-canister-id>'; // 
-npm start
-```
+Then set your backen```
 
 Open **http://localhost:9000**.
 
