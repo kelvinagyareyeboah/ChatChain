@@ -4,8 +4,7 @@ You also need [Node.js](https://nodejs.org) 1### Ru
 # Start the local replica
 dfx start --back
 
-# Deploy canisters
-dfx deploy
+# Deploy can
 ```
 
 Then set your backend canister ID in `src/frontend/assets/js/index.js`:
