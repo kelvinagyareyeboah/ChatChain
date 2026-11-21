@@ -2,7 +2,6 @@
 1. Open the app and click the gear icon to log in with **Internet 
 2. 
 4. Send a
-```mermaid
 f
     U[Browser] -->|login| II[Internet Identity]
     U -->|"@dfinity/agent"| C[(ChatChain Canister<br/>Motoko)]
