@@ -3,8 +3,7 @@
 ## Quic![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-required-F05e&logo=git&logoColor=white)
 
-Install the DFX SDK:
-
+I
 ```bash
 sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
 ```
