@@ -3,7 +3,7 @@
 2. 
 4. Send a message. It is stored in the canister 
 
-## Architecture
+## 
 
 ```mermaid
 flowchart LR
