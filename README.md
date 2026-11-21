@@ -2,9 +2,7 @@ sponsive UI** | Gradient interface with a user list, chat window, and settings m
 | 🔄 | **Live updates** | The client polls for new messages every 5 seconds |
 | 🌐 | **Easy to extend** | Vanilla JS and Motoko, with no framework to learn |
 
-## Quick Start
-
-### Prerequisites
+## Quick 
 
 ![DFX](https://img.shields.io/badge/DFX-0.15+-29ABE2?style=flat-square)
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A516-339933?style=flat-square&logo=nodedotjs&logoColor=white)
