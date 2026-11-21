@@ -1,4 +1,4 @@
-adge/Git-required-F05e&logo=git&logoCsh -
+uired-F05e&logo=git&logoCsh -
 Open *> Get you
 1. Open the app and click the gear icon to log in with **Internet 
 2. 
