@@ -1,8 +1,7 @@
 =gi
 1. Open the app and click the gear icon to log in with **Internet 
 2. 
-4. Send a message. I
-
+4. Send a
 ```mermaid
 flowchart LR
     U[Browser] -->|login| II[Internet Identity]
