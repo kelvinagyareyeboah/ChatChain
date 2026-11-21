@@ -1,7 +1,7 @@
 =gi
 1. Open the app and click the gear icon to log in with **Internet
     U[Browser] -->|login| II[Internet Identity]
-    U -->|"@dfini Canister<br/>Motoko)]
+    U -->|"@dfini Canister
     II -.->|principal| U
     C -->|
 
