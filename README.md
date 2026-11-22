@@ -6,9 +6,7 @@ n
 │   ├── frontend/
 │   │   ├── assets/
 │   │ 
-│   │   │   └── js/index.js
-│   │   ├── declarations/ChatChain/    # Generated bindings
-│   │   └── index.html
+│   │   │   └── js/index│   │   └── index.html
 │   └── backend/
 │       └── main.mo                    # Motoko canister
 ├── dfx.json
