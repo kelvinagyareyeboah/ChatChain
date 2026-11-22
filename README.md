@@ -5,7 +5,7 @@ n
     C-->>A: ok
     loop every 5
         ages()
-        C-->>B: new messages
+        C--
     end
 ```
 
