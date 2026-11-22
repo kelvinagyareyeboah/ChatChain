@@ -7,8 +7,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 ## Roadmap
 
 - [x] Internet Identity login
-- [x] User registration
-
+- [x] Us
 - [x] Polling for new messages
 - [ ] Stable storage so data survives upgrades
 - [ ] Enforce registration before messaging
