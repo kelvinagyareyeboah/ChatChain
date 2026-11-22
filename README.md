@@ -1,7 +1,7 @@
 n 
     U[Browser] 
     paipant ater
-    t B as ge(to: Bob, text)
+    t B as
     C-->>A: ok
     loop every 5
         ages()
