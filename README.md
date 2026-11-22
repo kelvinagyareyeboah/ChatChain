@@ -7,7 +7,7 @@ n
 ├── src/
 │   ├── frontend/
 │   │   ├── assets/
-│   │   │   ├── css/styles.css
+│   │ 
 │   │   │   └── js/index.js
 │   │   ├── declarations/ChatChain/    # Generated bindings
 │   │   └── index.html
