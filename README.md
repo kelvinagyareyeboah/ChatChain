@@ -1,7 +1,6 @@
 n with **Internet
     U[Browser] 
-    paipant A as Alice
-    paipant C as Canister
+    paipant as nister
     t B as Bob
     A->>C: sendMessage(to: Bob, text)
     C-->>A: ok
