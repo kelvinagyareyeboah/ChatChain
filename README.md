@@ -2,8 +2,7 @@ n
     U
 
 │   │   │
-│       └── main.mo                    # Motok
-└── webpack.c
+│       └── main.mo           
 |---|---|
 | Smart contract | ![Motoko](https://img.shields.io/badge/-Motoko-6B4FBB?style=flat-square) |
 | Blockchain | ![ICP](https://img.shields.io/badge/-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white) |
