@@ -2,8 +2,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded before<summary><b>Run Internet 
-dfx deploy interne
-<summary><b>Regenerate canister
+dfx deploy intern
 
 Run this after changing `main.mo`:
 
