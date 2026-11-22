@@ -4,7 +4,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded 
 
 > [!WARNING]
-> ChatChain is a learning project an
+> ChatChain is a l
 | Limitation | Details |
 |---|---|
 | Polling | Updates arrive every 5 seconds, not instantly |
