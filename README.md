@@ -8,8 +8,7 @@ Your app will be live at `https://<frontend-canister-id>.icp0.io`. You can also 
 
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded before running `dfx deploy --network ic`.
-
-## Development Notes
+##
 
 <details>
 <summary><b>Run Internet Identity locally</b></summary>
