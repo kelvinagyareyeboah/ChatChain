@@ -2,9 +2,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
-> [!W| Online status | All users appear online, as there is
-| Storage | Data is held in memory, so it can be lost on canister moved to stable storage |
-| Auth checks | Unregistered users can still send messages. `registerUser` should enforce this |
+> [!W| Online status | All users appear online, as| Auth checks | Unregistered users can still send messages. `registerUser` should enforce this |
 
 ## Roadmap
 
