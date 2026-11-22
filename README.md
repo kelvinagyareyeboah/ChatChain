@@ -2,11 +2,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
-> [!W| Online status | All users appear online, as| Auth checks | Unregistered users can still send messages. `re enforce this |
-
-## Roadm
-- [ ] 
-- [x] Us
+> [!W| Online status | All users appear online, as| Auth checks | Unregistered users can still send messages. `re enforce this 
 - [x] Polling for new messages
 - [ ] Stable 
 - [ ] Pagination for message history
