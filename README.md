@@ -1,8 +1,7 @@
 n 
     U
 
-│   │   │   └── js/ind
-│   └── backend/
+│   │   │
 │       └── main.mo                    # Motok
 └── webpack.config.js
 ```
