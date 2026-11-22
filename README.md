@@ -2,9 +2,7 @@ n
     U
 s
 tps://img.shields.io/badge/-Motoko-6B4FBB?style=flat-square) |
-| Blockchain | ![ICP](https://img.shields.io/badge/-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&logoColor=white) |
-| Auth | Internet Identity |
-| Frontend | ![JavaScript](https://img.shields.io/badge/-JavaS1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-sqlogoColor=white) |
+| Blockchain | ![ICP](https://img.shields.io/badge/-Internet_Computer-29ABE2?style=flat-square&logo=dfinity&l| Frontend | ![JavaScript](https://img.shields.io/badge/-JavaS1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-sqlogoColor=white) |
 | Bundler | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
 | ICP libraries | `@dfinity/agent`, `@d`, `@df
 ## Deploy to Mainnet
