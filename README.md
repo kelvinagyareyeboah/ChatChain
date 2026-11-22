@@ -3,9 +3,7 @@ n
     C-->>A: ok
     loop every 5
         ages()
-        C--
-    end
-```
+
 
 <details>
 <summary><b>Project structure</b></summary>
