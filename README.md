@@ -6,7 +6,8 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 
 ## Roadmap
 
-- [x] Internet Identity login
+- [x] Internet Ids
+- [ ] 
 - [x] Us
 - [x] Polling for new messages
 - [ ] Stable storage so data surv
