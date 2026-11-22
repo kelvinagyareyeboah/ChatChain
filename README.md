@@ -11,7 +11,6 @@ n
 
 </details>
 
-## Tech Stack
 
 | Layer | Technology |
 |---|---|
