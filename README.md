@@ -3,8 +3,6 @@ n
     C-->>A: ok
     loop e
 <details>
-<summary><b>Project strucChatChain/
-├── src/
 │   ├── frontend/
 │   │   ├── assets/
 │   │ 
