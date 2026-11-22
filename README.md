@@ -3,8 +3,7 @@ n
 
 │   │   │   └── js/ind
 │   └── backend/
-│       └── main.mo                    # Motoko canister
-├── dfx.
+│       └── main.mo                    # Motok
 └── webpack.config.js
 ```
 
