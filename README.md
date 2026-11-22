@@ -1,4 +1,4 @@
-n with **Internet
+n 
     U[Browser] 
     paipant ater
     t B as ge(to: Bob, text)
