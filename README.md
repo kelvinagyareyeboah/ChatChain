@@ -3,10 +3,7 @@ n
     C-->>A: ok
     loop e
 <details>
-<summary><b>Project structure</b></summary>
-
-```text
-ChatChain/
+<summary><b>Project strucChatChain/
 ├── src/
 │   ├── frontend/
 │   │   ├── assets/
