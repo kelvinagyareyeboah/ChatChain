@@ -1,7 +1,7 @@
 n with **Internet
     U[Browser] -->nternet Identity]
-    U -->|"@dfini 
-    participant A as Alice
+    U i 
+    paipant A as Alice
     participant C as Canister
     participant B as Bob
     A->>C: sendMessage(to: Bob, text)
