@@ -8,7 +8,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Limitation | Details |
 |---|---|
 | Polling | Updates arrive every 5 seconds, not instantly |
-| Online status | All users appear online, as there is no presence tracking |
+| Online status | All users appear online, as there is
 | Storage | Data is held in memory, so it can be lost on canister upgrade unless moved to stable storage |
 | Auth checks | Unregistered users can still send messages. `registerUser` should enforce this |
 
