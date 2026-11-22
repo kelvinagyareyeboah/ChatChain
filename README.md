@@ -9,9 +9,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 - [x] Internet Identity login
 - [x] Us
 - [x] Polling for new messages
-- [ ] Stable storage so data survives upgrades
-- [ ] Enforce registration before messaging
-- [ ] Private messages scoped to recipient principals
+- [ ] Stable storage so data surv
 - [ ] Pagination for message history
 - [ ] Message deletion with auth checks
 - [ ] Real online and offline presence
