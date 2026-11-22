@@ -1,13 +1,9 @@
 n 
     U
     C-->>A: ok
-    loop e
-<details>
-│   ├── frontend/
-│   │   ├── assets/
+    loop
 │   │ 
-│   │   │   └── js/index│ 
-    
+│   │   │   └── js/ind
 │   └── backend/
 │       └── main.mo                    # Motoko canister
 ├── dfx.json
