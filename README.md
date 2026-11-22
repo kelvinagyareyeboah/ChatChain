@@ -4,7 +4,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded before running `dfx 
 
 <details>
-<summary><b>Run Internet Identity locally<
+<summary><b>Run Internet 
 dfx deploy internet_identity --network local
 ```
 
