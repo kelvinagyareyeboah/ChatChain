@@ -4,8 +4,7 @@ n
 │   │   │   └── js/ind
 │   └── backend/
 │       └── main.mo                    # Motoko canister
-├── dfx.json
-├── package.json
+├── dfx.
 └── webpack.config.js
 ```
 
