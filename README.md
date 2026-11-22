@@ -1,6 +1,5 @@
 n 
-    U[Browser] 
-    paipan
+    U
     C-->>A: ok
     loop every 5
         ages()
