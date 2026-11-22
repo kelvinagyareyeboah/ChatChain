@@ -7,9 +7,7 @@ Run</details>
 <details>
 <summary><b>Reset local st```
 
-</details>
-
-## Known Limitations
+## Known
 
 > [!WARNING]
 > ChatChain is a learning project and is not production-ready yet.
