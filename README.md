@@ -5,9 +5,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 ##
 
 <details>
-<summary><b>Run Internet Identity locally</b></summary>
-
-```bash
+<summary><b>Run Internet Identity locally<
 dfx deploy internet_identity --network local
 ```
 
