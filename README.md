@@ -6,9 +6,7 @@ tps://img.shields.io/badge/-Motoko-6B4FBB?style=flat-square) |
 | Auth | Internet Identity |
 | Frontend | ![JavaScript](https://img.shields.io/badge/-JavaS1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-sqlogoColor=white) |
 | Bundler | ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) |
-| ICP libraries | `@dfinity/agent`, `@dfinity/auth-client`, `@dfinity/identity` |
-| SDK | DFX 0.15+ |
-
+| ICP libraries | `@dfinity/agent`, `@dfinity/auth-client`, `@df
 ## Deploy to Mainnet
 
 ```bash
