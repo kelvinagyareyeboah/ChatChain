@@ -1,8 +1,6 @@
 n 
     U
-    C-->>A: ok
-    loop
-│   │ 
+
 │   │   │   └── js/ind
 │   └── backend/
 │       └── main.mo                    # Motoko canister
