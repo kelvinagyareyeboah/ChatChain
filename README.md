@@ -1,8 +1,8 @@
 n with **Internet
     U[Browser] 
     paipant A as Alice
-    participant C as Canister
-    participant B as Bob
+    paipant C as Canister
+    t B as Bob
     A->>C: sendMessage(to: Bob, text)
     C-->>A: ok
     loop every 5s
