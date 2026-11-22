@@ -5,9 +5,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 Run</details>
 
 <details>
-<summary><b>Reset local sta```bash
-dfx start --clean --background
-```
+<summary><b>Reset local st```
 
 </details>
 
