@@ -6,7 +6,8 @@ n
 │   ├── frontend/
 │   │   ├── assets/
 │   │ 
-│   │   │   └── js/index│   │   └── index.html
+│   │   │   └── js/index│ 
+    
 │   └── backend/
 │       └── main.mo                    # Motoko canister
 ├── dfx.json
