@@ -3,9 +3,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded before<
 Run this after chang
-dfx generate ChatChain_backend
-```
-
+dfx generate 
 </details>
 
 <details>
