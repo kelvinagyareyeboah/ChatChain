@@ -3,8 +3,8 @@ n
     paipant ater
     t B as ge(to: Bob, text)
     C-->>A: ok
-    loop every 5s
-        B->>C: getMessages()
+    loop every 5
+        ages()
         C-->>B: new messages
     end
 ```
