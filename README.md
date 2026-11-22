@@ -1,6 +1,5 @@
 n with **Internet
-    U[Browser] -->nternet Identity]
-    U i 
+    U[Browser] 
     paipant A as Alice
     participant C as Canister
     participant B as Bob
