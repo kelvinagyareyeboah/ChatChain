@@ -10,7 +10,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 - [ ] 
 - [x] Us
 - [x] Polling for new messages
-- [ ] Stable storage so data surv
+- [ ] Stable 
 - [ ] Pagination for message history
 - [ ] Message deletion with auth checks
 - [ ] Real online and offline presence
