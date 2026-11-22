@@ -1,8 +1,7 @@
 quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l| Frontend | ![JavaScript](https://img.shields.io/badge/-JavaS1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shield
 | Bundlerconst hos
 > [!IMPORTANT]
-> Mainnet deploys cost cycles. Make sure your cycles wallet is funded 
-
+> Mainnet deploys cost cycles. Make sure your cycle
 > [!WARNING]
 > ChatChain is a l
 | Limit
