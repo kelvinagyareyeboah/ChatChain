@@ -2,12 +2,9 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycles wallet is funded before<summary><b>Run Internet 
-dfx deploy internet_identity --network local
-```
+dfx deploy internet_identity --netwoThen update `index.js` with the local Internet Identity canister ID.
 
-Then update `index.js` with the local Internet Identity canister ID.
-
-</details>
+</
 
 <details>
 <summary><b>Regenerate canister bindings</b></summary>
