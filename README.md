@@ -1,8 +1,7 @@
 n with **Internet
     U[Browser] 
-    paipant as nister
-    t B as Bob
-    A->>C: sendMessage(to: Bob, text)
+    paipant ater
+    t B as ge(to: Bob, text)
     C-->>A: ok
     loop every 5s
         B->>C: getMessages()
