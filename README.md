@@ -8,7 +8,7 @@ git commit -m "Add your featu
 
 Released under the [
 
-<div align="center">
+<div a
 
 <br />
 
