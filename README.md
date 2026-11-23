@@ -5,7 +5,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c. `re enforce this 
 - [x] Polling for n
 - [ ] Pagination for message history
-- [ ] Message deletion with auth checks
+- [ ] Message deletion 
 - [ ] Real online and offline presence
 - [ ] File sharing (metadata on-chain, large files across cani
 
