@@ -8,7 +8,7 @@ git commit -m "Add your feature"
 git push origin feature/your-feature
 ```
 
-Then open a Pull Request.
+Th
 
 ## License
 
