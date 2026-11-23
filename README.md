@@ -3,9 +3,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c. `re enforce this 
-- [x] Polling for n
-      
-- [ ] Messa
+- [x] Pol
 - [ ] File shar
 Contributions are welcome, whether it's a bug fix, a feature, docs, or an idea.
 
