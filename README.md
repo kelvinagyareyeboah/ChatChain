@@ -5,7 +5,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c. `re enforce this 
 - [x] Pol
 - [ ] File shar
-Contributions are welcome, whether it's a bug fix, a feature, doc
+Contributions are welcome, whether it's a b
 
 ```bash
 git checkout -b feature/your-feature
