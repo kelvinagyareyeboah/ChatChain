@@ -5,8 +5,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c. `re enforce this 
 - [x] Polling for n
 - [ ] Pagination for mes
-- [ ] Message deletion 
-- [ ] 
+- [ ] Messa
 - [ ] File sharing (metadata on-chain, large files across cani
 
 Contributions are welcome, whether it's a bug fix, a feature, docs, or an idea.
