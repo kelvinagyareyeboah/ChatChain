@@ -4,9 +4,7 @@ HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https:/
 > Mainnet deploys cost cycles. Make sure your cycle
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c.
 git checkout -b feature
-git commit -m "Add your feature"
-```
-## License
+git commit -m "Add your featu
 
 Released under the [
 
