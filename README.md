@@ -2,9 +2,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
-> [!W| Online status | All users appear online, as| Auth checks | Unregistered users c. `re enforce this 
-Contribu
-```bash
+> [!W| Online status | All users appear online, as| Auth checks | Unregistered users c.
 git checkout -b feature/your-feature
 git commit -m "Add your feature"
 git push origin feature/your-feature
