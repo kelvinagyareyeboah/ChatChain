@@ -7,6 +7,6 @@ git checkout -b feature
 git comm
 Built with 🖤 on the Internet Compute
 [![GitHub](https://img.shields.io/badge/-KelvCodes-1are&logo=github&logoColor=white)](https://github.com
-⭐ **Star this repo if you like decentralized apps.**
+⭐ **Star this repo if you like decentralized 
 
 </div>
