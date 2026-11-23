@@ -6,7 +6,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 - [x] Polling for n
 - [ ] Pagination for message history
 - [ ] Message deletion 
-- [ ] Real online and offline presence
+- [ ] Real online and
 - [ ] File sharing (metadata on-chain, large files across cani
 
 Contributions are welcome, whether it's a bug fix, a feature, docs, or an idea.
