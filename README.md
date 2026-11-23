@@ -1,4 +1,4 @@
-quare) |P](https://ioColor=black) ![HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shield
+ioColor=black) ![HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https://img.shield
 | Bundlerconst hos
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
