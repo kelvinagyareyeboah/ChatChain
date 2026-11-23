@@ -6,12 +6,9 @@ HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https:/
 git checkout -b feature/your-feature
 git commit -m "Add your feature"
 ```
-
-Th
-
 ## License
 
-Released under the [MIT License](LICENSE).
+Released under the [
 
 <div align="center">
 
