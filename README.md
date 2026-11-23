@@ -6,7 +6,7 @@ quare) |P](https://img.shields.io/badge/-Internet_Computer-29ABE2&logo=dfinity&l
 - [x] Polling for n
       
 - [ ] Messa
-- [ ] File sharing (metadata on
+- [ ] File shar
 Contributions are welcome, whether it's a bug fix, a feature, docs, or an idea.
 
 ```bash
