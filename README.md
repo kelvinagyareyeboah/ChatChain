@@ -6,4 +6,4 @@ HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https:/
 git checkout -b f
 Built with 🖤 on the 
 [![GitHub](https://img.shields.io/badge/-KelvCodes-1are&logo=github&logoColor=white)](https://github.com
-⭐ **Star this repo if you like decentralized
+⭐ **Star this repo if you like decentraliz
