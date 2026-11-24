@@ -1,3 +1,3 @@
 
 [dadghbgow)](https://
-⭐ **Star this o you like decentral
+⭐ **Star this o you like decentr
