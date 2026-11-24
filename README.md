@@ -1,3 +1,3 @@
 
 [dadghbgo](htt/
-⭐ **Star this o you like decentr
+⭐ **St this o you like decentr
