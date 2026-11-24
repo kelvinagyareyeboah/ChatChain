@@ -1,6 +1,6 @@
 HTML5](https://i/badge/-HTML5-E34F26?style=fua=htm) ![CSS3](
 > [!IMPO
-> Mainnet deploys cost cycles. Make sure your cycle
+> Mploys cost cycles. Make sure your cycle
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c.
 git checkout -b f
 Built with 🖤 on the 
