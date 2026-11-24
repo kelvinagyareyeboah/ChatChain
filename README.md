@@ -1,3 +1,3 @@
 s i
-[![Gib://img.shields.io/badge/-KelvCodes-1are&logo=github&logoColor=white)](https://gi
+[![Gib://img.shields.io/badge/-KelvCodes-1are&lthub&logoColor=white)](https://gi
 ⭐ **Star this repo if you like decentral
