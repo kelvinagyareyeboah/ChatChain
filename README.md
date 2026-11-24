@@ -1,4 +1,4 @@
-HTML5](https://i/badge/-HTML5-E34F26?style=fua=hS3](
+HTML5](https://i/badge/-HTML5-E34F26?style=fu
 > [!IMPO
 > Mploys cost cycles. Make sure your cycle
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c.
