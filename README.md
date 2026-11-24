@@ -1,5 +1,4 @@
-HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](https
-| Bu
+HTML5](https://i/badge/-HTML5-E34F26?style=flat-square&logo=htm) ![CSS3](
 > [!IMPORTANT]
 > Mainnet deploys cost cycles. Make sure your cycle
 > [!W| Online status | All users appear online, as| Auth checks | Unregistered users c.
