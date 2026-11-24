@@ -1,3 +1,3 @@
 
-[dadghbgo]tt/
+[dadghbgo
 ⭐ **Shis o you like decentr
