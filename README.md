@@ -1,3 +1,3 @@
 
-[dadghbgoColor=white)](https://
+[dadghbgoClor=white)](https://
 ⭐ **Star this o if you like decentral
