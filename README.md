@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.png" alt="ChatC
+<img src="docs/banner.png" alt="Chat
 
 # 💬 ChatChain
 
