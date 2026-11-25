@@ -1,3 +1,3 @@
 
 [dadg
-⭐ *o u like dece
+⭐ *o u like de
