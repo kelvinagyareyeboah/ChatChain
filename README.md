@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/banner.png" a
+<img src="docs/banner.png" 
 
 # 💬 ChatChain
 
