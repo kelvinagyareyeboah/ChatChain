@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/ban
+<img src="docs/ba
 
 # 💬 ChatChain
 
