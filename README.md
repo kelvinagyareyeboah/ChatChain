@@ -1,6 +1,5 @@
 <div align="center">
 
-
 # 💬 ChatChain
 
 **Serverless chat on the Internet Computer.**
